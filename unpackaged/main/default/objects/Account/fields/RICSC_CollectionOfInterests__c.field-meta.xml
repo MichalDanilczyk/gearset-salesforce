@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_CollectionOfInterests__c</fullName>
+        <description>Multi-selection of: client interests and Maison (e.g. Watches JLC)</description>
+        <externalId>false</externalId>
+        <label>Collection Of Interests</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Accessories</fullName>
+                    <default>false</default>
+                    <label>Accessories</label>
+                </value>
+                <value>
+                    <fullName>Antique Pieces</fullName>
+                    <default>false</default>
+                    <label>Antique Pieces</label>
+                </value>
+                <value>
+                    <fullName>Ballet/Opera</fullName>
+                    <default>false</default>
+                    <label>Ballet/Opera</label>
+                </value>
+                <value>
+                    <fullName>Bridal</fullName>
+                    <default>false</default>
+                    <label>Bridal</label>
+                </value>
+                <value>
+                    <fullName>Bridal jewellery</fullName>
+                    <default>false</default>
+                    <label>Bridal jewellery</label>
+                </value>
+                <value>
+                    <fullName>Classic</fullName>
+                    <default>false</default>
+                    <label>Classic</label>
+                </value>
+                <value>
+                    <fullName>Collector</fullName>
+                    <default>false</default>
+                    <label>Collector</label>
+                </value>
+                <value>
+                    <fullName>Complications</fullName>
+                    <default>false</default>
+                    <label>Complications</label>
+                </value>
+                <value>
+                    <fullName>Design/Architecture</fullName>
+                    <default>false</default>
+                    <label>Design/Architecture</label>
+                </value>
+                <value>
+                    <fullName>Drive</fullName>
+                    <default>false</default>
+                    <label>Drive</label>
+                </value>
+                <value>
+                    <fullName>Enameling</fullName>
+                    <default>false</default>
+                    <label>Enameling</label>
+                </value>
+                <value>
+                    <fullName>Engraving</fullName>
+                    <default>false</default>
+                    <label>Engraving</label>
+                </value>
+                <value>
+                    <fullName>Estate Pieces</fullName>
+                    <default>false</default>
+                    <label>Estate Pieces</label>
+                </value>
+                <value>
+                    <fullName>Eyewear</fullName>
+                    <default>false</default>
+                    <label>Eyewear</label>
+                </value>
+                <value>
+                    <fullName>Fashion/Couture</fullName>
+                    <default>false</default>
+                    <label>Fashion/Couture</label>
+                </value>
+                <value>
+                    <fullName>Fine Watchmaking</fullName>
+                    <default>false</default>
+                    <label>Fine Watchmaking</label>
+                </value>
+                <value>
+                    <fullName>Fragrance</fullName>
+                    <default>false</default>
+                    <label>Fragrance</label>
+                </value>
+                <value>
+                    <fullName>Gastronomy/Wine</fullName>
+                    <default>false</default>
+                    <label>Gastronomy/Wine</label>
+                </value>
+                <value>
+                    <fullName>Gem-Setting</fullName>
+                    <default>false</default>
+                    <label>Gem-Setting</label>
+                </value>
+                <value>
+                    <fullName>Generic function</fullName>
+                    <default>false</default>
+                    <label>Generic function</label>
+                </value>
+                <value>
+                    <fullName>Heritage/Craftsmanship</fullName>
+                    <default>false</default>
+                    <label>Heritage/Craftsmanship</label>
+                </value>
+                <value>
+                    <fullName>High Jewellery</fullName>
+                    <default>false</default>
+                    <label>High Jewellery</label>
+                </value>
+                <value>
+                    <fullName>Jewellery</fullName>
+                    <default>false</default>
+                    <label>Jewellery</label>
+                </value>
+                <value>
+                    <fullName>Lady</fullName>
+                    <default>false</default>
+                    <label>Lady</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods</fullName>
+                    <default>false</default>
+                    <label>Leather Goods</label>
+                </value>
+                <value>
+                    <fullName>Limited series</fullName>
+                    <default>false</default>
+                    <label>Limited series</label>
+                </value>
+                <value>
+                    <fullName>Love</fullName>
+                    <default>false</default>
+                    <label>Love</label>
+                </value>
+                <value>
+                    <fullName>Nature/Gardens</fullName>
+                    <default>false</default>
+                    <label>Nature/Gardens</label>
+                </value>
+                <value>
+                    <fullName>New creations</fullName>
+                    <default>false</default>
+                    <label>New creations</label>
+                </value>
+                <value>
+                    <fullName>Pens</fullName>
+                    <default>false</default>
+                    <label>Pens</label>
+                </value>
+                <value>
+                    <fullName>Poetry/Literature</fullName>
+                    <default>false</default>
+                    <label>Poetry/Literature</label>
+                </value>
+                <value>
+                    <fullName>Sport</fullName>
+                    <default>false</default>
+                    <label>Sport</label>
+                </value>
+                <value>
+                    <fullName>Style</fullName>
+                    <default>false</default>
+                    <label>Style</label>
+                </value>
+                <value>
+                    <fullName>Timepieces</fullName>
+                    <default>false</default>
+                    <label>Timepieces</label>
+                </value>
+                <value>
+                    <fullName>Trinity</fullName>
+                    <default>false</default>
+                    <label>Trinity</label>
+                </value>
+                <value>
+                    <fullName>Visuals arts</fullName>
+                    <default>false</default>
+                    <label>Visuals arts</label>
+                </value>
+                <value>
+                    <fullName>Watch icons</fullName>
+                    <default>false</default>
+                    <label>Watch icons</label>
+                </value>
+                <value>
+                    <fullName>Watch services</fullName>
+                    <default>false</default>
+                    <label>Watch services</label>
+                </value>
+                <value>
+                    <fullName>Well-being/Spa</fullName>
+                    <default>false</default>
+                    <label>Well-being/Spa</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+        <visibleLines>4</visibleLines>
+    </CustomField>

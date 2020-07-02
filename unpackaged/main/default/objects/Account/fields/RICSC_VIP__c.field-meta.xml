@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_VIP__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Client categorization based on perceived value</description>
+        <externalId>false</externalId>
+        <label>VIP</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </CustomField>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_RecurringCampaign__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Indicates if it is a recurrent campaign</description>
+        <externalId>false</externalId>
+        <label>Recurring Campaign</label>
+        <type>Checkbox</type>
+    </CustomField>

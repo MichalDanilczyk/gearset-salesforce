@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Referece__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Campaign the activity is linked to</description>
+        <externalId>false</externalId>
+        <label>Referece</label>
+        <referenceTo>Campaign</referenceTo>
+        <relationshipLabel>Activities (Referece)</relationshipLabel>
+        <relationshipName>RICSC_ActivityCampaign</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

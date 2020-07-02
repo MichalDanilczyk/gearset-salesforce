@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>JLC Important clients (IC)</label>
+    <protected>false</protected>
+    <values>
+        <field>FirstSaleFrom__c</field>
+        <value xsi:type="xsd:double">0.0</value>
+    </values>
+    <values>
+        <field>FirstSaleTo__c</field>
+        <value xsi:type="xsd:double">9.99999999E8</value>
+    </values>
+    <values>
+        <field>Flag__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>FrequencyFrom__c</field>
+        <value xsi:type="xsd:double">0.0</value>
+    </values>
+    <values>
+        <field>FrequencyTo__c</field>
+        <value xsi:type="xsd:double">9.99999999E8</value>
+    </values>
+    <values>
+        <field>HighestTurnover__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Maison__c</field>
+        <value xsi:type="xsd:string">RICSC_JaegerLeCoultre</value>
+    </values>
+    <values>
+        <field>Order__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PPFrequencyFrom__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PPFrequencyTo__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PPRecencyFrom__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PPRecencyTo__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PPTurnoverFrom__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PPTurnoverTo__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Potential__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>ProductParameterToExclude__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>ProductParameterToInclude__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>ProductParameter__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>RangeForTotalTurnoverFrom__c</field>
+        <value xsi:type="xsd:double">0.0</value>
+    </values>
+    <values>
+        <field>RangeForTotalTurnoverTo__c</field>
+        <value xsi:type="xsd:double">9.99999999E8</value>
+    </values>
+    <values>
+        <field>RangeTurnoverFrom__c</field>
+        <value xsi:type="xsd:double">0.0</value>
+    </values>
+    <values>
+        <field>RangeTurnoverTo__c</field>
+        <value xsi:type="xsd:double">9.999999999999998E13</value>
+    </values>
+    <values>
+        <field>RecencyFrom__c</field>
+        <value xsi:type="xsd:double">0.0</value>
+    </values>
+    <values>
+        <field>RecencyTo__c</field>
+        <value xsi:type="xsd:double">9.99999999E8</value>
+    </values>
+    <values>
+        <field>Segment__c</field>
+        <value xsi:type="xsd:string">Important clients (IC)</value>
+    </values>
+    <values>
+        <field>TurnoverAllTimeFrom__c</field>
+        <value xsi:type="xsd:double">40000.0</value>
+    </values>
+    <values>
+        <field>TurnoverAllTimeTo__c</field>
+        <value xsi:type="xsd:double">149999.99</value>
+    </values>
+</CustomMetadata>

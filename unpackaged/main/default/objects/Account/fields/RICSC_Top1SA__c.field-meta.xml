@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Top1SA__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>This field retrieves the top sales assistant based on turnover and frequency</description>
+        <externalId>false</externalId>
+        <label>Top 1 SA</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Accounts</relationshipLabel>
+        <relationshipName>Accounts</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Lookup</type>
+    </CustomField>

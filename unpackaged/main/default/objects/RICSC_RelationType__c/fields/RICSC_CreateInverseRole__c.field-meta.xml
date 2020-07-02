@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_CreateInverseRole__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Technical field used to control if automatically in a particular role there should be created inversed relation</description>
+        <externalId>false</externalId>
+        <label>Create Inverse Role</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </CustomField>

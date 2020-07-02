@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Lead Generation --></label>
+        <name>Lead_Generation</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Platform Event Display --></label>
+        <name>Platform_Event_Display</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Cartier CDB --></label>
+        <name>RICSC_CartierCDB</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Jaeger-LeCoultre CDB --></label>
+        <name>RICSC_JaegerLeCoultreCDB</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Van Cleef &amp; Arpels CDB --></label>
+        <name>RICSC_VanCleefArpelsCDB</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Relationship Management --></label>
+        <name>Relationship_Management</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Sales Leadership --></label>
+        <name>Sales_Leadership</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Sales Operations --></label>
+        <name>Sales_Operations</name>
+    </customApplications>
+    <customLabels>
+        <label><!-- Exception_CannotMergeAccount --></label>
+        <name>Exception_CannotMergeAccount</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Exception_InvalidCurrencyIsoCode --></label>
+        <name>Exception_InvalidCurrencyIsoCode</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Platform Event Viewer --></label>
+        <name>Platform_Event_Viewer</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- TAB test --></label>
+        <name>TAB_test</name>
+    </customTabs>
+    <flowDefinitions>
+        <flows>
+            <choices>
+                <name>S_63b874b3_6311_4093_bdbb_a249169a7198</name>
+            </choices>
+            <choices>
+                <name>S_a8b3087e_144a_4dc6_89a5_7e9d4882926b</name>
+            </choices>
+            <choices>
+                <name>S_35043600_be5a_46c3_854a_f0090929f099</name>
+            </choices>
+            <choices>
+                <name>S_e5a231a6_cdb6_4ea4_8c21_2810534e47d6</name>
+            </choices>
+            <choices>
+                <name>S_fc0a8d17_1832_4c52_b1af_de8efa4f9acb</name>
+            </choices>
+            <fullName>customer_satisfaction-1</fullName>
+            <screens>
+                <fields>
+                    <name>S_a3ee6361_cf59_4406_bbf0_f35b47bc486c</name>
+                </fields>
+                <fields>
+                    <name>S_c0fdec40_072f_44c1_b205_b2d770da4dea</name>
+                </fields>
+                <name>surveyQuestionPage</name>
+            </screens>
+        </flows>
+        <fullName>customer_satisfaction</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <fullName>CreateConsentPlatformEvent-2</fullName>
+        </flows>
+        <fullName>CreateConsentPlatformEvent</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <fullName>net_promoter_score-1</fullName>
+            <screens>
+                <fields>
+                    <name>S_6b86f024_b85a_4f80_bbed_33a562d2c661</name>
+                </fields>
+                <fields>
+                    <name>S_ca11af27_6c10_4e5b_b1a6_b751c7a3a71e</name>
+                </fields>
+                <name>surveyQuestionPage</name>
+            </screens>
+        </flows>
+        <fullName>net_promoter_score</fullName>
+    </flowDefinitions>
+    <quickActions>
+        <label><!-- Follow Up --></label>
+        <name>Follow_Up</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Guest Community Case --></label>
+        <name>GuestCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Community Case --></label>
+        <name>NewCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</Translations>

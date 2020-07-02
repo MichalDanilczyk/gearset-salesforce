@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>RICSC_CountryChinaMaisonCAR</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If Country of Origin = China
+
+If RICSC_Maison__c = Cartier
+
+-&gt;Share with Role= CAR CRM China</description>
+        <label>CountryChinaMaisonCAR</label>
+        <sharedTo>
+            <role>RICSC_CARCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_CountryofOrigin__c</field>
+            <operation>equals</operation>
+            <value>China</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_HighJewelleryClient__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_CountryChinaMaisonJLC</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If Country of Origin = China
+
+If RICSC_Maison__c = Jaeger Le Coultre
+
+-&gt;Share with Role= JLC CRM China</description>
+        <label>CountryChinaMaisonJLC</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_CountryofOrigin__c</field>
+            <operation>equals</operation>
+            <value>China</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_VIP__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_CountryChinaMaisonVCA</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If Country of Origin = China
+
+If RICSC_Maison__c = Van Cleef &amp; Arpels
+
+-&gt;Share with Role= VCA CRM China</description>
+        <label>CountryChinaMaisonVCA</label>
+        <sharedTo>
+            <role>RICSC_VCACRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_CountryofOrigin__c</field>
+            <operation>equals</operation>
+            <value>China</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonCARWorld</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If RICSC_Maison__c = Cartier
+
+-&gt; Share with a Role= CAR CRM World</description>
+        <label>MaisonCARWorld</label>
+        <sharedTo>
+            <role>RICSC_CARCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_HighJewelleryClient__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCHQ</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If RICSC_Maison__c  = Jaeger Le Coultre
+
+-&gt;Share with Role= JLC CRM HQ</description>
+        <label>MaisonJLCHQ</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMHQ</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCNoVIPWorld</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If RICSC_Maison__c = Jaeger Le Coultres
+
+If VIP = false
+
+-&gt;Share with Role= JLC CRM World</description>
+        <label>MaisonJLCNoVIPWorld</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_VIP__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonVCAHQ</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If RICSC_Maison__c  = Van Cleef &amp; Arpeels
+
+-&gt;Share with Role= VCA CRM HQ</description>
+        <label>MaisonVCAHQ</label>
+        <sharedTo>
+            <role>RICSC_VCACRMHQ</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonVCANoVIPNonChina</fullName>
+        <accessLevel>Read</accessLevel>
+        <description>If RICSC_Maison__c = Van Cleef &amp; Arpeels
+
+If VIP = false
+
+-&gt;Share with Role= VCA CRM NonChina</description>
+        <label>MaisonVCANoVIPNonChina</label>
+        <sharedTo>
+            <group>RICSC_VCACRMNonChinaRoles</group>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_VIP__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

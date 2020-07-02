@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ActivityType__c</fullName>
+        <description>Type of Activity</description>
+        <externalId>false</externalId>
+        <label>Activity Type</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>After Sales</fullName>
+                    <default>false</default>
+                    <label>After Sales</label>
+                </value>
+                <value>
+                    <fullName>Almoço/ Jantar</fullName>
+                    <default>false</default>
+                    <label>Almoço/ Jantar</label>
+                </value>
+                <value>
+                    <fullName>Anniversary Gift</fullName>
+                    <default>false</default>
+                    <label>Anniversary Gift</label>
+                </value>
+                <value>
+                    <fullName>ZZ00</fullName>
+                    <default>false</default>
+                    <label>Appointment test</label>
+                </value>
+                <value>
+                    <fullName>Asistencia Evento</fullName>
+                    <default>false</default>
+                    <label>Asistencia Evento</label>
+                </value>
+                <value>
+                    <fullName>Birthday Gift</fullName>
+                    <default>false</default>
+                    <label>Birthday Gift</label>
+                </value>
+                <value>
+                    <fullName>Books And Catalogues</fullName>
+                    <default>false</default>
+                    <label>Books And Catalogues</label>
+                </value>
+                <value>
+                    <fullName>ZACA</fullName>
+                    <default>false</default>
+                    <label>Boutique Appointment</label>
+                </value>
+                <value>
+                    <fullName>Z018</fullName>
+                    <default>false</default>
+                    <label>Boutique Clienteling</label>
+                </value>
+                <value>
+                    <fullName>Z004</fullName>
+                    <default>false</default>
+                    <label>Call</label>
+                </value>
+                <value>
+                    <fullName>Campaign</fullName>
+                    <default>false</default>
+                    <label>Campaign</label>
+                </value>
+                <value>
+                    <fullName>Cartier Events</fullName>
+                    <default>false</default>
+                    <label>Cartier Events</label>
+                </value>
+                <value>
+                    <fullName>Casual Lunch Or Dinner</fullName>
+                    <default>false</default>
+                    <label>Casual Lunch Or Dinner</label>
+                </value>
+                <value>
+                    <fullName>Catalog Request</fullName>
+                    <default>false</default>
+                    <label>Catalog Request</label>
+                </value>
+                <value>
+                    <fullName>Chocolate Box</fullName>
+                    <default>false</default>
+                    <label>Chocolate Box</label>
+                </value>
+                <value>
+                    <fullName>Cle Contacts</fullName>
+                    <default>false</default>
+                    <label>Cle Contacts</label>
+                </value>
+                <value>
+                    <fullName>Clientela</fullName>
+                    <default>false</default>
+                    <label>Clientela</label>
+                </value>
+                <value>
+                    <fullName>ZCCA</fullName>
+                    <default>false</default>
+                    <label>Contact Record</label>
+                </value>
+                <value>
+                    <fullName>Convite</fullName>
+                    <default>false</default>
+                    <label>Convite</label>
+                </value>
+                <value>
+                    <fullName>Z016</fullName>
+                    <default>false</default>
+                    <label>Corp. CRM program</label>
+                </value>
+                <value>
+                    <fullName>Z006</fullName>
+                    <default>false</default>
+                    <label>Corporate E-Mail</label>
+                </value>
+                <value>
+                    <fullName>Z014</fullName>
+                    <default>false</default>
+                    <label>Corporate Event</label>
+                </value>
+                <value>
+                    <fullName>Z011</fullName>
+                    <default>false</default>
+                    <label>Corporate Gift</label>
+                </value>
+                <value>
+                    <fullName>Z012</fullName>
+                    <default>false</default>
+                    <label>Corporate Invitation</label>
+                </value>
+                <value>
+                    <fullName>Z001</fullName>
+                    <default>false</default>
+                    <label>Corporate Mail</label>
+                </value>
+                <value>
+                    <fullName>Z013</fullName>
+                    <default>false</default>
+                    <label>Corporate Service</label>
+                </value>
+                <value>
+                    <fullName>Z015</fullName>
+                    <default>false</default>
+                    <label>Corporate Survey</label>
+                </value>
+                <value>
+                    <fullName>Crm Chocolates</fullName>
+                    <default>false</default>
+                    <label>Crm Chocolates</label>
+                </value>
+                <value>
+                    <fullName>Crm Gifts</fullName>
+                    <default>false</default>
+                    <label>Crm Gifts</label>
+                </value>
+                <value>
+                    <fullName>Dinner And Lunch</fullName>
+                    <default>false</default>
+                    <label>Dinner And Lunch</label>
+                </value>
+                <value>
+                    <fullName>ZDUM</fullName>
+                    <default>false</default>
+                    <label>Dumy Act for CG</label>
+                </value>
+                <value>
+                    <fullName>Ecommerce</fullName>
+                    <default>false</default>
+                    <label>Ecommerce</label>
+                </value>
+                <value>
+                    <fullName>Z005</fullName>
+                    <default>false</default>
+                    <label>E-Mail</label>
+                </value>
+                <value>
+                    <fullName>E-Mail From Boutique</fullName>
+                    <default>false</default>
+                    <label>E-Mail From Boutique</label>
+                </value>
+                <value>
+                    <fullName>Entregado En Boutique</fullName>
+                    <default>false</default>
+                    <label>Entregado En Boutique</label>
+                </value>
+                <value>
+                    <fullName>Envio De Carta</fullName>
+                    <default>false</default>
+                    <label>Envio De Carta</label>
+                </value>
+                <value>
+                    <fullName>Envio De Catálogo</fullName>
+                    <default>false</default>
+                    <label>Envio De Catálogo</label>
+                </value>
+                <value>
+                    <fullName>Envio De E-Mail</fullName>
+                    <default>false</default>
+                    <label>Envio De E-Mail</label>
+                </value>
+                <value>
+                    <fullName>Envio De Flores</fullName>
+                    <default>false</default>
+                    <label>Envio De Flores</label>
+                </value>
+                <value>
+                    <fullName>Envio De Livro</fullName>
+                    <default>false</default>
+                    <label>Envio De Livro</label>
+                </value>
+                <value>
+                    <fullName>Envio De Presente</fullName>
+                    <default>false</default>
+                    <label>Envio De Presente</label>
+                </value>
+                <value>
+                    <fullName>Z002</fullName>
+                    <default>false</default>
+                    <label>Event</label>
+                </value>
+                <value>
+                    <fullName>Event Invitation</fullName>
+                    <default>false</default>
+                    <label>Event Invitation</label>
+                </value>
+                <value>
+                    <fullName>Eventos Cartier</fullName>
+                    <default>false</default>
+                    <label>Eventos Cartier</label>
+                </value>
+                <value>
+                    <fullName>Flowers</fullName>
+                    <default>false</default>
+                    <label>Flowers</label>
+                </value>
+                <value>
+                    <fullName>Future Contact</fullName>
+                    <default>false</default>
+                    <label>Future Contact</label>
+                </value>
+                <value>
+                    <fullName>General Inquiry</fullName>
+                    <default>false</default>
+                    <label>General Inquiry</label>
+                </value>
+                <value>
+                    <fullName>Z007</fullName>
+                    <default>false</default>
+                    <label>Gift</label>
+                </value>
+                <value>
+                    <fullName>Goal Contacts</fullName>
+                    <default>false</default>
+                    <label>Goal Contacts</label>
+                </value>
+                <value>
+                    <fullName>High Potential After Care Service</fullName>
+                    <default>false</default>
+                    <label>High Potential After Care Service</label>
+                </value>
+                <value>
+                    <fullName>ZECA</fullName>
+                    <default>false</default>
+                    <label>Init. Phys. Mail/Cat</label>
+                </value>
+                <value>
+                    <fullName>Z008</fullName>
+                    <default>false</default>
+                    <label>Invitation</label>
+                </value>
+                <value>
+                    <fullName>Letter From Boutique</fullName>
+                    <default>false</default>
+                    <label>Letter From Boutique</label>
+                </value>
+                <value>
+                    <fullName>Letter From Office</fullName>
+                    <default>false</default>
+                    <label>Letter From Office</label>
+                </value>
+                <value>
+                    <fullName>Llamada De La Boutique</fullName>
+                    <default>false</default>
+                    <label>Llamada De La Boutique</label>
+                </value>
+                <value>
+                    <fullName>Low Potential After Care Service</fullName>
+                    <default>false</default>
+                    <label>Low Potential After Care Service</label>
+                </value>
+                <value>
+                    <fullName>Z010</fullName>
+                    <default>false</default>
+                    <label>Mail</label>
+                </value>
+                <value>
+                    <fullName>Mail De La Boutique</fullName>
+                    <default>false</default>
+                    <label>Mail De La Boutique</label>
+                </value>
+                <value>
+                    <fullName>Mailers</fullName>
+                    <default>false</default>
+                    <label>Mailers</label>
+                </value>
+                <value>
+                    <fullName>Missing Long Label</fullName>
+                    <default>false</default>
+                    <label>Missing Long Label</label>
+                </value>
+                <value>
+                    <fullName>National Day</fullName>
+                    <default>false</default>
+                    <label>National Day</label>
+                </value>
+                <value>
+                    <fullName>Network</fullName>
+                    <default>false</default>
+                    <label>Network</label>
+                </value>
+                <value>
+                    <fullName>Ocasião Especial</fullName>
+                    <default>false</default>
+                    <label>Ocasião Especial</label>
+                </value>
+                <value>
+                    <fullName>Opportunity List</fullName>
+                    <default>false</default>
+                    <label>Opportunity List</label>
+                </value>
+                <value>
+                    <fullName>Opportunity Lists Contact</fullName>
+                    <default>false</default>
+                    <label>Opportunity Lists Contact</label>
+                </value>
+                <value>
+                    <fullName>Other Entertainments</fullName>
+                    <default>false</default>
+                    <label>Other Entertainments</label>
+                </value>
+                <value>
+                    <fullName>Other Events</fullName>
+                    <default>false</default>
+                    <label>Other Events</label>
+                </value>
+                <value>
+                    <fullName>Other Gifts</fullName>
+                    <default>false</default>
+                    <label>Other Gifts</label>
+                </value>
+                <value>
+                    <fullName>Z017</fullName>
+                    <default>false</default>
+                    <label>Others</label>
+                </value>
+                <value>
+                    <fullName>Z003</fullName>
+                    <default>false</default>
+                    <label>Outgoing Call</label>
+                </value>
+                <value>
+                    <fullName>ZPCA</fullName>
+                    <default>false</default>
+                    <label>Outgoing Phone Call</label>
+                </value>
+                <value>
+                    <fullName>Outros Eventos</fullName>
+                    <default>false</default>
+                    <label>Outros Eventos</label>
+                </value>
+                <value>
+                    <fullName>Page Boy</fullName>
+                    <default>false</default>
+                    <label>Page Boy</label>
+                </value>
+                <value>
+                    <fullName>Personalized Greeting Cards</fullName>
+                    <default>false</default>
+                    <label>Personalized Greeting Cards</label>
+                </value>
+                <value>
+                    <fullName>Phone Call</fullName>
+                    <default>false</default>
+                    <label>Phone Call</label>
+                </value>
+                <value>
+                    <fullName>Phone Call From Boutique</fullName>
+                    <default>false</default>
+                    <label>Phone Call From Boutique</label>
+                </value>
+                <value>
+                    <fullName>Phone Call From Client</fullName>
+                    <default>false</default>
+                    <label>Phone Call From Client</label>
+                </value>
+                <value>
+                    <fullName>Private Viewing</fullName>
+                    <default>false</default>
+                    <label>Private Viewing</label>
+                </value>
+                <value>
+                    <fullName>Product</fullName>
+                    <default>false</default>
+                    <label>Product</label>
+                </value>
+                <value>
+                    <fullName>Programa De Fidelidad</fullName>
+                    <default>false</default>
+                    <label>Programa De Fidelidad</label>
+                </value>
+                <value>
+                    <fullName>ZBAC</fullName>
+                    <default>false</default>
+                    <label>RC Contact Record</label>
+                </value>
+                <value>
+                    <fullName>Regalo Aniversario</fullName>
+                    <default>false</default>
+                    <label>Regalo Aniversario</label>
+                </value>
+                <value>
+                    <fullName>Regalo Cumpleaños</fullName>
+                    <default>false</default>
+                    <label>Regalo Cumpleaños</label>
+                </value>
+                <value>
+                    <fullName>Regalo De Navidad 2013</fullName>
+                    <default>false</default>
+                    <label>Regalo De Navidad 2013</label>
+                </value>
+                <value>
+                    <fullName>Regalo De Navidad 2014</fullName>
+                    <default>false</default>
+                    <label>Regalo De Navidad 2014</label>
+                </value>
+                <value>
+                    <fullName>Regalo De Navidad 2015</fullName>
+                    <default>false</default>
+                    <label>Regalo De Navidad 2015</label>
+                </value>
+                <value>
+                    <fullName>Regalo De Navidad 2016</fullName>
+                    <default>false</default>
+                    <label>Regalo De Navidad 2016</label>
+                </value>
+                <value>
+                    <fullName>Regalo De Navidad 2017</fullName>
+                    <default>false</default>
+                    <label>Regalo De Navidad 2017</label>
+                </value>
+                <value>
+                    <fullName>Regalo Dia De La Madre</fullName>
+                    <default>false</default>
+                    <label>Regalo Dia De La Madre</label>
+                </value>
+                <value>
+                    <fullName>Sales Policy &amp; Other Services</fullName>
+                    <default>false</default>
+                    <label>Sales Policy &amp; Other Services</label>
+                </value>
+                <value>
+                    <fullName>ZINT</fullName>
+                    <default>false</default>
+                    <label>Send to Emailing Tool</label>
+                </value>
+                <value>
+                    <fullName>Z009</fullName>
+                    <default>false</default>
+                    <label>Service</label>
+                </value>
+                <value>
+                    <fullName>Special Occasion Treatment</fullName>
+                    <default>false</default>
+                    <label>Special Occasion Treatment</label>
+                </value>
+                <value>
+                    <fullName>Telefonema Da Boutique</fullName>
+                    <default>false</default>
+                    <label>Telefonema Da Boutique</label>
+                </value>
+                <value>
+                    <fullName>Vca - Gifts</fullName>
+                    <default>false</default>
+                    <label>Vca - Gifts</label>
+                </value>
+                <value>
+                    <fullName>Vca - Monthly Birthday Opportunity List</fullName>
+                    <default>false</default>
+                    <label>Vca - Monthly Birthday Opportunity List</label>
+                </value>
+                <value>
+                    <fullName>Vca - New Clients And Prospects</fullName>
+                    <default>false</default>
+                    <label>Vca - New Clients And Prospects</label>
+                </value>
+                <value>
+                    <fullName>Vca - Opportunity List</fullName>
+                    <default>false</default>
+                    <label>Vca - Opportunity List</label>
+                </value>
+                <value>
+                    <fullName>Vca - Social Messaging</fullName>
+                    <default>false</default>
+                    <label>Vca - Social Messaging</label>
+                </value>
+                <value>
+                    <fullName>Vca - Special Occasion</fullName>
+                    <default>false</default>
+                    <label>Vca - Special Occasion</label>
+                </value>
+                <value>
+                    <fullName>Visit In The Boutique</fullName>
+                    <default>false</default>
+                    <label>Visit In The Boutique</label>
+                </value>
+                <value>
+                    <fullName>Visit To Boutique</fullName>
+                    <default>false</default>
+                    <label>Visit To Boutique</label>
+                </value>
+                <value>
+                    <fullName>Whatsapp Communication</fullName>
+                    <default>false</default>
+                    <label>Whatsapp Communication</label>
+                </value>
+                <value>
+                    <fullName>Whatsapp Messages</fullName>
+                    <default>false</default>
+                    <label>Whatsapp Messages</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

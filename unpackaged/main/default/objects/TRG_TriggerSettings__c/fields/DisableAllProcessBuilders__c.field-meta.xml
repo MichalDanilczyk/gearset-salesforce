@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>DisableAllProcessBuilders__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>If true, all process builders managed by the Trigger Framework are skipped for all objects</description>
+        <externalId>false</externalId>
+        <inlineHelpText>if true, all process builders managed by the Trigger Framework are skipped for all objects</inlineHelpText>
+        <label>DisableAllProcessBuilders</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </CustomField>

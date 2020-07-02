@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_FlagManual__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Techical field, coming from the integration systems to reflect the fact that the Reference SA and Reference BTQ are not following the automatic assigment but have been manually overwritten.</description>
+        <externalId>false</externalId>
+        <label>Flag Manual</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </CustomField>

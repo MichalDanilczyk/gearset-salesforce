@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>Logger_ExceptionEnabled__c</fullName>
+        <defaultValue>true</defaultValue>
+        <description>If true enables storing of Exception Application Log records</description>
+        <externalId>false</externalId>
+        <label>Logger Exception Enabled</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </CustomField>

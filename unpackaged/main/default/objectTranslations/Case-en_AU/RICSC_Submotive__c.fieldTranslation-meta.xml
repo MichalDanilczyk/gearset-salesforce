@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Submotive --></label>
+        <name>RICSC_Submotive__c</name>
+        <picklistValues>
+            <masterLabel>Assisted phone order</masterLabel>
+            <translation><!-- Assisted phone order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Authenticity</masterLabel>
+            <translation><!-- Authenticity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique appointment</masterLabel>
+            <translation><!-- Boutique appointment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique information</masterLabel>
+            <translation><!-- Boutique information --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal</masterLabel>
+            <translation><!-- Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Buy back</masterLabel>
+            <translation><!-- Buy back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Characteristics</masterLabel>
+            <translation><!-- Characteristics --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client data update</masterLabel>
+            <translation><!-- Client data update --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Collaboration / endorsement requests</masterLabel>
+            <translation><!-- Collaboration / endorsement requests --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commercial offer</masterLabel>
+            <translation><!-- Commercial offer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Delivery</masterLabel>
+            <translation><!-- Complaint - Delivery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Extra services</masterLabel>
+            <translation><!-- Complaint - Extra services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Product Quality</masterLabel>
+            <translation><!-- Complaint - Product Quality --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - delivery delay</masterLabel>
+            <translation><!-- Complaint - delivery delay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - network services / behaviour</masterLabel>
+            <translation><!-- Complaint - network services / behaviour --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - return/exchange</masterLabel>
+            <translation><!-- Complaint - return/exchange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint-Cost of service</masterLabel>
+            <translation><!-- Complaint-Cost of service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint-Repair duration</masterLabel>
+            <translation><!-- Complaint-Repair duration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint-Repeat repair</masterLabel>
+            <translation><!-- Complaint-Repeat repair --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Conditions of Sales</masterLabel>
+            <translation><!-- Conditions of Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cost estimate</masterLabel>
+            <translation><!-- Cost estimate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Counterfeit reported</masterLabel>
+            <translation><!-- Counterfeit reported --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delivery follow-up</masterLabel>
+            <translation><!-- Delivery follow-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Detax</masterLabel>
+            <translation><!-- Detax --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Digital</masterLabel>
+            <translation><!-- Digital --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Direct shipment advice</masterLabel>
+            <translation><!-- Direct shipment advice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Estimate approval</masterLabel>
+            <translation><!-- Estimate approval --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Estimate rejection</masterLabel>
+            <translation><!-- Estimate rejection --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Extract of Archives</masterLabel>
+            <translation><!-- Extract of Archives --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Human resources</masterLabel>
+            <translation><!-- Human resources --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internal testing</masterLabel>
+            <translation><!-- Internal testing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery</masterLabel>
+            <translation><!-- Jewellery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Limited / temporary</masterLabel>
+            <translation><!-- Limited / temporary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manufacture / museum visit</masterLabel>
+            <translation><!-- Manufacture / museum visit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-product / corporate catalogue</masterLabel>
+            <translation><!-- Multi-product / corporate catalogue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Negative comment</masterLabel>
+            <translation><!-- Negative comment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New phone order</masterLabel>
+            <translation><!-- New phone order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New return / exchange</masterLabel>
+            <translation><!-- New return / exchange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Order status</masterLabel>
+            <translation><!-- Order status --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Payment status</masterLabel>
+            <translation><!-- Payment status --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Positive comment</masterLabel>
+            <translation><!-- Positive comment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Price and/or availability</masterLabel>
+            <translation><!-- Price and/or availability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product Maintenance instructions</masterLabel>
+            <translation><!-- Product Maintenance instructions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Promotional materials / samples</masterLabel>
+            <translation><!-- Promotional materials / samples --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Repair status/Leadtime</masterLabel>
+            <translation><!-- Repair status/Leadtime --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Return / exchange follow-up</masterLabel>
+            <translation><!-- Return / exchange follow-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SK: Standard pick-up</masterLabel>
+            <translation><!-- SK: Standard pick-up --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SK: special servicess</masterLabel>
+            <translation><!-- SK: special servicess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service Advice</masterLabel>
+            <translation><!-- Service Advice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service starting price</masterLabel>
+            <translation><!-- Service starting price --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shipping kit request</masterLabel>
+            <translation><!-- Shipping kit request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spare Parts</masterLabel>
+            <translation><!-- Spare Parts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sponsorship/Charity</masterLabel>
+            <translation><!-- Sponsorship/Charity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thank you / compliment</masterLabel>
+            <translation><!-- Thank you / compliment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Theft/Loss</masterLabel>
+            <translation><!-- Theft/Loss --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transfer  to  Internal Staff</masterLabel>
+            <translation><!-- Transfer  to  Internal Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transfer to Boutique</masterLabel>
+            <translation><!-- Transfer to Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valuation</masterLabel>
+            <translation><!-- Valuation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Waiting list</masterLabel>
+            <translation><!-- Waiting list --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Waiting list new catalogue</masterLabel>
+            <translation><!-- Waiting list new catalogue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch</masterLabel>
+            <translation><!-- Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Website issue / error</masterLabel>
+            <translation><!-- Website issue / error --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Writing instruments</masterLabel>
+            <translation><!-- Writing instruments --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

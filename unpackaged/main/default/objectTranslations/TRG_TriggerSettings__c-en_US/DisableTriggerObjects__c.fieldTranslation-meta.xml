@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- List of newline separated fully specified object names to skip during trigger execution --></help>
+        <label><!-- DisableTriggerObjects --></label>
+        <name>DisableTriggerObjects__c</name>
+    </CustomFieldTranslation>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Submotive__c</fullName>
+        <description>Ticket sub-reason</description>
+        <externalId>false</externalId>
+        <label>Submotive</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <controllingField>Reason</controllingField>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Assisted phone order</fullName>
+                    <default>false</default>
+                    <label>Assisted phone order</label>
+                </value>
+                <value>
+                    <fullName>Authenticity</fullName>
+                    <default>false</default>
+                    <label>Authenticity</label>
+                </value>
+                <value>
+                    <fullName>Boutique appointment</fullName>
+                    <default>false</default>
+                    <label>Boutique appointment</label>
+                </value>
+                <value>
+                    <fullName>Boutique information</fullName>
+                    <default>false</default>
+                    <label>Boutique information</label>
+                </value>
+                <value>
+                    <fullName>Bridal</fullName>
+                    <default>false</default>
+                    <label>Bridal</label>
+                </value>
+                <value>
+                    <fullName>Buy back</fullName>
+                    <default>false</default>
+                    <label>Buy back</label>
+                </value>
+                <value>
+                    <fullName>Characteristics</fullName>
+                    <default>false</default>
+                    <label>Characteristics</label>
+                </value>
+                <value>
+                    <fullName>Client data update</fullName>
+                    <default>false</default>
+                    <label>Client data update</label>
+                </value>
+                <value>
+                    <fullName>Collaboration / endorsement requests</fullName>
+                    <default>false</default>
+                    <label>Collaboration / endorsement requests</label>
+                </value>
+                <value>
+                    <fullName>Commercial offer</fullName>
+                    <default>false</default>
+                    <label>Commercial offer</label>
+                </value>
+                <value>
+                    <fullName>Complaint-Cost of service</fullName>
+                    <default>false</default>
+                    <label>Complaint-Cost of service</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Delivery</fullName>
+                    <default>false</default>
+                    <label>Complaint - Delivery</label>
+                </value>
+                <value>
+                    <fullName>Complaint - delivery delay</fullName>
+                    <default>false</default>
+                    <label>Complaint - delivery delay</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Extra services</fullName>
+                    <default>false</default>
+                    <label>Complaint - Extra services</label>
+                </value>
+                <value>
+                    <fullName>Complaint - network services / behaviour</fullName>
+                    <default>false</default>
+                    <label>Complaint - network services / behaviour</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Product Quality</fullName>
+                    <default>false</default>
+                    <label>Complaint - Product Quality</label>
+                </value>
+                <value>
+                    <fullName>Complaint-Repair duration</fullName>
+                    <default>false</default>
+                    <label>Complaint-Repair duration</label>
+                </value>
+                <value>
+                    <fullName>Complaint-Repeat repair</fullName>
+                    <default>false</default>
+                    <label>Complaint-Repeat repair</label>
+                </value>
+                <value>
+                    <fullName>Complaint - return/exchange</fullName>
+                    <default>false</default>
+                    <label>Complaint - return/exchange</label>
+                </value>
+                <value>
+                    <fullName>Conditions of Sales</fullName>
+                    <default>false</default>
+                    <label>Conditions of Sales</label>
+                </value>
+                <value>
+                    <fullName>Cost estimate</fullName>
+                    <default>false</default>
+                    <label>Cost estimate</label>
+                </value>
+                <value>
+                    <fullName>Counterfeit reported</fullName>
+                    <default>false</default>
+                    <label>Counterfeit reported</label>
+                </value>
+                <value>
+                    <fullName>Delivery follow-up</fullName>
+                    <default>false</default>
+                    <label>Delivery follow-up</label>
+                </value>
+                <value>
+                    <fullName>Detax</fullName>
+                    <default>false</default>
+                    <label>Detax</label>
+                </value>
+                <value>
+                    <fullName>Digital</fullName>
+                    <default>false</default>
+                    <label>Digital</label>
+                </value>
+                <value>
+                    <fullName>Direct shipment advice</fullName>
+                    <default>false</default>
+                    <label>Direct shipment advice</label>
+                </value>
+                <value>
+                    <fullName>Estimate approval</fullName>
+                    <default>false</default>
+                    <label>Estimate approval</label>
+                </value>
+                <value>
+                    <fullName>Estimate rejection</fullName>
+                    <default>false</default>
+                    <label>Estimate rejection</label>
+                </value>
+                <value>
+                    <fullName>Extract of Archives</fullName>
+                    <default>false</default>
+                    <label>Extract of Archives</label>
+                </value>
+                <value>
+                    <fullName>Human resources</fullName>
+                    <default>false</default>
+                    <label>Human resources</label>
+                </value>
+                <value>
+                    <fullName>Internal testing</fullName>
+                    <default>false</default>
+                    <label>Internal testing</label>
+                </value>
+                <value>
+                    <fullName>Jewellery</fullName>
+                    <default>false</default>
+                    <label>Jewellery</label>
+                </value>
+                <value>
+                    <fullName>Limited / temporary</fullName>
+                    <default>false</default>
+                    <label>Limited / temporary</label>
+                </value>
+                <value>
+                    <fullName>Manufacture / museum visit</fullName>
+                    <default>false</default>
+                    <label>Manufacture / museum visit</label>
+                </value>
+                <value>
+                    <fullName>Multi-product / corporate catalogue</fullName>
+                    <default>false</default>
+                    <label>Multi-product / corporate catalogue</label>
+                </value>
+                <value>
+                    <fullName>Negative comment</fullName>
+                    <default>false</default>
+                    <label>Negative comment</label>
+                </value>
+                <value>
+                    <fullName>New phone order</fullName>
+                    <default>false</default>
+                    <label>New phone order</label>
+                </value>
+                <value>
+                    <fullName>New return / exchange</fullName>
+                    <default>false</default>
+                    <label>New return / exchange</label>
+                </value>
+                <value>
+                    <fullName>Order status</fullName>
+                    <default>false</default>
+                    <label>Order status</label>
+                </value>
+                <value>
+                    <fullName>Payment status</fullName>
+                    <default>false</default>
+                    <label>Payment status</label>
+                </value>
+                <value>
+                    <fullName>Positive comment</fullName>
+                    <default>false</default>
+                    <label>Positive comment</label>
+                </value>
+                <value>
+                    <fullName>Price and/or availability</fullName>
+                    <default>false</default>
+                    <label>Price and/or availability</label>
+                </value>
+                <value>
+                    <fullName>Product Maintenance instructions</fullName>
+                    <default>false</default>
+                    <label>Product Maintenance instructions</label>
+                </value>
+                <value>
+                    <fullName>Promotional materials / samples</fullName>
+                    <default>false</default>
+                    <label>Promotional materials / samples</label>
+                </value>
+                <value>
+                    <fullName>Repair status/Leadtime</fullName>
+                    <default>false</default>
+                    <label>Repair status/Leadtime</label>
+                </value>
+                <value>
+                    <fullName>Return / exchange follow-up</fullName>
+                    <default>false</default>
+                    <label>Return / exchange follow-up</label>
+                </value>
+                <value>
+                    <fullName>Service Advice</fullName>
+                    <default>false</default>
+                    <label>Service Advice</label>
+                </value>
+                <value>
+                    <fullName>Service starting price</fullName>
+                    <default>false</default>
+                    <label>Service starting price</label>
+                </value>
+                <value>
+                    <fullName>Shipping kit request</fullName>
+                    <default>false</default>
+                    <label>Shipping kit request</label>
+                </value>
+                <value>
+                    <fullName>SK: special servicess</fullName>
+                    <default>false</default>
+                    <label>SK: special servicess</label>
+                </value>
+                <value>
+                    <fullName>SK: Standard pick-up</fullName>
+                    <default>false</default>
+                    <label>SK: Standard pick-up</label>
+                </value>
+                <value>
+                    <fullName>Spare Parts</fullName>
+                    <default>false</default>
+                    <label>Spare Parts</label>
+                </value>
+                <value>
+                    <fullName>Sponsorship/Charity</fullName>
+                    <default>false</default>
+                    <label>Sponsorship/Charity</label>
+                </value>
+                <value>
+                    <fullName>Thank you / compliment</fullName>
+                    <default>false</default>
+                    <label>Thank you / compliment</label>
+                </value>
+                <value>
+                    <fullName>Theft/Loss</fullName>
+                    <default>false</default>
+                    <label>Theft/Loss</label>
+                </value>
+                <value>
+                    <fullName>Transfer to Boutique</fullName>
+                    <default>false</default>
+                    <label>Transfer to Boutique</label>
+                </value>
+                <value>
+                    <fullName>Transfer  to  Internal Staff</fullName>
+                    <default>false</default>
+                    <label>Transfer  to  Internal Staff</label>
+                </value>
+                <value>
+                    <fullName>Valuation</fullName>
+                    <default>false</default>
+                    <label>Valuation</label>
+                </value>
+                <value>
+                    <fullName>Waiting list</fullName>
+                    <default>false</default>
+                    <label>Waiting list</label>
+                </value>
+                <value>
+                    <fullName>Waiting list new catalogue</fullName>
+                    <default>false</default>
+                    <label>Waiting list new catalogue</label>
+                </value>
+                <value>
+                    <fullName>Watch</fullName>
+                    <default>false</default>
+                    <label>Watch</label>
+                </value>
+                <value>
+                    <fullName>Website issue / error</fullName>
+                    <default>false</default>
+                    <label>Website issue / error</label>
+                </value>
+                <value>
+                    <fullName>Writing instruments</fullName>
+                    <default>false</default>
+                    <label>Writing instruments</label>
+                </value>
+            </valueSetDefinition>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Client data update</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Collaboration / endorsement requests</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Commercial offer</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Human resources</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Internal testing</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Promotional materials / samples</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Sponsorship/Charity</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Thank you / compliment</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>General Inquiry</controllingFieldValue>
+                <valueName>Website issue / error</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Network</controllingFieldValue>
+                <valueName>Boutique appointment</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Network</controllingFieldValue>
+                <valueName>Boutique information</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Network</controllingFieldValue>
+                <valueName>Complaint - network services / behaviour</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Network</controllingFieldValue>
+                <valueName>Transfer to Boutique</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Network</controllingFieldValue>
+                <valueName>Transfer  to  Internal Staff</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Characteristics</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Complaint - Product Quality</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Counterfeit reported</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Negative comment</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Positive comment</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Price and/or availability</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Product</controllingFieldValue>
+                <valueName>Theft/Loss</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Authenticity</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Buy back</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Conditions of Sales</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Detax</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Extract of Archives</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Manufacture / museum visit</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Valuation</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Sales Policy and Other Services</controllingFieldValue>
+                <valueName>Waiting list</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Complaint-Cost of service</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Complaint-Repair duration</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Complaint-Repeat repair</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Cost estimate</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Product Maintenance instructions</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Repair status/Leadtime</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Service Advice</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Service starting price</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>After Sales</controllingFieldValue>
+                <valueName>Spare Parts</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Bridal</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Complaint - delivery delay</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Digital</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Jewellery</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Limited / temporary</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Multi-product / corporate catalogue</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Waiting list new catalogue</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Watch</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Catalog Request</controllingFieldValue>
+                <valueName>Writing instruments</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Assisted phone order</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Complaint - Delivery</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Complaint - Extra services</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Complaint - return/exchange</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Delivery follow-up</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>New phone order</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>New return / exchange</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Order status</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Payment status</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-Commerce</controllingFieldValue>
+                <valueName>Return / exchange follow-up</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-CS</controllingFieldValue>
+                <valueName>Direct shipment advice</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-CS</controllingFieldValue>
+                <valueName>Estimate approval</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-CS</controllingFieldValue>
+                <valueName>Estimate rejection</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-CS</controllingFieldValue>
+                <valueName>Shipping kit request</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-CS</controllingFieldValue>
+                <valueName>SK: special servicess</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>e-CS</controllingFieldValue>
+                <valueName>SK: Standard pick-up</valueName>
+            </valueSettings>
+        </valueSet>
+    </CustomField>

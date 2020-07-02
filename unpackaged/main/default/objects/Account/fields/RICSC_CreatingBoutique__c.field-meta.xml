@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_CreatingBoutique__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Boutique that created the account</description>
+        <externalId>false</externalId>
+        <label>Creating Boutique</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Creating Boutiques</relationshipLabel>
+        <relationshipName>RICSC_AccountCreatingBoutique</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </CustomField>

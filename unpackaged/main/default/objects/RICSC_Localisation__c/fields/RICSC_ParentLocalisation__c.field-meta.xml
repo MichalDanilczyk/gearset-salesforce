@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ParentLocalisation__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Relation to the higher level of Localisation</description>
+        <externalId>false</externalId>
+        <label>Parent Localisation</label>
+        <referenceTo>RICSC_Localisation__c</referenceTo>
+        <relationshipLabel>Localisations</relationshipLabel>
+        <relationshipName>RICSC_ParentLocalisation</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

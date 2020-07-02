@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>After Sales</fullName>
+        <default>false</default>
+        <label>After Sales</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Catalog Request</fullName>
+        <default>false</default>
+        <label>Catalog Request</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Clienteling</fullName>
+        <default>false</default>
+        <label>Clienteling</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>e-Commerce</fullName>
+        <default>false</default>
+        <label>e-Commerce</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>e-CS</fullName>
+        <default>false</default>
+        <label>e-CS</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>General Inquiry</fullName>
+        <default>false</default>
+        <label>General Inquiry</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Network</fullName>
+        <default>false</default>
+        <label>Network</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Product</fullName>
+        <default>false</default>
+        <label>Product</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Policy and Other Services</fullName>
+        <default>false</default>
+        <label>Sales Policy and Other Services</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+</StandardValueSet>

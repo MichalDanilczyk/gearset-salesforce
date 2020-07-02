@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Transaction</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Transactions</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Admin Transaction Page Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CRM Manager Transaction Page Layout</layout>
+        <sections>
+            <label><!-- Article Information --></label>
+            <section>Article Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Price Details --></label>
+            <section>Price Details</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+        <sections>
+            <label><!-- Transaction Details --></label>
+            <section>Transaction Details</section>
+        </sections>
+    </layouts>
+    <sharingReasons>
+        <label><!-- VCA Sharing Golden --></label>
+        <name>RICSC_VCASharingGolden</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- VCA Sharing Local --></label>
+        <name>RICSC_VCASharingLocal</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

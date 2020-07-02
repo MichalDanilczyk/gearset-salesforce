@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_DCCombinedSocialID__c</fullName>
+        <description>Merge of all the Social IDs from the Social Media ID object. Used for Duplicate Check scenarios</description>
+        <externalId>false</externalId>
+        <label>DC Combined Social ID</label>
+        <length>1000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>LongTextArea</type>
+        <visibleLines>10</visibleLines>
+    </CustomField>

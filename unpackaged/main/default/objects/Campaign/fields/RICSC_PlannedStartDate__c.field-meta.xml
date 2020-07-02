@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_PlannedStartDate__c</fullName>
+        <description>Campaign Planned Start Date</description>
+        <externalId>false</externalId>
+        <label>Planned Start Date</label>
+        <required>false</required>
+        <type>Date</type>
+    </CustomField>

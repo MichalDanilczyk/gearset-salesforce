@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ReferenceMarket__c</fullName>
+        <description>Text field to indicate the reference market of the client, calculated based on SF rules</description>
+        <externalId>false</externalId>
+        <label>Reference Market</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </CustomField>

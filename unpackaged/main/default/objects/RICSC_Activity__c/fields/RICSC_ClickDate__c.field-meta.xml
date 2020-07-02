@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ClickDate__c</fullName>
+        <description>Information about customer action related to the email sent</description>
+        <externalId>false</externalId>
+        <label>Click Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </CustomField>

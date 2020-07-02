@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Social Media Type --></label>
+        <name>RICSC_SocialMediaType__c</name>
+        <picklistValues>
+            <masterLabel>Facebook</masterLabel>
+            <translation><!-- Facebook --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Instagram</masterLabel>
+            <translation><!-- Instagram --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kakao talk</masterLabel>
+            <translation><!-- Kakao talk --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Line</masterLabel>
+            <translation><!-- Line --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Twitter</masterLabel>
+            <translation><!-- Twitter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>We Chat</masterLabel>
+            <translation><!-- We Chat --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whatsapp</masterLabel>
+            <translation><!-- Whatsapp --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

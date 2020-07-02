@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>DisableAllWorkflows__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>If true, all workflows managed by the Trigger Framework are skipped for all objects</description>
+        <externalId>false</externalId>
+        <inlineHelpText>If true, all workflows managed by the Trigger Framework are skipped for all objects</inlineHelpText>
+        <label>DisableAllWorkflows</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </CustomField>

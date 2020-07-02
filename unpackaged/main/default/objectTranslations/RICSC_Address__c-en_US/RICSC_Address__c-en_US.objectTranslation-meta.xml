@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Address</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Addresses</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Admin Address Page Layout</layout>
+        <sections>
+            <label><!-- Address Details --></label>
+            <section>Address Details</section>
+        </sections>
+        <sections>
+            <label><!-- Address Information --></label>
+            <section>Address Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- SysAdmin --></label>
+            <section>SysAdmin</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CRM Manager Address Page Layout</layout>
+        <sections>
+            <label><!-- Address Details --></label>
+            <section>Address Details</section>
+        </sections>
+        <sections>
+            <label><!-- Address Information --></label>
+            <section>Address Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <sharingReasons>
+        <label><!-- VCA Sharing Golden --></label>
+        <name>RICSC_VCASharingGolden</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- VCA Sharing Local --></label>
+        <name>RICSC_VCASharingLocal</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

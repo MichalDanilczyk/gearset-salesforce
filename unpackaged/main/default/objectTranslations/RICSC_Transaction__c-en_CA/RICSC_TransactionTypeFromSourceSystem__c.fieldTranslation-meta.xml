@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Transaction Type from Source System --></label>
+        <name>RICSC_TransactionTypeFromSourceSystem__c</name>
+        <picklistValues>
+            <masterLabel>CASS Repairs</masterLabel>
+            <translation><!-- CASS Repairs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CASS Spare parts</masterLabel>
+            <translation><!-- CASS Spare parts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CR PH</masterLabel>
+            <translation><!-- CR PH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CR Return-Commercial exchange</masterLabel>
+            <translation><!-- CR Return-Commercial exchange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CR Return-Mis-shipment</masterLabel>
+            <translation><!-- CR Return-Mis-shipment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cancellation</masterLabel>
+            <translation><!-- Cancellation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cass</masterLabel>
+            <translation><!-- Cass --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client Order</masterLabel>
+            <translation><!-- Client Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client Reservation</masterLabel>
+            <translation><!-- Client Reservation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Consignment Sale</masterLabel>
+            <translation><!-- Consignment Sale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Value Only (MIA)</masterLabel>
+            <translation><!-- Credit Value Only (MIA) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Service</masterLabel>
+            <translation><!-- Customer Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Service Migrated</masterLabel>
+            <translation><!-- Customer Service Migrated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Deposit</masterLabel>
+            <translation><!-- Deposit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Credit Memo Req</masterLabel>
+            <translation><!-- ECOM Credit Memo Req --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Exchange Dwngr</masterLabel>
+            <translation><!-- ECOM Exchange Dwngr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Exchange Upgr</masterLabel>
+            <translation><!-- ECOM Exchange Upgr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM FOC Order</masterLabel>
+            <translation><!-- ECOM FOC Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Phone Order</masterLabel>
+            <translation><!-- ECOM Phone Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Ret.Ord.cutover</masterLabel>
+            <translation><!-- ECOM Ret.Ord.cutover --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Return Order</masterLabel>
+            <translation><!-- ECOM Return Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Return Retail</masterLabel>
+            <translation><!-- ECOM Return Retail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECOM Web Order</masterLabel>
+            <translation><!-- ECOM Web Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gift</masterLabel>
+            <translation><!-- Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gratuities</masterLabel>
+            <translation><!-- Gratuities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hist. Phone Order</masterLabel>
+            <translation><!-- Hist. Phone Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hist. Web Order</masterLabel>
+            <translation><!-- Hist. Web Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In Account</masterLabel>
+            <translation><!-- In Account --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internal Boutique Credit Note (MX)</masterLabel>
+            <translation><!-- Internal Boutique Credit Note (MX) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internal Boutique Sales order (MX)</masterLabel>
+            <translation><!-- Internal Boutique Sales order (MX) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Repair</masterLabel>
+            <translation><!-- Jewellery Repair --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Transf</masterLabel>
+            <translation><!-- Jewellery Transf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manual Adjustment</masterLabel>
+            <translation><!-- Manual Adjustment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Normal Sale</masterLabel>
+            <translation><!-- Normal Sale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Type</masterLabel>
+            <translation><!-- Other Type --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regular Credit</masterLabel>
+            <translation><!-- Regular Credit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regular Sales</masterLabel>
+            <translation><!-- Regular Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reinvoicing (MX)</masterLabel>
+            <translation><!-- Reinvoicing (MX) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reservation</masterLabel>
+            <translation><!-- Reservation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reservation Deposit</masterLabel>
+            <translation><!-- Reservation Deposit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Retail gratuits for Marketing campaign</masterLabel>
+            <translation><!-- Retail gratuits for Marketing campaign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Return Deposit</masterLabel>
+            <translation><!-- Return Deposit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales</masterLabel>
+            <translation><!-- Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales Migrated</masterLabel>
+            <translation><!-- Sales Migrated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales Value Only (MIA)</masterLabel>
+            <translation><!-- Sales Value Only (MIA) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales in advance cancelling</masterLabel>
+            <translation><!-- Sales in advance cancelling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales in advance invoice</masterLabel>
+            <translation><!-- Sales in advance invoice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Saphir repair order</masterLabel>
+            <translation><!-- Saphir repair order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Solitaire Order</masterLabel>
+            <translation><!-- Solitaire Order --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Solitaire Order Migrated</masterLabel>
+            <translation><!-- Solitaire Order Migrated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Special Sale</masterLabel>
+            <translation><!-- Special Sale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web Saphir invoice</masterLabel>
+            <translation><!-- Web Saphir invoice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>e-commerce sales</masterLabel>
+            <translation><!-- e-commerce sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>e-commerce sales return</masterLabel>
+            <translation><!-- e-commerce sales return --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

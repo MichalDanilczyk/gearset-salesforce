@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_DataOrigin__c</fullName>
+        <description>System where the client was first created</description>
+        <externalId>false</externalId>
+        <label>Data Origin</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>BTQ</fullName>
+                    <default>false</default>
+                    <label>BTQ</label>
+                </value>
+                <value>
+                    <fullName>CC</fullName>
+                    <default>false</default>
+                    <label>CC</label>
+                </value>
+                <value>
+                    <fullName>CCP</fullName>
+                    <default>false</default>
+                    <label>CCP</label>
+                </value>
+                <value>
+                    <fullName>CDB</fullName>
+                    <default>false</default>
+                    <label>CDB</label>
+                </value>
+                <value>
+                    <fullName>Chinese Customers From France</fullName>
+                    <default>false</default>
+                    <label>Chinese Customers From France</label>
+                </value>
+                <value>
+                    <fullName>Cmt Creation</fullName>
+                    <default>false</default>
+                    <label>Cmt Creation</label>
+                </value>
+                <value>
+                    <fullName>Creation In Boutique</fullName>
+                    <default>false</default>
+                    <label>Creation In Boutique</label>
+                </value>
+                <value>
+                    <fullName>CS</fullName>
+                    <default>false</default>
+                    <label>CS</label>
+                </value>
+                <value>
+                    <fullName>EVEN</fullName>
+                    <default>false</default>
+                    <label>EVEN</label>
+                </value>
+                <value>
+                    <fullName>EXHI</fullName>
+                    <default>false</default>
+                    <label>EXHI</label>
+                </value>
+                <value>
+                    <fullName>MUSE</fullName>
+                    <default>false</default>
+                    <label>MUSE</label>
+                </value>
+                <value>
+                    <fullName>PART</fullName>
+                    <default>false</default>
+                    <label>PART</label>
+                </value>
+                <value>
+                    <fullName>PGT</fullName>
+                    <default>false</default>
+                    <label>PGT</label>
+                </value>
+                <value>
+                    <fullName>SOCM</fullName>
+                    <default>false</default>
+                    <label>SOCM</label>
+                </value>
+                <value>
+                    <fullName>WEB</fullName>
+                    <default>false</default>
+                    <label>WEB</label>
+                </value>
+                <value>
+                    <fullName>Web Creation</fullName>
+                    <default>false</default>
+                    <label>Web Creation</label>
+                </value>
+                <value>
+                    <fullName>WGT</fullName>
+                    <default>false</default>
+                    <label>WGT</label>
+                </value>
+                <value>
+                    <fullName>WLI</fullName>
+                    <default>false</default>
+                    <label>WLI</label>
+                </value>
+                <value>
+                    <fullName>WS</fullName>
+                    <default>false</default>
+                    <label>WS</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

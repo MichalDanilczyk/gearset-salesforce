@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Transaction Status --></label>
+        <name>RICSC_TransactionStatus__c</name>
+        <picklistValues>
+            <masterLabel>Temp</masterLabel>
+            <translation><!-- Temp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temp2</masterLabel>
+            <translation><!-- Temp2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temp3</masterLabel>
+            <translation><!-- Temp3 --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

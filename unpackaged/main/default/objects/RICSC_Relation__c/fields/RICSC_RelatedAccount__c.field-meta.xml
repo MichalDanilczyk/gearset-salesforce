@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_RelatedAccount__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>This field is used to to link the secondary Person account (the one to which the primary [Account] is related to)</description>
+        <externalId>false</externalId>
+        <label>Related Account</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Relations (Related Account)</relationshipLabel>
+        <relationshipName>RICSC_RelationsRelatedAccount</relationshipName>
+        <required>false</required>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Address Type --></label>
+        <name>RICSC_AddressType__c</name>
+        <picklistValues>
+            <masterLabel>Boutique</masterLabel>
+            <translation><!-- Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business</masterLabel>
+            <translation><!-- Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Home Address</masterLabel>
+            <translation><!-- Home Address --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Office Address</masterLabel>
+            <translation><!-- Office Address --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Old Address</masterLabel>
+            <translation><!-- Old Address --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Past</masterLabel>
+            <translation><!-- Past --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Residency</masterLabel>
+            <translation><!-- Residency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Secondary Residence</masterLabel>
+            <translation><!-- Secondary Residence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shipping Address</masterLabel>
+            <translation><!-- Shipping Address --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Summer Home</masterLabel>
+            <translation><!-- Summer Home --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Temporary / Hotel</masterLabel>
+            <translation><!-- Temporary / Hotel --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web</masterLabel>
+            <translation><!-- Web --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web Unknown</masterLabel>
+            <translation><!-- Web Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Winter Home</masterLabel>
+            <translation><!-- Winter Home --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

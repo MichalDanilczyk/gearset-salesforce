@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Which Method of SandboxPostCopyScript for which scope have to execute after sandbox refresh or deploy</description>
+    <label>Deploy Script Configuration</label>
+    <pluralLabel>Deploy Script Configurations</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

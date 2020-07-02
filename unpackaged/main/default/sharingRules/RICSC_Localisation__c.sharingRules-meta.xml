@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonCARHQ</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>MaisonCARHQ</label>
+        <sharedTo>
+            <role>RICSC_CARCRMHQ</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCHQ</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>MaisonJLCWorld</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMHQ</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonVCAHQ</fullName>
+        <accessLevel>Read</accessLevel>
+        <label>MaisonVCAHQ</label>
+        <sharedTo>
+            <role>RICSC_VCACRMHQ</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

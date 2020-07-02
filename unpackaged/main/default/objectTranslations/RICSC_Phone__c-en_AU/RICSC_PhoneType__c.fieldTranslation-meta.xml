@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Phone Type --></label>
+        <name>RICSC_PhoneType__c</name>
+        <picklistValues>
+            <masterLabel>Business Mr</masterLabel>
+            <translation><!-- Business Mr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business Ms</masterLabel>
+            <translation><!-- Business Ms --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Invalid Phone</masterLabel>
+            <translation><!-- Invalid Phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile Partner</masterLabel>
+            <translation><!-- Mobile Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Residency</masterLabel>
+            <translation><!-- Residency --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Secondary</masterLabel>
+            <translation><!-- Secondary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web</masterLabel>
+            <translation><!-- Web --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

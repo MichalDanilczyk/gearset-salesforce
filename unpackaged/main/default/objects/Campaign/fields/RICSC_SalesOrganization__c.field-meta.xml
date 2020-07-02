@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_SalesOrganization__c</fullName>
+        <description>Target Organization</description>
+        <externalId>false</externalId>
+        <label>Sales Organization</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Dummy</fullName>
+                    <default>false</default>
+                    <label>Dummy</label>
+                </value>
+                <value>
+                    <fullName>Need</fullName>
+                    <default>false</default>
+                    <label>Need</label>
+                </value>
+                <value>
+                    <fullName>To</fullName>
+                    <default>false</default>
+                    <label>To</label>
+                </value>
+                <value>
+                    <fullName>Changed</fullName>
+                    <default>false</default>
+                    <label>Changed</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ResidencyType__c</fullName>
+        <description>Field to indicate the type of the residency</description>
+        <externalId>false</externalId>
+        <label>Residency Type</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Mono-Residency</fullName>
+                    <default>false</default>
+                    <label>Mono-Residency</label>
+                </value>
+                <value>
+                    <fullName>Multi-Residency</fullName>
+                    <default>false</default>
+                    <label>Multi-Residency</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_EmployeeResponsible__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Employee that is responsible for the activity - SAP CRM field</description>
+        <externalId>false</externalId>
+        <label>Employee Responsible</label>
+        <referenceTo>User</referenceTo>
+        <relationshipName>Activities</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

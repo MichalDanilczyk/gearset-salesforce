@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Exception_CannotMergeAccount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Exception_CannotMergeAccount</shortDescription>
+        <value>This account cannot be merged</value>
+    </labels>
+    <labels>
+        <fullName>Exception_InvalidCurrencyIsoCode</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Exception_InvalidCurrencyIsoCode</shortDescription>
+        <value>Not available currency code</value>
+    </labels>
+</CustomLabels>

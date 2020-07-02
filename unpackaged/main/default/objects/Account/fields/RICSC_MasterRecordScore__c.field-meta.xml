@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_MasterRecordScore__c</fullName>
+        <description>This field is used to calculate a score for the Genera Rule for the Master Record Definition during the merge process.</description>
+        <externalId>false</externalId>
+        <formula>RICSC_MRScoreTurnover__c  *  RICSC_MRScoreFrequency__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Master Record Score</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </CustomField>

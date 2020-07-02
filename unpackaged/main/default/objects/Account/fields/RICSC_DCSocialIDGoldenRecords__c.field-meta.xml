@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_DCSocialIDGoldenRecords__c</fullName>
+        <description>Rollup of Social IDs from the Social Media ID object of Golden Records. Used for Duplicate Check scenarios</description>
+        <externalId>false</externalId>
+        <label>DC Social ID - Golden Records</label>
+        <length>1000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>LongTextArea</type>
+        <visibleLines>10</visibleLines>
+    </CustomField>

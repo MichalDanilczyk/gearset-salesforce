@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>CAR_Transactions</fullName>
+        <columns>NAME</columns>
+        <columns>RICSC_AmountWithTax__c</columns>
+        <columns>RICSC_AmountWithTaxEUR__c</columns>
+        <columns>RICSC_AmountWithoutTax__c</columns>
+        <columns>RICSC_Maison__c</columns>
+        <columns>RICSC_AmountPortal__c</columns>
+        <columns>RICSC_MaterialArticle__c</columns>
+        <columns>RICSC_Boutique__c</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </filters>
+        <label>CAR Transactions</label>
+    </ListView>

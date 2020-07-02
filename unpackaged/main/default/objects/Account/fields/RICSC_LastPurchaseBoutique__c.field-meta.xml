@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_LastPurchaseBoutique__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>This field is populated with the SF ID correspondent to the respective SAP boutique coming from SAP</description>
+        <externalId>false</externalId>
+        <label>Last Purchase Boutique</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts</relationshipLabel>
+        <relationshipName>Accounts</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </CustomField>

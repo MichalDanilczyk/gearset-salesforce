@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ClientSegment__c</fullName>
+        <description>Client classification based on rules in SAP</description>
+        <externalId>false</externalId>
+        <label>Client Segment</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Access 0-6 U05</fullName>
+                    <default>false</default>
+                    <label>Access 0-6 U05</label>
+                </value>
+                <value>
+                    <fullName>Access 7-12 U10</fullName>
+                    <default>false</default>
+                    <label>Access 7-12 U10</label>
+                </value>
+                <value>
+                    <fullName>Access Accessories</fullName>
+                    <default>false</default>
+                    <label>Access Accessories</label>
+                </value>
+                <value>
+                    <fullName>Access Bijoux</fullName>
+                    <default>false</default>
+                    <label>Access Bijoux</label>
+                </value>
+                <value>
+                    <fullName>Access Frequent E10</fullName>
+                    <default>false</default>
+                    <label>Access Frequent E10</label>
+                </value>
+                <value>
+                    <fullName>Access Frequent E13</fullName>
+                    <default>false</default>
+                    <label>Access Frequent E13</label>
+                </value>
+                <value>
+                    <fullName>Access Frequent E2</fullName>
+                    <default>false</default>
+                    <label>Access Frequent E2</label>
+                </value>
+                <value>
+                    <fullName>Access Frequent E6</fullName>
+                    <default>false</default>
+                    <label>Access Frequent E6</label>
+                </value>
+                <value>
+                    <fullName>Access New N5</fullName>
+                    <default>false</default>
+                    <label>Access New N5</label>
+                </value>
+                <value>
+                    <fullName>Access One Shot E4</fullName>
+                    <default>false</default>
+                    <label>Access One Shot E4</label>
+                </value>
+                <value>
+                    <fullName>Access One Shot E8</fullName>
+                    <default>false</default>
+                    <label>Access One Shot E8</label>
+                </value>
+                <value>
+                    <fullName>Access One Time Buyer E3</fullName>
+                    <default>false</default>
+                    <label>Access One Time Buyer E3</label>
+                </value>
+                <value>
+                    <fullName>Access One Time Buyer E6</fullName>
+                    <default>false</default>
+                    <label>Access One Time Buyer E6</label>
+                </value>
+                <value>
+                    <fullName>Access Regular E11</fullName>
+                    <default>false</default>
+                    <label>Access Regular E11</label>
+                </value>
+                <value>
+                    <fullName>Access Regular E14</fullName>
+                    <default>false</default>
+                    <label>Access Regular E14</label>
+                </value>
+                <value>
+                    <fullName>Access Regular E3</fullName>
+                    <default>false</default>
+                    <label>Access Regular E3</label>
+                </value>
+                <value>
+                    <fullName>Access Regular E7</fullName>
+                    <default>false</default>
+                    <label>Access Regular E7</label>
+                </value>
+                <value>
+                    <fullName>Access Repeater E2</fullName>
+                    <default>false</default>
+                    <label>Access Repeater E2</label>
+                </value>
+                <value>
+                    <fullName>Access Repeater E5</fullName>
+                    <default>false</default>
+                    <label>Access Repeater E5</label>
+                </value>
+                <value>
+                    <fullName>Access Super frequent E1</fullName>
+                    <default>false</default>
+                    <label>Access Super frequent E1</label>
+                </value>
+                <value>
+                    <fullName>Access Super frequent E12</fullName>
+                    <default>false</default>
+                    <label>Access Super frequent E12</label>
+                </value>
+                <value>
+                    <fullName>Access Super Frequent E4</fullName>
+                    <default>false</default>
+                    <label>Access Super Frequent E4</label>
+                </value>
+                <value>
+                    <fullName>Access Super frequent E5</fullName>
+                    <default>false</default>
+                    <label>Access Super frequent E5</label>
+                </value>
+                <value>
+                    <fullName>Access Super frequent E9</fullName>
+                    <default>false</default>
+                    <label>Access Super frequent E9</label>
+                </value>
+                <value>
+                    <fullName>Access Watch</fullName>
+                    <default>false</default>
+                    <label>Access Watch</label>
+                </value>
+                <value>
+                    <fullName>ACTIVE</fullName>
+                    <default>false</default>
+                    <label>ACTIVE</label>
+                </value>
+                <value>
+                    <fullName>Active Clients 20K</fullName>
+                    <default>false</default>
+                    <label>Active Clients 20K</label>
+                </value>
+                <value>
+                    <fullName>Active - Elegant</fullName>
+                    <default>false</default>
+                    <label>Active - Elegant</label>
+                </value>
+                <value>
+                    <fullName>Active - Frequent</fullName>
+                    <default>false</default>
+                    <label>Active - Frequent</label>
+                </value>
+                <value>
+                    <fullName>Active - Occasional</fullName>
+                    <default>false</default>
+                    <label>Active - Occasional</label>
+                </value>
+                <value>
+                    <fullName>Active - VIC</fullName>
+                    <default>false</default>
+                    <label>Active - VIC</label>
+                </value>
+                <value>
+                    <fullName>Active - VVIC</fullName>
+                    <default>false</default>
+                    <label>Active - VVIC</label>
+                </value>
+                <value>
+                    <fullName>C23</fullName>
+                    <default>false</default>
+                    <label>C23</label>
+                </value>
+                <value>
+                    <fullName>C24</fullName>
+                    <default>false</default>
+                    <label>C24</label>
+                </value>
+                <value>
+                    <fullName>CS &amp; Accessories</fullName>
+                    <default>false</default>
+                    <label>CS &amp; Accessories</label>
+                </value>
+                <value>
+                    <fullName>CS Client</fullName>
+                    <default>false</default>
+                    <label>CS Client</label>
+                </value>
+                <value>
+                    <fullName>D11</fullName>
+                    <default>false</default>
+                    <label>D11</label>
+                </value>
+                <value>
+                    <fullName>D12</fullName>
+                    <default>false</default>
+                    <label>D12</label>
+                </value>
+                <value>
+                    <fullName>D13</fullName>
+                    <default>false</default>
+                    <label>D13</label>
+                </value>
+                <value>
+                    <fullName>D14</fullName>
+                    <default>false</default>
+                    <label>D14</label>
+                </value>
+                <value>
+                    <fullName>D15</fullName>
+                    <default>false</default>
+                    <label>D15</label>
+                </value>
+                <value>
+                    <fullName>D16</fullName>
+                    <default>false</default>
+                    <label>D16</label>
+                </value>
+                <value>
+                    <fullName>D17</fullName>
+                    <default>false</default>
+                    <label>D17</label>
+                </value>
+                <value>
+                    <fullName>D18</fullName>
+                    <default>false</default>
+                    <label>D18</label>
+                </value>
+                <value>
+                    <fullName>D19</fullName>
+                    <default>false</default>
+                    <label>D19</label>
+                </value>
+                <value>
+                    <fullName>D20</fullName>
+                    <default>false</default>
+                    <label>D20</label>
+                </value>
+                <value>
+                    <fullName>D21</fullName>
+                    <default>false</default>
+                    <label>D21</label>
+                </value>
+                <value>
+                    <fullName>D22</fullName>
+                    <default>false</default>
+                    <label>D22</label>
+                </value>
+                <value>
+                    <fullName>D23</fullName>
+                    <default>false</default>
+                    <label>D23</label>
+                </value>
+                <value>
+                    <fullName>D24</fullName>
+                    <default>false</default>
+                    <label>D24</label>
+                </value>
+                <value>
+                    <fullName>Default</fullName>
+                    <default>false</default>
+                    <label>Default</label>
+                </value>
+                <value>
+                    <fullName>E15</fullName>
+                    <default>false</default>
+                    <label>E15</label>
+                </value>
+                <value>
+                    <fullName>E16</fullName>
+                    <default>false</default>
+                    <label>E16</label>
+                </value>
+                <value>
+                    <fullName>E23</fullName>
+                    <default>false</default>
+                    <label>E23</label>
+                </value>
+                <value>
+                    <fullName>E24</fullName>
+                    <default>false</default>
+                    <label>E24</label>
+                </value>
+                <value>
+                    <fullName>Elite - Loyal</fullName>
+                    <default>false</default>
+                    <label>Elite - Loyal</label>
+                </value>
+                <value>
+                    <fullName>Elite - Loyal - Inactive</fullName>
+                    <default>false</default>
+                    <label>Elite - Loyal - Inactive</label>
+                </value>
+                <value>
+                    <fullName>Elite - One Shot</fullName>
+                    <default>false</default>
+                    <label>Elite - One Shot</label>
+                </value>
+                <value>
+                    <fullName>Elite - One Shot - Inactive</fullName>
+                    <default>false</default>
+                    <label>Elite - One Shot - Inactive</label>
+                </value>
+                <value>
+                    <fullName>Elite - Recurrent</fullName>
+                    <default>false</default>
+                    <label>Elite - Recurrent</label>
+                </value>
+                <value>
+                    <fullName>Elite - Recurrent - Inactive</fullName>
+                    <default>false</default>
+                    <label>Elite - Recurrent - Inactive</label>
+                </value>
+                <value>
+                    <fullName>EN</fullName>
+                    <default>false</default>
+                    <label>EN</label>
+                </value>
+                <value>
+                    <fullName>Exisiting Rising Star</fullName>
+                    <default>false</default>
+                    <label>Exisiting Rising Star</label>
+                </value>
+                <value>
+                    <fullName>F10</fullName>
+                    <default>false</default>
+                    <label>F10</label>
+                </value>
+                <value>
+                    <fullName>F11</fullName>
+                    <default>false</default>
+                    <label>F11</label>
+                </value>
+                <value>
+                    <fullName>F12</fullName>
+                    <default>false</default>
+                    <label>F12</label>
+                </value>
+                <value>
+                    <fullName>F13</fullName>
+                    <default>false</default>
+                    <label>F13</label>
+                </value>
+                <value>
+                    <fullName>F14</fullName>
+                    <default>false</default>
+                    <label>F14</label>
+                </value>
+                <value>
+                    <fullName>F15</fullName>
+                    <default>false</default>
+                    <label>F15</label>
+                </value>
+                <value>
+                    <fullName>F16</fullName>
+                    <default>false</default>
+                    <label>F16</label>
+                </value>
+                <value>
+                    <fullName>F17</fullName>
+                    <default>false</default>
+                    <label>F17</label>
+                </value>
+                <value>
+                    <fullName>F18</fullName>
+                    <default>false</default>
+                    <label>F18</label>
+                </value>
+                <value>
+                    <fullName>F19</fullName>
+                    <default>false</default>
+                    <label>F19</label>
+                </value>
+                <value>
+                    <fullName>F20</fullName>
+                    <default>false</default>
+                    <label>F20</label>
+                </value>
+                <value>
+                    <fullName>F21</fullName>
+                    <default>false</default>
+                    <label>F21</label>
+                </value>
+                <value>
+                    <fullName>F22</fullName>
+                    <default>false</default>
+                    <label>F22</label>
+                </value>
+                <value>
+                    <fullName>F23</fullName>
+                    <default>false</default>
+                    <label>F23</label>
+                </value>
+                <value>
+                    <fullName>F24</fullName>
+                    <default>false</default>
+                    <label>F24</label>
+                </value>
+                <value>
+                    <fullName>F9</fullName>
+                    <default>false</default>
+                    <label>F9</label>
+                </value>
+                <value>
+                    <fullName>G21</fullName>
+                    <default>false</default>
+                    <label>G21</label>
+                </value>
+                <value>
+                    <fullName>G22</fullName>
+                    <default>false</default>
+                    <label>G22</label>
+                </value>
+                <value>
+                    <fullName>G23</fullName>
+                    <default>false</default>
+                    <label>G23</label>
+                </value>
+                <value>
+                    <fullName>G24</fullName>
+                    <default>false</default>
+                    <label>G24</label>
+                </value>
+                <value>
+                    <fullName>GC - Loyal</fullName>
+                    <default>false</default>
+                    <label>GC - Loyal</label>
+                </value>
+                <value>
+                    <fullName>GC - Loyal - Inactive</fullName>
+                    <default>false</default>
+                    <label>GC - Loyal - Inactive</label>
+                </value>
+                <value>
+                    <fullName>GC - One Shot</fullName>
+                    <default>false</default>
+                    <label>GC - One Shot</label>
+                </value>
+                <value>
+                    <fullName>GC - One Shot - Inactive</fullName>
+                    <default>false</default>
+                    <label>GC - One Shot - Inactive</label>
+                </value>
+                <value>
+                    <fullName>GC - Recurrent</fullName>
+                    <default>false</default>
+                    <label>GC - Recurrent</label>
+                </value>
+                <value>
+                    <fullName>GC - Recurrent - Inactive</fullName>
+                    <default>false</default>
+                    <label>GC - Recurrent - Inactive</label>
+                </value>
+                <value>
+                    <fullName>Gear 1 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Gear 1 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Gear 1 Repeater</fullName>
+                    <default>false</default>
+                    <label>Gear 1 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Gear 1 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Gear 1 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Gear 2 Loyal</fullName>
+                    <default>false</default>
+                    <label>Gear 2 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Gear 2 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Gear 2 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Gear 2 Repeater</fullName>
+                    <default>false</default>
+                    <label>Gear 2 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Gear 2 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Gear 2 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Gear 3 Loyal</fullName>
+                    <default>false</default>
+                    <label>Gear 3 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Gear 3 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Gear 3 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Gear 3 Repeater</fullName>
+                    <default>false</default>
+                    <label>Gear 3 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Gear 3 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Gear 3 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Gear 4 Loyal</fullName>
+                    <default>false</default>
+                    <label>Gear 4 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Gear 4 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Gear 4 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Gear 4 Repeater</fullName>
+                    <default>false</default>
+                    <label>Gear 4 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Gear 4 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Gear 4 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Gear 5 Loyal</fullName>
+                    <default>false</default>
+                    <label>Gear 5 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Gear 5 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Gear 5 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Gear 5 Repeater</fullName>
+                    <default>false</default>
+                    <label>Gear 5 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Gear 5 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Gear 5 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Gear 6 Loyal</fullName>
+                    <default>false</default>
+                    <label>Gear 6 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Gear 6 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Gear 6 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Gear 6 Repeater</fullName>
+                    <default>false</default>
+                    <label>Gear 6 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Gear 6 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Gear 6 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Heart of Cartier 0-6 U02</fullName>
+                    <default>false</default>
+                    <label>Heart of Cartier 0-6 U02</label>
+                </value>
+                <value>
+                    <fullName>Heart of Cartier 7-12 U07</fullName>
+                    <default>false</default>
+                    <label>Heart of Cartier 7-12 U07</label>
+                </value>
+                <value>
+                    <fullName>High Contributor - Astral - VIP</fullName>
+                    <default>false</default>
+                    <label>High Contributor - Astral - VIP</label>
+                </value>
+                <value>
+                    <fullName>High Contributor - Incredible - VIP</fullName>
+                    <default>false</default>
+                    <label>High Contributor - Incredible - VIP</label>
+                </value>
+                <value>
+                    <fullName>High Contributor - Ultimate - VIP</fullName>
+                    <default>false</default>
+                    <label>High Contributor - Ultimate - VIP</label>
+                </value>
+                <value>
+                    <fullName>High Contributor - VIP</fullName>
+                    <default>false</default>
+                    <label>High Contributor - VIP</label>
+                </value>
+                <value>
+                    <fullName>HJ</fullName>
+                    <default>false</default>
+                    <label>HJ</label>
+                </value>
+                <value>
+                    <fullName>IC - Loyal</fullName>
+                    <default>false</default>
+                    <label>IC - Loyal</label>
+                </value>
+                <value>
+                    <fullName>IC - Loyal - Inactive</fullName>
+                    <default>false</default>
+                    <label>IC - Loyal - Inactive</label>
+                </value>
+                <value>
+                    <fullName>IC - One Shot</fullName>
+                    <default>false</default>
+                    <label>IC - One Shot</label>
+                </value>
+                <value>
+                    <fullName>IC - One Shot - Inactive</fullName>
+                    <default>false</default>
+                    <label>IC - One Shot - Inactive</label>
+                </value>
+                <value>
+                    <fullName>IC - Recurrent</fullName>
+                    <default>false</default>
+                    <label>IC - Recurrent</label>
+                </value>
+                <value>
+                    <fullName>IC - Recurrent - Inactive</fullName>
+                    <default>false</default>
+                    <label>IC - Recurrent - Inactive</label>
+                </value>
+                <value>
+                    <fullName>Inactive</fullName>
+                    <default>false</default>
+                    <label>Inactive</label>
+                </value>
+                <value>
+                    <fullName>Inactive (PI)</fullName>
+                    <default>false</default>
+                    <label>Inactive (PI)</label>
+                </value>
+                <value>
+                    <fullName>Inactive CS &amp; Accessories</fullName>
+                    <default>false</default>
+                    <label>Inactive CS &amp; Accessories</label>
+                </value>
+                <value>
+                    <fullName>Inactive One Timer</fullName>
+                    <default>false</default>
+                    <label>Inactive One Timer</label>
+                </value>
+                <value>
+                    <fullName>Inactive Repeater</fullName>
+                    <default>false</default>
+                    <label>Inactive Repeater</label>
+                </value>
+                <value>
+                    <fullName>Inactive VIC</fullName>
+                    <default>false</default>
+                    <label>Inactive VIC</label>
+                </value>
+                <value>
+                    <fullName>Initiate Bridal</fullName>
+                    <default>false</default>
+                    <label>Initiate Bridal</label>
+                </value>
+                <value>
+                    <fullName>Initiate Frequent C10</fullName>
+                    <default>false</default>
+                    <label>Initiate Frequent C10</label>
+                </value>
+                <value>
+                    <fullName>Initiate Frequent C14</fullName>
+                    <default>false</default>
+                    <label>Initiate Frequent C14</label>
+                </value>
+                <value>
+                    <fullName>Initiate Frequent C2</fullName>
+                    <default>false</default>
+                    <label>Initiate Frequent C2</label>
+                </value>
+                <value>
+                    <fullName>Initiate Frequent C6</fullName>
+                    <default>false</default>
+                    <label>Initiate Frequent C6</label>
+                </value>
+                <value>
+                    <fullName>Initiate Jewelry</fullName>
+                    <default>false</default>
+                    <label>Initiate Jewelry</label>
+                </value>
+                <value>
+                    <fullName>Initiate New N3</fullName>
+                    <default>false</default>
+                    <label>Initiate New N3</label>
+                </value>
+                <value>
+                    <fullName>Initiate One Shot C12</fullName>
+                    <default>false</default>
+                    <label>Initiate One Shot C12</label>
+                </value>
+                <value>
+                    <fullName>Initiate One Shot C16</fullName>
+                    <default>false</default>
+                    <label>Initiate One Shot C16</label>
+                </value>
+                <value>
+                    <fullName>Initiate One Shot C4</fullName>
+                    <default>false</default>
+                    <label>Initiate One Shot C4</label>
+                </value>
+                <value>
+                    <fullName>Initiate One Shot C8</fullName>
+                    <default>false</default>
+                    <label>Initiate One Shot C8</label>
+                </value>
+                <value>
+                    <fullName>Initiate One Time Buyer C3</fullName>
+                    <default>false</default>
+                    <label>Initiate One Time Buyer C3</label>
+                </value>
+                <value>
+                    <fullName>Initiate One Time Buyer C6</fullName>
+                    <default>false</default>
+                    <label>Initiate One Time Buyer C6</label>
+                </value>
+                <value>
+                    <fullName>Initiate Regular C11</fullName>
+                    <default>false</default>
+                    <label>Initiate Regular C11</label>
+                </value>
+                <value>
+                    <fullName>Initiate Regular C15</fullName>
+                    <default>false</default>
+                    <label>Initiate Regular C15</label>
+                </value>
+                <value>
+                    <fullName>Initiate Regular C3</fullName>
+                    <default>false</default>
+                    <label>Initiate Regular C3</label>
+                </value>
+                <value>
+                    <fullName>Initiate Regular C7</fullName>
+                    <default>false</default>
+                    <label>Initiate Regular C7</label>
+                </value>
+                <value>
+                    <fullName>Initiate Repeater C2</fullName>
+                    <default>false</default>
+                    <label>Initiate Repeater C2</label>
+                </value>
+                <value>
+                    <fullName>Initiate Repeater C5</fullName>
+                    <default>false</default>
+                    <label>Initiate Repeater C5</label>
+                </value>
+                <value>
+                    <fullName>Initiate Super frequent C1</fullName>
+                    <default>false</default>
+                    <label>Initiate Super frequent C1</label>
+                </value>
+                <value>
+                    <fullName>Initiate Super frequent C13</fullName>
+                    <default>false</default>
+                    <label>Initiate Super frequent C13</label>
+                </value>
+                <value>
+                    <fullName>Initiate Super Frequent C4</fullName>
+                    <default>false</default>
+                    <label>Initiate Super Frequent C4</label>
+                </value>
+                <value>
+                    <fullName>Initiate Super frequent C5</fullName>
+                    <default>false</default>
+                    <label>Initiate Super frequent C5</label>
+                </value>
+                <value>
+                    <fullName>Initiate Super frequent C9</fullName>
+                    <default>false</default>
+                    <label>Initiate Super frequent C9</label>
+                </value>
+                <value>
+                    <fullName>Initiate Watch</fullName>
+                    <default>false</default>
+                    <label>Initiate Watch</label>
+                </value>
+                <value>
+                    <fullName>IP</fullName>
+                    <default>false</default>
+                    <label>IP</label>
+                </value>
+                <value>
+                    <fullName>JEW</fullName>
+                    <default>false</default>
+                    <label>JEW</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 1 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 1 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 1 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 1 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 1 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 1 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 2 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 2 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 2 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 2 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 2 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 2 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 2 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 2 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 3 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 3 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 3 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 3 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 3 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 3 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 3 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 3 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 4 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 4 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 4 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 4 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 4 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 4 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 4 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 4 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 5 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 5 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 5 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 5 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 5 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 5 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 5 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 5 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 6 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 6 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 6 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 6 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 6 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 6 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsed Gear 6 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsed Gear 6 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 1 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 1 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 1 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 1 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 1 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 1 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 2 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 2 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 2 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 2 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 2 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 2 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 2 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 2 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 3 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 3 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 3 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 3 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 3 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 3 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 3 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 3 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 4 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 4 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 4 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 4 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 4 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 4 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 4 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 4 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 5 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 5 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 5 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 5 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 5 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 5 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 5 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 5 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 6 Loyal</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 6 Loyal</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 6 Newcomer</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 6 Newcomer</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 6 Repeater</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 6 Repeater</label>
+                </value>
+                <value>
+                    <fullName>Lapsing Gear 6 Welcome Back</fullName>
+                    <default>false</default>
+                    <label>Lapsing Gear 6 Welcome Back</label>
+                </value>
+                <value>
+                    <fullName>Lost Access Frequent G14</fullName>
+                    <default>false</default>
+                    <label>Lost Access Frequent G14</label>
+                </value>
+                <value>
+                    <fullName>Lost Access Frequent G18</fullName>
+                    <default>false</default>
+                    <label>Lost Access Frequent G18</label>
+                </value>
+                <value>
+                    <fullName>Lost Access Regular G15</fullName>
+                    <default>false</default>
+                    <label>Lost Access Regular G15</label>
+                </value>
+                <value>
+                    <fullName>Lost Access Regular G19</fullName>
+                    <default>false</default>
+                    <label>Lost Access Regular G19</label>
+                </value>
+                <value>
+                    <fullName>Lost Access Super frequent G13</fullName>
+                    <default>false</default>
+                    <label>Lost Access Super frequent G13</label>
+                </value>
+                <value>
+                    <fullName>Lost Access Super frequent G17</fullName>
+                    <default>false</default>
+                    <label>Lost Access Super frequent G17</label>
+                </value>
+                <value>
+                    <fullName>Lost F1</fullName>
+                    <default>false</default>
+                    <label>Lost F1</label>
+                </value>
+                <value>
+                    <fullName>Lost Initiate Frequent G2</fullName>
+                    <default>false</default>
+                    <label>Lost Initiate Frequent G2</label>
+                </value>
+                <value>
+                    <fullName>Lost Initiate Frequent G6</fullName>
+                    <default>false</default>
+                    <label>Lost Initiate Frequent G6</label>
+                </value>
+                <value>
+                    <fullName>Lost Initiate Regular G3</fullName>
+                    <default>false</default>
+                    <label>Lost Initiate Regular G3</label>
+                </value>
+                <value>
+                    <fullName>Lost Initiate Regular G7</fullName>
+                    <default>false</default>
+                    <label>Lost Initiate Regular G7</label>
+                </value>
+                <value>
+                    <fullName>Lost Initiate Super frequent G1</fullName>
+                    <default>false</default>
+                    <label>Lost Initiate Super frequent G1</label>
+                </value>
+                <value>
+                    <fullName>Lost Initiate Super frequent G5</fullName>
+                    <default>false</default>
+                    <label>Lost Initiate Super frequent G5</label>
+                </value>
+                <value>
+                    <fullName>Lost Potential Initiate Frequent G10</fullName>
+                    <default>false</default>
+                    <label>Lost Potential Initiate Frequent G10</label>
+                </value>
+                <value>
+                    <fullName>Lost Potential Initiate Regular G11</fullName>
+                    <default>false</default>
+                    <label>Lost Potential Initiate Regular G11</label>
+                </value>
+                <value>
+                    <fullName>Lost Potential Initiate Super frequent G9</fullName>
+                    <default>false</default>
+                    <label>Lost Potential Initiate Super frequent G9</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP Frequent A26</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP Frequent A26</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP Frequent A30</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP Frequent A30</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP One Shot A28</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP One Shot A28</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP One Shot A32</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP One Shot A32</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP Regular A27</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP Regular A27</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP Regular A31</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP Regular A31</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP Super Frequent A25</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP Super Frequent A25</label>
+                </value>
+                <value>
+                    <fullName>Lost TOP VIP Super Frequent A29</fullName>
+                    <default>false</default>
+                    <label>Lost TOP VIP Super Frequent A29</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP Frequent B26</fullName>
+                    <default>false</default>
+                    <label>Lost VIP Frequent B26</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP Frequent B30</fullName>
+                    <default>false</default>
+                    <label>Lost VIP Frequent B30</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP One Shot B28</fullName>
+                    <default>false</default>
+                    <label>Lost VIP One Shot B28</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP One Shot B32</fullName>
+                    <default>false</default>
+                    <label>Lost VIP One Shot B32</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP Regular B27</fullName>
+                    <default>false</default>
+                    <label>Lost VIP Regular B27</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP Regular B31</fullName>
+                    <default>false</default>
+                    <label>Lost VIP Regular B31</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP Super Frequent B25</fullName>
+                    <default>false</default>
+                    <label>Lost VIP Super Frequent B25</label>
+                </value>
+                <value>
+                    <fullName>Lost VIP Super Frequent B29</fullName>
+                    <default>false</default>
+                    <label>Lost VIP Super Frequent B29</label>
+                </value>
+                <value>
+                    <fullName>LOYAL</fullName>
+                    <default>false</default>
+                    <label>LOYAL</label>
+                </value>
+                <value>
+                    <fullName>Loyal 0-6 U03</fullName>
+                    <default>false</default>
+                    <label>Loyal 0-6 U03</label>
+                </value>
+                <value>
+                    <fullName>Loyal 7-12 U08</fullName>
+                    <default>false</default>
+                    <label>Loyal 7-12 U08</label>
+                </value>
+                <value>
+                    <fullName>MIX</fullName>
+                    <default>false</default>
+                    <label>MIX</label>
+                </value>
+                <value>
+                    <fullName>NEW</fullName>
+                    <default>false</default>
+                    <label>NEW</label>
+                </value>
+                <value>
+                    <fullName>New Client</fullName>
+                    <default>false</default>
+                    <label>New Client</label>
+                </value>
+                <value>
+                    <fullName>New High Potential 0-6 U04</fullName>
+                    <default>false</default>
+                    <label>New High Potential 0-6 U04</label>
+                </value>
+                <value>
+                    <fullName>New High Potential 7-12 U09</fullName>
+                    <default>false</default>
+                    <label>New High Potential 7-12 U09</label>
+                </value>
+                <value>
+                    <fullName>New Rising Star</fullName>
+                    <default>false</default>
+                    <label>New Rising Star</label>
+                </value>
+                <value>
+                    <fullName>New Watch Client</fullName>
+                    <default>false</default>
+                    <label>New Watch Client</label>
+                </value>
+                <value>
+                    <fullName>New with high potential</fullName>
+                    <default>false</default>
+                    <label>New with high potential</label>
+                </value>
+                <value>
+                    <fullName>New with low potential</fullName>
+                    <default>false</default>
+                    <label>New with low potential</label>
+                </value>
+                <value>
+                    <fullName>No Purchas</fullName>
+                    <default>false</default>
+                    <label>No Purchas</label>
+                </value>
+                <value>
+                    <fullName>Normal : &lt;</fullName>
+                    <default>false</default>
+                    <label>Normal : &lt;</label>
+                </value>
+                <value>
+                    <fullName>Normal : &gt;</fullName>
+                    <default>false</default>
+                    <label>Normal : &gt;</label>
+                </value>
+                <value>
+                    <fullName>Not Assigned (PI)</fullName>
+                    <default>false</default>
+                    <label>Not Assigned (PI)</label>
+                </value>
+                <value>
+                    <fullName>Occasional</fullName>
+                    <default>false</default>
+                    <label>Occasional</label>
+                </value>
+                <value>
+                    <fullName>One Shot A</fullName>
+                    <default>false</default>
+                    <label>One Shot A</label>
+                </value>
+                <value>
+                    <fullName>One Shot Access F2</fullName>
+                    <default>false</default>
+                    <label>One Shot Access F2</label>
+                </value>
+                <value>
+                    <fullName>One Shot Access F3</fullName>
+                    <default>false</default>
+                    <label>One Shot Access F3</label>
+                </value>
+                <value>
+                    <fullName>One Shot Lost Access G16</fullName>
+                    <default>false</default>
+                    <label>One Shot Lost Access G16</label>
+                </value>
+                <value>
+                    <fullName>One Shot Lost Access G20</fullName>
+                    <default>false</default>
+                    <label>One Shot Lost Access G20</label>
+                </value>
+                <value>
+                    <fullName>One Shot Lost Initiate G4</fullName>
+                    <default>false</default>
+                    <label>One Shot Lost Initiate G4</label>
+                </value>
+                <value>
+                    <fullName>One Shot Lost Initiate G8</fullName>
+                    <default>false</default>
+                    <label>One Shot Lost Initiate G8</label>
+                </value>
+                <value>
+                    <fullName>One Shot Lost Potential Initiate G12</fullName>
+                    <default>false</default>
+                    <label>One Shot Lost Potential Initiate G12</label>
+                </value>
+                <value>
+                    <fullName>One Shot Potential Initiate F1</fullName>
+                    <default>false</default>
+                    <label>One Shot Potential Initiate F1</label>
+                </value>
+                <value>
+                    <fullName>One Shot Sleeping Access F7</fullName>
+                    <default>false</default>
+                    <label>One Shot Sleeping Access F7</label>
+                </value>
+                <value>
+                    <fullName>One Shot Sleeping Access F8</fullName>
+                    <default>false</default>
+                    <label>One Shot Sleeping Access F8</label>
+                </value>
+                <value>
+                    <fullName>One Shot Sleeping Initiate F4</fullName>
+                    <default>false</default>
+                    <label>One Shot Sleeping Initiate F4</label>
+                </value>
+                <value>
+                    <fullName>One Shot Sleeping Initiate F5</fullName>
+                    <default>false</default>
+                    <label>One Shot Sleeping Initiate F5</label>
+                </value>
+                <value>
+                    <fullName>One Shot Sleeping Potential Initiate F6</fullName>
+                    <default>false</default>
+                    <label>One Shot Sleeping Potential Initiate F6</label>
+                </value>
+                <value>
+                    <fullName>One Timer</fullName>
+                    <default>false</default>
+                    <label>One Timer</label>
+                </value>
+                <value>
+                    <fullName>Other Prospects</fullName>
+                    <default>false</default>
+                    <label>Other Prospects</label>
+                </value>
+                <value>
+                    <fullName>Other Watch Clients</fullName>
+                    <default>false</default>
+                    <label>Other Watch Clients</label>
+                </value>
+                <value>
+                    <fullName>Pot. Initiate One Time Buy. D3</fullName>
+                    <default>false</default>
+                    <label>Pot. Initiate One Time Buy. D3</label>
+                </value>
+                <value>
+                    <fullName>Pot. Initiate One Time Buy. D6</fullName>
+                    <default>false</default>
+                    <label>Pot. Initiate One Time Buy. D6</label>
+                </value>
+                <value>
+                    <fullName>Pot. Initiate Repeater D2</fullName>
+                    <default>false</default>
+                    <label>Pot. Initiate Repeater D2</label>
+                </value>
+                <value>
+                    <fullName>Pot. Initiate Repeater D5</fullName>
+                    <default>false</default>
+                    <label>Pot. Initiate Repeater D5</label>
+                </value>
+                <value>
+                    <fullName>Pot. Initiate Super Freq. D1</fullName>
+                    <default>false</default>
+                    <label>Pot. Initiate Super Freq. D1</label>
+                </value>
+                <value>
+                    <fullName>Pot. Initiate Super Freq. D4</fullName>
+                    <default>false</default>
+                    <label>Pot. Initiate Super Freq. D4</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP One Time Buyer B3</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP One Time Buyer B3</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP One Time Buyer B6</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP One Time Buyer B6</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Repeater B2</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Repeater B2</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Repeater B5</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Repeater B5</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Sleeping B7</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Sleeping B7</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Sleeping B8</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Sleeping B8</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Sleeping B9</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Sleeping B9</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Super Frequent B1</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Super Frequent B1</label>
+                </value>
+                <value>
+                    <fullName>Pot. VIP Super Frequent B4</fullName>
+                    <default>false</default>
+                    <label>Pot. VIP Super Frequent B4</label>
+                </value>
+                <value>
+                    <fullName>Potential</fullName>
+                    <default>false</default>
+                    <label>Potential</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate Frequent D2</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate Frequent D2</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate Frequent D6</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate Frequent D6</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate New N4</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate New N4</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate One Shot D4</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate One Shot D4</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate Regular D3</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate Regular D3</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate Regular D7</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate Regular D7</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate Super frequent D1</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate Super frequent D1</label>
+                </value>
+                <value>
+                    <fullName>Potential Initiate Super frequent D5</fullName>
+                    <default>false</default>
+                    <label>Potential Initiate Super frequent D5</label>
+                </value>
+                <value>
+                    <fullName>Prospect</fullName>
+                    <default>false</default>
+                    <label>Prospect</label>
+                </value>
+                <value>
+                    <fullName>Prospect U18</fullName>
+                    <default>false</default>
+                    <label>Prospect U18</label>
+                </value>
+                <value>
+                    <fullName>Prospect with potential</fullName>
+                    <default>false</default>
+                    <label>Prospect with potential</label>
+                </value>
+                <value>
+                    <fullName>Reccurent</fullName>
+                    <default>false</default>
+                    <label>Reccurent</label>
+                </value>
+                <value>
+                    <fullName>Repeat Client</fullName>
+                    <default>false</default>
+                    <label>Repeat Client</label>
+                </value>
+                <value>
+                    <fullName>Repeater</fullName>
+                    <default>false</default>
+                    <label>Repeater</label>
+                </value>
+                <value>
+                    <fullName>SAV - Inactive</fullName>
+                    <default>false</default>
+                    <label>SAV - Inactive</label>
+                </value>
+                <value>
+                    <fullName>SAV - Loyal</fullName>
+                    <default>false</default>
+                    <label>SAV - Loyal</label>
+                </value>
+                <value>
+                    <fullName>SAV - Loyal - Inactive</fullName>
+                    <default>false</default>
+                    <label>SAV - Loyal - Inactive</label>
+                </value>
+                <value>
+                    <fullName>SAV - One Shot</fullName>
+                    <default>false</default>
+                    <label>SAV - One Shot</label>
+                </value>
+                <value>
+                    <fullName>SAV - Recurrent</fullName>
+                    <default>false</default>
+                    <label>SAV - Recurrent</label>
+                </value>
+                <value>
+                    <fullName>SAV - Recurrent - Inactive</fullName>
+                    <default>false</default>
+                    <label>SAV - Recurrent - Inactive</label>
+                </value>
+                <value>
+                    <fullName>SLEEPER</fullName>
+                    <default>false</default>
+                    <label>SLEEPER</label>
+                </value>
+                <value>
+                    <fullName>Sleeping</fullName>
+                    <default>false</default>
+                    <label>Sleeping</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Accessories</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Accessories</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Bijoux</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Bijoux</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access E7</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access E7</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access E8</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access E8</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access E9</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access E9</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Frequent E18</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Frequent E18</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Frequent E21</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Frequent E21</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Regular E19</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Regular E19</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Regular E22</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Regular E22</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Super frequent E17</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Super frequent E17</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Super frequent E20</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Super frequent E20</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access U17</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access U17</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Access Watch</fullName>
+                    <default>false</default>
+                    <label>Sleeping Access Watch</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Existing Rising Star</fullName>
+                    <default>false</default>
+                    <label>Sleeping Existing Rising Star</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Heart of Cartier U16</fullName>
+                    <default>false</default>
+                    <label>Sleeping Heart of Cartier U16</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Bridal</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Bridal</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate C7</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate C7</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate C8</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate C8</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate C9</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate C9</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Frequent C18</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Frequent C18</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Frequent C21</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Frequent C21</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Jewelry</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Jewelry</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Regular C19</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Regular C19</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Regular C22</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Regular C22</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Super frequent C17</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Super frequent C17</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Super frequent C20</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Super frequent C20</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Initiate Watch</fullName>
+                    <default>false</default>
+                    <label>Sleeping Initiate Watch</label>
+                </value>
+                <value>
+                    <fullName>Sleeping New Rising Star</fullName>
+                    <default>false</default>
+                    <label>Sleeping New Rising Star</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Occasional</fullName>
+                    <default>false</default>
+                    <label>Sleeping Occasional</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Pot. Initiate D7</fullName>
+                    <default>false</default>
+                    <label>Sleeping Pot. Initiate D7</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Pot. Initiate D8</fullName>
+                    <default>false</default>
+                    <label>Sleeping Pot. Initiate D8</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Pot. Initiate D9</fullName>
+                    <default>false</default>
+                    <label>Sleeping Pot. Initiate D9</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Potential Initiate Frequent D9</fullName>
+                    <default>false</default>
+                    <label>Sleeping Potential Initiate Frequent D9</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Potential Initiate Regular D10</fullName>
+                    <default>false</default>
+                    <label>Sleeping Potential Initiate Regular D10</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Potential Initiate Super frequent D8</fullName>
+                    <default>false</default>
+                    <label>Sleeping Potential Initiate Super frequent D8</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Super Frequent</fullName>
+                    <default>false</default>
+                    <label>Sleeping Super Frequent</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP Frequent A18</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP Frequent A18</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP Frequent A22</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP Frequent A22</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP One Shot A20</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP One Shot A20</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP One Shot A24</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP One Shot A24</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP Regular A19</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP Regular A19</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP Regular A23</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP Regular A23</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP Super Frequent A17</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP Super Frequent A17</label>
+                </value>
+                <value>
+                    <fullName>Sleeping TOP VIP Super Frequent A21</fullName>
+                    <default>false</default>
+                    <label>Sleeping TOP VIP Super Frequent A21</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP Frequent B18</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP Frequent B18</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP Frequent B22</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP Frequent B22</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP One Shot B20</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP One Shot B20</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP One Shot B24</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP One Shot B24</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP Regular B19</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP Regular B19</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP Regular B23</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP Regular B23</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP Super Frequent B17</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP Super Frequent B17</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP Super Frequent B21</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP Super Frequent B21</label>
+                </value>
+                <value>
+                    <fullName>Sleeping VIP U15</fullName>
+                    <default>false</default>
+                    <label>Sleeping VIP U15</label>
+                </value>
+                <value>
+                    <fullName>Sleeping with potential</fullName>
+                    <default>false</default>
+                    <label>Sleeping with potential</label>
+                </value>
+                <value>
+                    <fullName>Sleepy Access U14</fullName>
+                    <default>false</default>
+                    <label>Sleepy Access U14</label>
+                </value>
+                <value>
+                    <fullName>Sleepy Heart of Cartier U12</fullName>
+                    <default>false</default>
+                    <label>Sleepy Heart of Cartier U12</label>
+                </value>
+                <value>
+                    <fullName>Sleepy Loyal U13</fullName>
+                    <default>false</default>
+                    <label>Sleepy Loyal U13</label>
+                </value>
+                <value>
+                    <fullName>Sleepy VIP U11</fullName>
+                    <default>false</default>
+                    <label>Sleepy VIP U11</label>
+                </value>
+                <value>
+                    <fullName>STAR(ACTIVE)</fullName>
+                    <default>false</default>
+                    <label>STAR(ACTIVE)</label>
+                </value>
+                <value>
+                    <fullName>STAR(LOYAL)</fullName>
+                    <default>false</default>
+                    <label>STAR(LOYAL)</label>
+                </value>
+                <value>
+                    <fullName>STAR(NEW)</fullName>
+                    <default>false</default>
+                    <label>STAR(NEW)</label>
+                </value>
+                <value>
+                    <fullName>Starter</fullName>
+                    <default>false</default>
+                    <label>Starter</label>
+                </value>
+                <value>
+                    <fullName>Strapper</fullName>
+                    <default>false</default>
+                    <label>Strapper</label>
+                </value>
+                <value>
+                    <fullName>Strappers</fullName>
+                    <default>false</default>
+                    <label>Strappers</label>
+                </value>
+                <value>
+                    <fullName>Super Frequent</fullName>
+                    <default>false</default>
+                    <label>Super Frequent</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP</fullName>
+                    <default>false</default>
+                    <label>TOP VIP</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Frequent A10</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Frequent A10</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Frequent A14</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Frequent A14</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Frequent A2</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Frequent A2</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Frequent A6</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Frequent A6</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP New N1</fullName>
+                    <default>false</default>
+                    <label>TOP VIP New N1</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP One Shot A12</fullName>
+                    <default>false</default>
+                    <label>TOP VIP One Shot A12</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP One Shot A16</fullName>
+                    <default>false</default>
+                    <label>TOP VIP One Shot A16</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP One Shot A4</fullName>
+                    <default>false</default>
+                    <label>TOP VIP One Shot A4</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP One Shot A8</fullName>
+                    <default>false</default>
+                    <label>TOP VIP One Shot A8</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Regular A11</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Regular A11</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Regular A15</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Regular A15</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Regular A3</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Regular A3</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Regular A7</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Regular A7</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Super Frequent A1</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Super Frequent A1</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Super Frequent A13</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Super Frequent A13</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Super Frequent A5</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Super Frequent A5</label>
+                </value>
+                <value>
+                    <fullName>TOP VIP Super Frequent A9</fullName>
+                    <default>false</default>
+                    <label>TOP VIP Super Frequent A9</label>
+                </value>
+                <value>
+                    <fullName>Ultimate</fullName>
+                    <default>false</default>
+                    <label>Ultimate</label>
+                </value>
+                <value>
+                    <fullName>Unique - Loyal</fullName>
+                    <default>false</default>
+                    <label>Unique - Loyal</label>
+                </value>
+                <value>
+                    <fullName>Unique - Loyal - Inactive</fullName>
+                    <default>false</default>
+                    <label>Unique - Loyal - Inactive</label>
+                </value>
+                <value>
+                    <fullName>Unique - One Shot</fullName>
+                    <default>false</default>
+                    <label>Unique - One Shot</label>
+                </value>
+                <value>
+                    <fullName>Unique - One Shot - Inactive</fullName>
+                    <default>false</default>
+                    <label>Unique - One Shot - Inactive</label>
+                </value>
+                <value>
+                    <fullName>Unique - Recurrent</fullName>
+                    <default>false</default>
+                    <label>Unique - Recurrent</label>
+                </value>
+                <value>
+                    <fullName>Unique - Recurrent - Inactive</fullName>
+                    <default>false</default>
+                    <label>Unique - Recurrent - Inactive</label>
+                </value>
+                <value>
+                    <fullName>VA1</fullName>
+                    <default>false</default>
+                    <label>VA1</label>
+                </value>
+                <value>
+                    <fullName>VA10</fullName>
+                    <default>false</default>
+                    <label>VA10</label>
+                </value>
+                <value>
+                    <fullName>VA11</fullName>
+                    <default>false</default>
+                    <label>VA11</label>
+                </value>
+                <value>
+                    <fullName>VA2</fullName>
+                    <default>false</default>
+                    <label>VA2</label>
+                </value>
+                <value>
+                    <fullName>VA3</fullName>
+                    <default>false</default>
+                    <label>VA3</label>
+                </value>
+                <value>
+                    <fullName>VA4</fullName>
+                    <default>false</default>
+                    <label>VA4</label>
+                </value>
+                <value>
+                    <fullName>VA5</fullName>
+                    <default>false</default>
+                    <label>VA5</label>
+                </value>
+                <value>
+                    <fullName>VA6</fullName>
+                    <default>false</default>
+                    <label>VA6</label>
+                </value>
+                <value>
+                    <fullName>VA7</fullName>
+                    <default>false</default>
+                    <label>VA7</label>
+                </value>
+                <value>
+                    <fullName>VA8</fullName>
+                    <default>false</default>
+                    <label>VA8</label>
+                </value>
+                <value>
+                    <fullName>VA9</fullName>
+                    <default>false</default>
+                    <label>VA9</label>
+                </value>
+                <value>
+                    <fullName>Valuable :</fullName>
+                    <default>false</default>
+                    <label>Valuable :</label>
+                </value>
+                <value>
+                    <fullName>VB1</fullName>
+                    <default>false</default>
+                    <label>VB1</label>
+                </value>
+                <value>
+                    <fullName>VB10</fullName>
+                    <default>false</default>
+                    <label>VB10</label>
+                </value>
+                <value>
+                    <fullName>VB11</fullName>
+                    <default>false</default>
+                    <label>VB11</label>
+                </value>
+                <value>
+                    <fullName>VB2</fullName>
+                    <default>false</default>
+                    <label>VB2</label>
+                </value>
+                <value>
+                    <fullName>VB3</fullName>
+                    <default>false</default>
+                    <label>VB3</label>
+                </value>
+                <value>
+                    <fullName>VB4</fullName>
+                    <default>false</default>
+                    <label>VB4</label>
+                </value>
+                <value>
+                    <fullName>VB5</fullName>
+                    <default>false</default>
+                    <label>VB5</label>
+                </value>
+                <value>
+                    <fullName>VB6</fullName>
+                    <default>false</default>
+                    <label>VB6</label>
+                </value>
+                <value>
+                    <fullName>VB7</fullName>
+                    <default>false</default>
+                    <label>VB7</label>
+                </value>
+                <value>
+                    <fullName>VB8</fullName>
+                    <default>false</default>
+                    <label>VB8</label>
+                </value>
+                <value>
+                    <fullName>VB9</fullName>
+                    <default>false</default>
+                    <label>VB9</label>
+                </value>
+                <value>
+                    <fullName>VC1</fullName>
+                    <default>false</default>
+                    <label>VC1</label>
+                </value>
+                <value>
+                    <fullName>VC10</fullName>
+                    <default>false</default>
+                    <label>VC10</label>
+                </value>
+                <value>
+                    <fullName>VC2</fullName>
+                    <default>false</default>
+                    <label>VC2</label>
+                </value>
+                <value>
+                    <fullName>VC3</fullName>
+                    <default>false</default>
+                    <label>VC3</label>
+                </value>
+                <value>
+                    <fullName>VC4</fullName>
+                    <default>false</default>
+                    <label>VC4</label>
+                </value>
+                <value>
+                    <fullName>VC5</fullName>
+                    <default>false</default>
+                    <label>VC5</label>
+                </value>
+                <value>
+                    <fullName>VC6</fullName>
+                    <default>false</default>
+                    <label>VC6</label>
+                </value>
+                <value>
+                    <fullName>VC7</fullName>
+                    <default>false</default>
+                    <label>VC7</label>
+                </value>
+                <value>
+                    <fullName>VC8</fullName>
+                    <default>false</default>
+                    <label>VC8</label>
+                </value>
+                <value>
+                    <fullName>VC9</fullName>
+                    <default>false</default>
+                    <label>VC9</label>
+                </value>
+                <value>
+                    <fullName>VD1</fullName>
+                    <default>false</default>
+                    <label>VD1</label>
+                </value>
+                <value>
+                    <fullName>VD10</fullName>
+                    <default>false</default>
+                    <label>VD10</label>
+                </value>
+                <value>
+                    <fullName>VD11</fullName>
+                    <default>false</default>
+                    <label>VD11</label>
+                </value>
+                <value>
+                    <fullName>VD2</fullName>
+                    <default>false</default>
+                    <label>VD2</label>
+                </value>
+                <value>
+                    <fullName>VD3</fullName>
+                    <default>false</default>
+                    <label>VD3</label>
+                </value>
+                <value>
+                    <fullName>VD4</fullName>
+                    <default>false</default>
+                    <label>VD4</label>
+                </value>
+                <value>
+                    <fullName>VD5</fullName>
+                    <default>false</default>
+                    <label>VD5</label>
+                </value>
+                <value>
+                    <fullName>VD6</fullName>
+                    <default>false</default>
+                    <label>VD6</label>
+                </value>
+                <value>
+                    <fullName>VD7</fullName>
+                    <default>false</default>
+                    <label>VD7</label>
+                </value>
+                <value>
+                    <fullName>VD8</fullName>
+                    <default>false</default>
+                    <label>VD8</label>
+                </value>
+                <value>
+                    <fullName>VD9</fullName>
+                    <default>false</default>
+                    <label>VD9</label>
+                </value>
+                <value>
+                    <fullName>VE1</fullName>
+                    <default>false</default>
+                    <label>VE1</label>
+                </value>
+                <value>
+                    <fullName>VE10</fullName>
+                    <default>false</default>
+                    <label>VE10</label>
+                </value>
+                <value>
+                    <fullName>VE11</fullName>
+                    <default>false</default>
+                    <label>VE11</label>
+                </value>
+                <value>
+                    <fullName>VE2</fullName>
+                    <default>false</default>
+                    <label>VE2</label>
+                </value>
+                <value>
+                    <fullName>VE3</fullName>
+                    <default>false</default>
+                    <label>VE3</label>
+                </value>
+                <value>
+                    <fullName>VE4</fullName>
+                    <default>false</default>
+                    <label>VE4</label>
+                </value>
+                <value>
+                    <fullName>VE5</fullName>
+                    <default>false</default>
+                    <label>VE5</label>
+                </value>
+                <value>
+                    <fullName>VE6</fullName>
+                    <default>false</default>
+                    <label>VE6</label>
+                </value>
+                <value>
+                    <fullName>VE7</fullName>
+                    <default>false</default>
+                    <label>VE7</label>
+                </value>
+                <value>
+                    <fullName>VE8</fullName>
+                    <default>false</default>
+                    <label>VE8</label>
+                </value>
+                <value>
+                    <fullName>VE9</fullName>
+                    <default>false</default>
+                    <label>VE9</label>
+                </value>
+                <value>
+                    <fullName>VF1</fullName>
+                    <default>false</default>
+                    <label>VF1</label>
+                </value>
+                <value>
+                    <fullName>VF2</fullName>
+                    <default>false</default>
+                    <label>VF2</label>
+                </value>
+                <value>
+                    <fullName>VF3</fullName>
+                    <default>false</default>
+                    <label>VF3</label>
+                </value>
+                <value>
+                    <fullName>VF4</fullName>
+                    <default>false</default>
+                    <label>VF4</label>
+                </value>
+                <value>
+                    <fullName>VF5</fullName>
+                    <default>false</default>
+                    <label>VF5</label>
+                </value>
+                <value>
+                    <fullName>VIC</fullName>
+                    <default>false</default>
+                    <label>VIC</label>
+                </value>
+                <value>
+                    <fullName>VIC - Loyal</fullName>
+                    <default>false</default>
+                    <label>VIC - Loyal</label>
+                </value>
+                <value>
+                    <fullName>VIC - Loyal - Inactive</fullName>
+                    <default>false</default>
+                    <label>VIC - Loyal - Inactive</label>
+                </value>
+                <value>
+                    <fullName>VIC - One Shot</fullName>
+                    <default>false</default>
+                    <label>VIC - One Shot</label>
+                </value>
+                <value>
+                    <fullName>VIC - One Shot - Inactive</fullName>
+                    <default>false</default>
+                    <label>VIC - One Shot - Inactive</label>
+                </value>
+                <value>
+                    <fullName>VIC - Recurrent</fullName>
+                    <default>false</default>
+                    <label>VIC - Recurrent</label>
+                </value>
+                <value>
+                    <fullName>VIC - Recurrent - Inactive</fullName>
+                    <default>false</default>
+                    <label>VIC - Recurrent - Inactive</label>
+                </value>
+                <value>
+                    <fullName>VIP</fullName>
+                    <default>false</default>
+                    <label>VIP</label>
+                </value>
+                <value>
+                    <fullName>Vip : &lt;10</fullName>
+                    <default>false</default>
+                    <label>Vip : &lt;10</label>
+                </value>
+                <value>
+                    <fullName>VIP 0-6 U01</fullName>
+                    <default>false</default>
+                    <label>VIP 0-6 U01</label>
+                </value>
+                <value>
+                    <fullName>VIP 7-12 U06</fullName>
+                    <default>false</default>
+                    <label>VIP 7-12 U06</label>
+                </value>
+                <value>
+                    <fullName>VIP Frequent B10</fullName>
+                    <default>false</default>
+                    <label>VIP Frequent B10</label>
+                </value>
+                <value>
+                    <fullName>VIP Frequent B14</fullName>
+                    <default>false</default>
+                    <label>VIP Frequent B14</label>
+                </value>
+                <value>
+                    <fullName>VIP Frequent B2</fullName>
+                    <default>false</default>
+                    <label>VIP Frequent B2</label>
+                </value>
+                <value>
+                    <fullName>VIP Frequent B6</fullName>
+                    <default>false</default>
+                    <label>VIP Frequent B6</label>
+                </value>
+                <value>
+                    <fullName>VIP New N2</fullName>
+                    <default>false</default>
+                    <label>VIP New N2</label>
+                </value>
+                <value>
+                    <fullName>VIP One Shot B12</fullName>
+                    <default>false</default>
+                    <label>VIP One Shot B12</label>
+                </value>
+                <value>
+                    <fullName>VIP One Shot B16</fullName>
+                    <default>false</default>
+                    <label>VIP One Shot B16</label>
+                </value>
+                <value>
+                    <fullName>VIP One Shot B4</fullName>
+                    <default>false</default>
+                    <label>VIP One Shot B4</label>
+                </value>
+                <value>
+                    <fullName>VIP One Shot B8</fullName>
+                    <default>false</default>
+                    <label>VIP One Shot B8</label>
+                </value>
+                <value>
+                    <fullName>VIP One Time Buyer</fullName>
+                    <default>false</default>
+                    <label>VIP One Time Buyer</label>
+                </value>
+                <value>
+                    <fullName>VIP One Time Buyer A6</fullName>
+                    <default>false</default>
+                    <label>VIP One Time Buyer A6</label>
+                </value>
+                <value>
+                    <fullName>VIP Regular B11</fullName>
+                    <default>false</default>
+                    <label>VIP Regular B11</label>
+                </value>
+                <value>
+                    <fullName>VIP Regular B15</fullName>
+                    <default>false</default>
+                    <label>VIP Regular B15</label>
+                </value>
+                <value>
+                    <fullName>VIP Regular B3</fullName>
+                    <default>false</default>
+                    <label>VIP Regular B3</label>
+                </value>
+                <value>
+                    <fullName>VIP Regular B7</fullName>
+                    <default>false</default>
+                    <label>VIP Regular B7</label>
+                </value>
+                <value>
+                    <fullName>VIP Repeater A2</fullName>
+                    <default>false</default>
+                    <label>VIP Repeater A2</label>
+                </value>
+                <value>
+                    <fullName>VIP Repeater A5</fullName>
+                    <default>false</default>
+                    <label>VIP Repeater A5</label>
+                </value>
+                <value>
+                    <fullName>VIP Sleeping A7</fullName>
+                    <default>false</default>
+                    <label>VIP Sleeping A7</label>
+                </value>
+                <value>
+                    <fullName>VIP Sleeping A8</fullName>
+                    <default>false</default>
+                    <label>VIP Sleeping A8</label>
+                </value>
+                <value>
+                    <fullName>VIP Sleeping A9</fullName>
+                    <default>false</default>
+                    <label>VIP Sleeping A9</label>
+                </value>
+                <value>
+                    <fullName>VIP Super Frequent A1</fullName>
+                    <default>false</default>
+                    <label>VIP Super Frequent A1</label>
+                </value>
+                <value>
+                    <fullName>VIP Super Frequent A4</fullName>
+                    <default>false</default>
+                    <label>VIP Super Frequent A4</label>
+                </value>
+                <value>
+                    <fullName>VIP Super Frequent B1</fullName>
+                    <default>false</default>
+                    <label>VIP Super Frequent B1</label>
+                </value>
+                <value>
+                    <fullName>VIP Super Frequent B13</fullName>
+                    <default>false</default>
+                    <label>VIP Super Frequent B13</label>
+                </value>
+                <value>
+                    <fullName>VIP Super Frequent B5</fullName>
+                    <default>false</default>
+                    <label>VIP Super Frequent B5</label>
+                </value>
+                <value>
+                    <fullName>VIP Super Frequent B9</fullName>
+                    <default>false</default>
+                    <label>VIP Super Frequent B9</label>
+                </value>
+                <value>
+                    <fullName>VVIP</fullName>
+                    <default>false</default>
+                    <label>VVIP</label>
+                </value>
+                <value>
+                    <fullName>Vvip : &lt;10</fullName>
+                    <default>false</default>
+                    <label>Vvip : &lt;10</label>
+                </value>
+                <value>
+                    <fullName>WAT</fullName>
+                    <default>false</default>
+                    <label>WAT</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

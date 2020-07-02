@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>lisanti.piergiorgio@richemont.com</contactEmail>
+    <label>Informatica PWC</label>
+    <oauthConfig>
+        <callbackUrl>https://localhost:8443/salesforce/receivecallback</callbackUrl>
+        
+        <scopes>Api</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
