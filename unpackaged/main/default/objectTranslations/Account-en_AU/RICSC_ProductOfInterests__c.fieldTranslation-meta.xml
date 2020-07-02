@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Product Of Interests --></label>
+        <name>RICSC_ProductOfInterests__c</name>
+        <picklistValues>
+            <masterLabel>AMVOX</masterLabel>
+            <translation><!-- AMVOX --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Belt</masterLabel>
+            <translation><!-- Accessories Belt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Card holder</masterLabel>
+            <translation><!-- Accessories Card holder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Clock</masterLabel>
+            <translation><!-- Accessories Clock --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Cufflinks</masterLabel>
+            <translation><!-- Accessories Cufflinks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Handbags &amp; Leather</masterLabel>
+            <translation><!-- Accessories Handbags &amp; Leather --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Key ring</masterLabel>
+            <translation><!-- Accessories Key ring --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Lighter</masterLabel>
+            <translation><!-- Accessories Lighter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Money clip</masterLabel>
+            <translation><!-- Accessories Money clip --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Other</masterLabel>
+            <translation><!-- Accessories Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Pens</masterLabel>
+            <translation><!-- Accessories Pens --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Prescript Eyewear</masterLabel>
+            <translation><!-- Accessories Prescript Eyewear --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Scarf</masterLabel>
+            <translation><!-- Accessories Scarf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Small Leather</masterLabel>
+            <translation><!-- Accessories Small Leather --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accessories Sunglasses</masterLabel>
+            <translation><!-- Accessories Sunglasses --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Atmos</masterLabel>
+            <translation><!-- Atmos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Ballerine</masterLabel>
+            <translation><!-- Bridal Ballerine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal C De Cartier</masterLabel>
+            <translation><!-- Bridal C De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Cartier D’Amour</masterLabel>
+            <translation><!-- Bridal Cartier D’Amour --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Classic Wedding Bands</masterLabel>
+            <translation><!-- Bridal Classic Wedding Bands --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Declaration</masterLabel>
+            <translation><!-- Bridal Declaration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Honeymoon</masterLabel>
+            <translation><!-- Bridal Honeymoon --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal LOVE</masterLabel>
+            <translation><!-- Bridal LOVE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Other</masterLabel>
+            <translation><!-- Bridal Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Solitaire 1895</masterLabel>
+            <translation><!-- Bridal Solitaire 1895 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Trinity</masterLabel>
+            <translation><!-- Bridal Trinity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Duomètre</masterLabel>
+            <translation><!-- Duomètre --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Extraordinary</masterLabel>
+            <translation><!-- Extraordinary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Baiser Volé</masterLabel>
+            <translation><!-- Fragrances Baiser Volé --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Déclaration</masterLabel>
+            <translation><!-- Fragrances Déclaration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Déclarationd'unSoir</masterLabel>
+            <translation><!-- Fragrances Déclarationd&apos;unSoir --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Eau de Cartier</masterLabel>
+            <translation><!-- Fragrances Eau de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Les Heures</masterLabel>
+            <translation><!-- Fragrances Les Heures --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Must de Cartier</masterLabel>
+            <translation><!-- Fragrances Must de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Other</masterLabel>
+            <translation><!-- Fragrances Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Pasha de Cartier</masterLabel>
+            <translation><!-- Fragrances Pasha de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrances Roadster</masterLabel>
+            <translation><!-- Fragrances Roadster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Geophysic</masterLabel>
+            <translation><!-- Geophysic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hybris Mechanica</masterLabel>
+            <translation><!-- Hybris Mechanica --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jaeger-LeCoultre Polaris</masterLabel>
+            <translation><!-- Jaeger-LeCoultre Polaris --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Alhambra</masterLabel>
+            <translation><!-- Jewellery Alhambra --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Between the finger rings</masterLabel>
+            <translation><!-- Jewellery Between the finger rings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Bridal</masterLabel>
+            <translation><!-- Jewellery Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Butterflies &amp; Dragonflies</masterLabel>
+            <translation><!-- Jewellery Butterflies &amp; Dragonflies --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Engagement Rings</masterLabel>
+            <translation><!-- Jewellery Engagement Rings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Envol</masterLabel>
+            <translation><!-- Jewellery Envol --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Fleurette &amp; Snowflake</masterLabel>
+            <translation><!-- Jewellery Fleurette &amp; Snowflake --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Flowerlace</masterLabel>
+            <translation><!-- Jewellery Flowerlace --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Frivole</masterLabel>
+            <translation><!-- Jewellery Frivole --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Logo</masterLabel>
+            <translation><!-- Jewellery Logo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Love</masterLabel>
+            <translation><!-- Jewellery Love --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Oiseaux de Paradis</masterLabel>
+            <translation><!-- Jewellery Oiseaux de Paradis --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Perlée</masterLabel>
+            <translation><!-- Jewellery Perlée --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Rose de Noël &amp; Cosmos</masterLabel>
+            <translation><!-- Jewellery Rose de Noël &amp; Cosmos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Une Journée à Paris</masterLabel>
+            <translation><!-- Jewellery Une Journée à Paris --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Wedding bands</masterLabel>
+            <translation><!-- Jewellery Wedding bands --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JewelleryAll</masterLabel>
+            <translation><!-- JewelleryAll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JewelleryCaresse d'Orchidees</masterLabel>
+            <translation><!-- JewelleryCaresse d&apos;Orchidees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JewelleryHearts</masterLabel>
+            <translation><!-- JewelleryHearts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JewelleryPanthere</masterLabel>
+            <translation><!-- JewelleryPanthere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JewelleryTank</masterLabel>
+            <translation><!-- JewelleryTank --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JewelleryTrinity</masterLabel>
+            <translation><!-- JewelleryTrinity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry Diamants Leger</masterLabel>
+            <translation><!-- Jewelry Diamants Leger --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry Diamond Jewelry</masterLabel>
+            <translation><!-- Jewelry Diamond Jewelry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry Entrelacés</masterLabel>
+            <translation><!-- Jewelry Entrelacés --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry High Jewelery</masterLabel>
+            <translation><!-- Jewelry High Jewelery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry Juste un Clou</masterLabel>
+            <translation><!-- Jewelry Juste un Clou --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry for Children</masterLabel>
+            <translation><!-- Jewelry for Children --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewelry for Men</masterLabel>
+            <translation><!-- Jewelry for Men --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Latest creations</masterLabel>
+            <translation><!-- Latest creations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods All</masterLabel>
+            <translation><!-- Leather Goods All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods Happy Birthday</masterLabel>
+            <translation><!-- Leather Goods Happy Birthday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods Marcello de Cartier</masterLabel>
+            <translation><!-- Leather Goods Marcello de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods Must de Cartier</masterLabel>
+            <translation><!-- Leather Goods Must de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods Other</masterLabel>
+            <translation><!-- Leather Goods Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods Pasha de Cartier</masterLabel>
+            <translation><!-- Leather Goods Pasha de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods Santos de Cartier</masterLabel>
+            <translation><!-- Leather Goods Santos de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Master</masterLabel>
+            <translation><!-- Master --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Master Extreme</masterLabel>
+            <translation><!-- Master Extreme --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Metiers Rares</masterLabel>
+            <translation><!-- Metiers Rares --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens All</masterLabel>
+            <translation><!-- Pens All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens Diabolo de Cartier</masterLabel>
+            <translation><!-- Pens Diabolo de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens Louis Cartier</masterLabel>
+            <translation><!-- Pens Louis Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens Other</masterLabel>
+            <translation><!-- Pens Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens Pasha de Cartier</masterLabel>
+            <translation><!-- Pens Pasha de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens Roadster de Cartier</masterLabel>
+            <translation><!-- Pens Roadster de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens Trinity de Cartier</masterLabel>
+            <translation><!-- Pens Trinity de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rendez-Vous</masterLabel>
+            <translation><!-- Rendez-Vous --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reverso</masterLabel>
+            <translation><!-- Reverso --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Cadenas</masterLabel>
+            <translation><!-- Timepiece Cadenas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Charms</masterLabel>
+            <translation><!-- Timepiece Charms --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Extraordinary Dials</masterLabel>
+            <translation><!-- Timepiece Extraordinary Dials --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Fleurette</masterLabel>
+            <translation><!-- Timepiece Fleurette --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Lady Arpels</masterLabel>
+            <translation><!-- Timepiece Lady Arpels --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Midnight</masterLabel>
+            <translation><!-- Timepiece Midnight --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Monsieur Arpels</masterLabel>
+            <translation><!-- Timepiece Monsieur Arpels --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece PA 49</masterLabel>
+            <translation><!-- Timepiece PA 49 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Poetic Complication</masterLabel>
+            <translation><!-- Timepiece Poetic Complication --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Secret</masterLabel>
+            <translation><!-- Timepiece Secret --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepiece Timeless</masterLabel>
+            <translation><!-- Timepiece Timeless --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches All</masterLabel>
+            <translation><!-- Watches All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Baignoire</masterLabel>
+            <translation><!-- Watches Baignoire --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Ballon Bleu</masterLabel>
+            <translation><!-- Watches Ballon Bleu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches CPCP</masterLabel>
+            <translation><!-- Watches CPCP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Calibre</masterLabel>
+            <translation><!-- Watches Calibre --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Délices</masterLabel>
+            <translation><!-- Watches Délices --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Haute Horlogerie</masterLabel>
+            <translation><!-- Watches Haute Horlogerie --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches High Jewelry</masterLabel>
+            <translation><!-- Watches High Jewelry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches La dona</masterLabel>
+            <translation><!-- Watches La dona --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Ligne 21 de Cartier</masterLabel>
+            <translation><!-- Watches Ligne 21 de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Other</masterLabel>
+            <translation><!-- Watches Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Panthere</masterLabel>
+            <translation><!-- Watches Panthere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Pasha</masterLabel>
+            <translation><!-- Watches Pasha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Roadster</masterLabel>
+            <translation><!-- Watches Roadster --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Ronde Louis Cartier</masterLabel>
+            <translation><!-- Watches Ronde Louis Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Ronde Solo de Cartier</masterLabel>
+            <translation><!-- Watches Ronde Solo de Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Santos</masterLabel>
+            <translation><!-- Watches Santos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Tank</masterLabel>
+            <translation><!-- Watches Tank --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Tank US</masterLabel>
+            <translation><!-- Watches Tank US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Tonneau</masterLabel>
+            <translation><!-- Watches Tonneau --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches Tortue</masterLabel>
+            <translation><!-- Watches Tortue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WatchesTank FR</masterLabel>
+            <translation><!-- WatchesTank FR --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

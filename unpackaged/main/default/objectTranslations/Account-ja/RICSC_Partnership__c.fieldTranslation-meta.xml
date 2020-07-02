@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Partnership --></label>
+        <name>RICSC_Partnership__c</name>
+        <picklistValues>
+            <masterLabel>7SECONDS</masterLabel>
+            <translation><!-- 7SECONDS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8SECONDS</masterLabel>
+            <translation><!-- 8SECONDS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Altiplano Contest</masterLabel>
+            <translation><!-- Altiplano Contest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>American Express 09</masterLabel>
+            <translation><!-- American Express 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Art Basel 2010</masterLabel>
+            <translation><!-- Art Basel 2010 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Art Basel 2011</masterLabel>
+            <translation><!-- Art Basel 2011 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Asia Society 09</masterLabel>
+            <translation><!-- Asia Society 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Biennale 2010</masterLabel>
+            <translation><!-- Biennale 2010 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Black Amex</masterLabel>
+            <translation><!-- Black Amex --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal</masterLabel>
+            <translation><!-- Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Night</masterLabel>
+            <translation><!-- Bridal Night --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal Prospect</masterLabel>
+            <translation><!-- Bridal Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CNY Event East West Bank</masterLabel>
+            <translation><!-- CNY Event East West Bank --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalyst 09</masterLabel>
+            <translation><!-- Catalyst 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charity sale</masterLabel>
+            <translation><!-- Charity sale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Conde Nast Traveler</masterLabel>
+            <translation><!-- Conde Nast Traveler --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Costume Institute of NY 09</masterLabel>
+            <translation><!-- Costume Institute of NY 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Card in watch box</masterLabel>
+            <translation><!-- Customer Card in watch box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DAYS</masterLabel>
+            <translation><!-- DAYS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DM F1 FY14</masterLabel>
+            <translation><!-- DM F1 FY14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dazzle Ptf37 FY16</masterLabel>
+            <translation><!-- Dazzle Ptf37 FY16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FR_My Little Paris</masterLabel>
+            <translation><!-- FR_My Little Paris --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forbes</masterLabel>
+            <translation><!-- Forbes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Four Season's</masterLabel>
+            <translation><!-- Four Season&apos;s --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GQ F1 FY15</masterLabel>
+            <translation><!-- GQ F1 FY15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Harper's Bazaar 09</masterLabel>
+            <translation><!-- Harper&apos;s Bazaar 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HiFu</masterLabel>
+            <translation><!-- HiFu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Aria</masterLabel>
+            <translation><!-- Las Vegas-Aria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Bellagio</masterLabel>
+            <translation><!-- Las Vegas-Bellagio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Caesars Palace</masterLabel>
+            <translation><!-- Las Vegas-Caesars Palace --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Cosmopolitan</masterLabel>
+            <translation><!-- Las Vegas-Cosmopolitan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Encore</masterLabel>
+            <translation><!-- Las Vegas-Encore --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-MGM Grand</masterLabel>
+            <translation><!-- Las Vegas-MGM Grand --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Mandarin Oriental</masterLabel>
+            <translation><!-- Las Vegas-Mandarin Oriental --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Palazzo</masterLabel>
+            <translation><!-- Las Vegas-Palazzo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Vdara</masterLabel>
+            <translation><!-- Las Vegas-Vdara --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Venetian</masterLabel>
+            <translation><!-- Las Vegas-Venetian --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Las Vegas-Wynn</masterLabel>
+            <translation><!-- Las Vegas-Wynn --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leon F1 FY14</masterLabel>
+            <translation><!-- Leon F1 FY14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>March of Dimes 09</masterLabel>
+            <translation><!-- March of Dimes 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Martha Stewart Magazine</masterLabel>
+            <translation><!-- Martha Stewart Magazine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mike Lima 2018</masterLabel>
+            <translation><!-- Mike Lima 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NBA 09</masterLabel>
+            <translation><!-- NBA 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NY Botanical Gardens 09</masterLabel>
+            <translation><!-- NY Botanical Gardens 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OLD</masterLabel>
+            <translation><!-- OLD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Open Galapagos FY15</masterLabel>
+            <translation><!-- Open Galapagos FY15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other influencer</masterLabel>
+            <translation><!-- Other influencer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partnership Lamborghini</masterLabel>
+            <translation><!-- Partnership Lamborghini --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partnership Pirelli</masterLabel>
+            <translation><!-- Partnership Pirelli --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patty Pao</masterLabel>
+            <translation><!-- Patty Pao --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum Amex</masterLabel>
+            <translation><!-- Platinum Amex --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ritz Carlton</masterLabel>
+            <translation><!-- Ritz Carlton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rolls Royce 09</masterLabel>
+            <translation><!-- Rolls Royce 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Russian American Foundation 09</masterLabel>
+            <translation><!-- Russian American Foundation 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SPARKLES</masterLabel>
+            <translation><!-- SPARKLES --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Salesforce</masterLabel>
+            <translation><!-- Salesforce --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service Nation 09</masterLabel>
+            <translation><!-- Service Nation 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shape Your Time</masterLabel>
+            <translation><!-- Shape Your Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Signature CDF FY15</masterLabel>
+            <translation><!-- Signature CDF FY15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Social/Influencer</masterLabel>
+            <translation><!-- Social/Influencer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The Peninsula</masterLabel>
+            <translation><!-- The Peninsula --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Time Crafters</masterLabel>
+            <translation><!-- Time Crafters --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tour guides</masterLabel>
+            <translation><!-- Tour guides --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Prospect</masterLabel>
+            <translation><!-- VIP Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Values Galapagos FY15</masterLabel>
+            <translation><!-- Values Galapagos FY15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vanity Fair 09</masterLabel>
+            <translation><!-- Vanity Fair 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vogue FR</masterLabel>
+            <translation><!-- Vogue FR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch Time</masterLabel>
+            <translation><!-- Watch Time --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch Time 09</masterLabel>
+            <translation><!-- Watch Time 09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wealth Engine</masterLabel>
+            <translation><!-- Wealth Engine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wholesale dealer</masterLabel>
+            <translation><!-- Wholesale dealer --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

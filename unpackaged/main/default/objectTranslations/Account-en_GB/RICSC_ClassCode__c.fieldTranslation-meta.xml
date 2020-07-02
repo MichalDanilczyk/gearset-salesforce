@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Class Code --></label>
+        <name>RICSC_ClassCode__c</name>
+        <picklistValues>
+            <masterLabel>Boutique Client</masterLabel>
+            <translation><!-- Boutique Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Service client</masterLabel>
+            <translation><!-- Boutique Service client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Call Center Prospect</masterLabel>
+            <translation><!-- Cartier Call Center Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Customer Service</masterLabel>
+            <translation><!-- Cartier Customer Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Prospect</masterLabel>
+            <translation><!-- Cartier Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Prospect Multichannel</masterLabel>
+            <translation><!-- Cartier Prospect Multichannel --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Retail</masterLabel>
+            <translation><!-- Cartier Retail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Retail Mutlichannel Customer</masterLabel>
+            <translation><!-- Cartier Retail Mutlichannel Customer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Retail Web Customer</masterLabel>
+            <translation><!-- Cartier Retail Web Customer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charity</masterLabel>
+            <translation><!-- Charity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charity Client</masterLabel>
+            <translation><!-- Charity Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contact Center Client</masterLabel>
+            <translation><!-- Contact Center Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contact Center Retail Client</masterLabel>
+            <translation><!-- Contact Center Retail Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contact Center Service Client</masterLabel>
+            <translation><!-- Contact Center Service Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Service Client</masterLabel>
+            <translation><!-- Customer Service Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Commerce Client</masterLabel>
+            <translation><!-- E-Commerce Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-Channel Client</masterLabel>
+            <translation><!-- Multi-Channel Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-channel Retail Client</masterLabel>
+            <translation><!-- Multi-channel Retail Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-channel Service Client</masterLabel>
+            <translation><!-- Multi-channel Service Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect</masterLabel>
+            <translation><!-- Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect Boutique</masterLabel>
+            <translation><!-- Prospect Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect Partnership</masterLabel>
+            <translation><!-- Prospect Partnership --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect Web</masterLabel>
+            <translation><!-- Prospect Web --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect Web Cartier</masterLabel>
+            <translation><!-- Prospect Web Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect contact center</masterLabel>
+            <translation><!-- Prospect contact center --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staff</masterLabel>
+            <translation><!-- Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unknown</masterLabel>
+            <translation><!-- Unknown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web Client</masterLabel>
+            <translation><!-- Web Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Web Retail Client</masterLabel>
+            <translation><!-- Web Retail Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wholesaler</masterLabel>
+            <translation><!-- Wholesaler --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

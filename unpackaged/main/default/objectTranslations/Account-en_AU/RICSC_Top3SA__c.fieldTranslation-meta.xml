@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Top 3 SA --></label>
+        <name>RICSC_Top3SA__c</name>
+        <relationshipLabel><!-- Accounts (Top 3 SA) --></relationshipLabel>
+    </CustomFieldTranslation>

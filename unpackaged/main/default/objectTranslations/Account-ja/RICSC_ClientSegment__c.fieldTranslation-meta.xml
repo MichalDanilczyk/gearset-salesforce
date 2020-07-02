@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Client Segment --></label>
+        <name>RICSC_ClientSegment__c</name>
+        <picklistValues>
+            <masterLabel>ACTIVE</masterLabel>
+            <translation><!-- ACTIVE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access 0-6 U05</masterLabel>
+            <translation><!-- Access 0-6 U05 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access 7-12 U10</masterLabel>
+            <translation><!-- Access 7-12 U10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Accessories</masterLabel>
+            <translation><!-- Access Accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Bijoux</masterLabel>
+            <translation><!-- Access Bijoux --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Frequent E10</masterLabel>
+            <translation><!-- Access Frequent E10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Frequent E13</masterLabel>
+            <translation><!-- Access Frequent E13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Frequent E2</masterLabel>
+            <translation><!-- Access Frequent E2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Frequent E6</masterLabel>
+            <translation><!-- Access Frequent E6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access New N5</masterLabel>
+            <translation><!-- Access New N5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access One Shot E4</masterLabel>
+            <translation><!-- Access One Shot E4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access One Shot E8</masterLabel>
+            <translation><!-- Access One Shot E8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access One Time Buyer E3</masterLabel>
+            <translation><!-- Access One Time Buyer E3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access One Time Buyer E6</masterLabel>
+            <translation><!-- Access One Time Buyer E6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Regular E11</masterLabel>
+            <translation><!-- Access Regular E11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Regular E14</masterLabel>
+            <translation><!-- Access Regular E14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Regular E3</masterLabel>
+            <translation><!-- Access Regular E3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Regular E7</masterLabel>
+            <translation><!-- Access Regular E7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Repeater E2</masterLabel>
+            <translation><!-- Access Repeater E2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Repeater E5</masterLabel>
+            <translation><!-- Access Repeater E5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Super Frequent E4</masterLabel>
+            <translation><!-- Access Super Frequent E4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Super frequent E1</masterLabel>
+            <translation><!-- Access Super frequent E1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Super frequent E12</masterLabel>
+            <translation><!-- Access Super frequent E12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Super frequent E5</masterLabel>
+            <translation><!-- Access Super frequent E5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Super frequent E9</masterLabel>
+            <translation><!-- Access Super frequent E9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Watch</masterLabel>
+            <translation><!-- Access Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Active - Elegant</masterLabel>
+            <translation><!-- Active - Elegant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Active - Frequent</masterLabel>
+            <translation><!-- Active - Frequent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Active - Occasional</masterLabel>
+            <translation><!-- Active - Occasional --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Active - VIC</masterLabel>
+            <translation><!-- Active - VIC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Active - VVIC</masterLabel>
+            <translation><!-- Active - VVIC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Active Clients 20K</masterLabel>
+            <translation><!-- Active Clients 20K --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C23</masterLabel>
+            <translation><!-- C23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C24</masterLabel>
+            <translation><!-- C24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CS &amp; Accessories</masterLabel>
+            <translation><!-- CS &amp; Accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CS Client</masterLabel>
+            <translation><!-- CS Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D11</masterLabel>
+            <translation><!-- D11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D12</masterLabel>
+            <translation><!-- D12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D13</masterLabel>
+            <translation><!-- D13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D14</masterLabel>
+            <translation><!-- D14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D15</masterLabel>
+            <translation><!-- D15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D16</masterLabel>
+            <translation><!-- D16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D17</masterLabel>
+            <translation><!-- D17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D18</masterLabel>
+            <translation><!-- D18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D19</masterLabel>
+            <translation><!-- D19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D20</masterLabel>
+            <translation><!-- D20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D21</masterLabel>
+            <translation><!-- D21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D22</masterLabel>
+            <translation><!-- D22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D23</masterLabel>
+            <translation><!-- D23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D24</masterLabel>
+            <translation><!-- D24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Default</masterLabel>
+            <translation><!-- Default --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E15</masterLabel>
+            <translation><!-- E15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E16</masterLabel>
+            <translation><!-- E16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E23</masterLabel>
+            <translation><!-- E23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E24</masterLabel>
+            <translation><!-- E24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EN</masterLabel>
+            <translation><!-- EN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elite - Loyal</masterLabel>
+            <translation><!-- Elite - Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elite - Loyal - Inactive</masterLabel>
+            <translation><!-- Elite - Loyal - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elite - One Shot</masterLabel>
+            <translation><!-- Elite - One Shot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elite - One Shot - Inactive</masterLabel>
+            <translation><!-- Elite - One Shot - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elite - Recurrent</masterLabel>
+            <translation><!-- Elite - Recurrent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Elite - Recurrent - Inactive</masterLabel>
+            <translation><!-- Elite - Recurrent - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Exisiting Rising Star</masterLabel>
+            <translation><!-- Exisiting Rising Star --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F10</masterLabel>
+            <translation><!-- F10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F11</masterLabel>
+            <translation><!-- F11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F12</masterLabel>
+            <translation><!-- F12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F13</masterLabel>
+            <translation><!-- F13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F14</masterLabel>
+            <translation><!-- F14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F15</masterLabel>
+            <translation><!-- F15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F16</masterLabel>
+            <translation><!-- F16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F17</masterLabel>
+            <translation><!-- F17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F18</masterLabel>
+            <translation><!-- F18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F19</masterLabel>
+            <translation><!-- F19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F20</masterLabel>
+            <translation><!-- F20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F21</masterLabel>
+            <translation><!-- F21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F22</masterLabel>
+            <translation><!-- F22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F23</masterLabel>
+            <translation><!-- F23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F24</masterLabel>
+            <translation><!-- F24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F9</masterLabel>
+            <translation><!-- F9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G21</masterLabel>
+            <translation><!-- G21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G22</masterLabel>
+            <translation><!-- G22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G23</masterLabel>
+            <translation><!-- G23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>G24</masterLabel>
+            <translation><!-- G24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC - Loyal</masterLabel>
+            <translation><!-- GC - Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC - Loyal - Inactive</masterLabel>
+            <translation><!-- GC - Loyal - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC - One Shot</masterLabel>
+            <translation><!-- GC - One Shot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC - One Shot - Inactive</masterLabel>
+            <translation><!-- GC - One Shot - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC - Recurrent</masterLabel>
+            <translation><!-- GC - Recurrent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC - Recurrent - Inactive</masterLabel>
+            <translation><!-- GC - Recurrent - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 1 Newcomer</masterLabel>
+            <translation><!-- Gear 1 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 1 Repeater</masterLabel>
+            <translation><!-- Gear 1 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 1 Welcome Back</masterLabel>
+            <translation><!-- Gear 1 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 2 Loyal</masterLabel>
+            <translation><!-- Gear 2 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 2 Newcomer</masterLabel>
+            <translation><!-- Gear 2 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 2 Repeater</masterLabel>
+            <translation><!-- Gear 2 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 2 Welcome Back</masterLabel>
+            <translation><!-- Gear 2 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 3 Loyal</masterLabel>
+            <translation><!-- Gear 3 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 3 Newcomer</masterLabel>
+            <translation><!-- Gear 3 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 3 Repeater</masterLabel>
+            <translation><!-- Gear 3 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 3 Welcome Back</masterLabel>
+            <translation><!-- Gear 3 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 4 Loyal</masterLabel>
+            <translation><!-- Gear 4 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 4 Newcomer</masterLabel>
+            <translation><!-- Gear 4 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 4 Repeater</masterLabel>
+            <translation><!-- Gear 4 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 4 Welcome Back</masterLabel>
+            <translation><!-- Gear 4 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 5 Loyal</masterLabel>
+            <translation><!-- Gear 5 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 5 Newcomer</masterLabel>
+            <translation><!-- Gear 5 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 5 Repeater</masterLabel>
+            <translation><!-- Gear 5 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 5 Welcome Back</masterLabel>
+            <translation><!-- Gear 5 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 6 Loyal</masterLabel>
+            <translation><!-- Gear 6 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 6 Newcomer</masterLabel>
+            <translation><!-- Gear 6 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 6 Repeater</masterLabel>
+            <translation><!-- Gear 6 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gear 6 Welcome Back</masterLabel>
+            <translation><!-- Gear 6 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HJ</masterLabel>
+            <translation><!-- HJ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Heart of Cartier 0-6 U02</masterLabel>
+            <translation><!-- Heart of Cartier 0-6 U02 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Heart of Cartier 7-12 U07</masterLabel>
+            <translation><!-- Heart of Cartier 7-12 U07 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Contributor - Astral - VIP</masterLabel>
+            <translation><!-- High Contributor - Astral - VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Contributor - Incredible - VIP</masterLabel>
+            <translation><!-- High Contributor - Incredible - VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Contributor - Ultimate - VIP</masterLabel>
+            <translation><!-- High Contributor - Ultimate - VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Contributor - VIP</masterLabel>
+            <translation><!-- High Contributor - VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IC - Loyal</masterLabel>
+            <translation><!-- IC - Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IC - Loyal - Inactive</masterLabel>
+            <translation><!-- IC - Loyal - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IC - One Shot</masterLabel>
+            <translation><!-- IC - One Shot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IC - One Shot - Inactive</masterLabel>
+            <translation><!-- IC - One Shot - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IC - Recurrent</masterLabel>
+            <translation><!-- IC - Recurrent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IC - Recurrent - Inactive</masterLabel>
+            <translation><!-- IC - Recurrent - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IP</masterLabel>
+            <translation><!-- IP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive</masterLabel>
+            <translation><!-- Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive (PI)</masterLabel>
+            <translation><!-- Inactive (PI) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive CS &amp; Accessories</masterLabel>
+            <translation><!-- Inactive CS &amp; Accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive One Timer</masterLabel>
+            <translation><!-- Inactive One Timer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive Repeater</masterLabel>
+            <translation><!-- Inactive Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive VIC</masterLabel>
+            <translation><!-- Inactive VIC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Bridal</masterLabel>
+            <translation><!-- Initiate Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Frequent C10</masterLabel>
+            <translation><!-- Initiate Frequent C10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Frequent C14</masterLabel>
+            <translation><!-- Initiate Frequent C14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Frequent C2</masterLabel>
+            <translation><!-- Initiate Frequent C2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Frequent C6</masterLabel>
+            <translation><!-- Initiate Frequent C6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Jewelry</masterLabel>
+            <translation><!-- Initiate Jewelry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate New N3</masterLabel>
+            <translation><!-- Initiate New N3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate One Shot C12</masterLabel>
+            <translation><!-- Initiate One Shot C12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate One Shot C16</masterLabel>
+            <translation><!-- Initiate One Shot C16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate One Shot C4</masterLabel>
+            <translation><!-- Initiate One Shot C4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate One Shot C8</masterLabel>
+            <translation><!-- Initiate One Shot C8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate One Time Buyer C3</masterLabel>
+            <translation><!-- Initiate One Time Buyer C3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate One Time Buyer C6</masterLabel>
+            <translation><!-- Initiate One Time Buyer C6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Regular C11</masterLabel>
+            <translation><!-- Initiate Regular C11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Regular C15</masterLabel>
+            <translation><!-- Initiate Regular C15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Regular C3</masterLabel>
+            <translation><!-- Initiate Regular C3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Regular C7</masterLabel>
+            <translation><!-- Initiate Regular C7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Repeater C2</masterLabel>
+            <translation><!-- Initiate Repeater C2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Repeater C5</masterLabel>
+            <translation><!-- Initiate Repeater C5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Super Frequent C4</masterLabel>
+            <translation><!-- Initiate Super Frequent C4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Super frequent C1</masterLabel>
+            <translation><!-- Initiate Super frequent C1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Super frequent C13</masterLabel>
+            <translation><!-- Initiate Super frequent C13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Super frequent C5</masterLabel>
+            <translation><!-- Initiate Super frequent C5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Super frequent C9</masterLabel>
+            <translation><!-- Initiate Super frequent C9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Initiate Watch</masterLabel>
+            <translation><!-- Initiate Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JEW</masterLabel>
+            <translation><!-- JEW --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LOYAL</masterLabel>
+            <translation><!-- LOYAL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 1 Newcomer</masterLabel>
+            <translation><!-- Lapsed Gear 1 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 1 Repeater</masterLabel>
+            <translation><!-- Lapsed Gear 1 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 1 Welcome Back</masterLabel>
+            <translation><!-- Lapsed Gear 1 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 2 Loyal</masterLabel>
+            <translation><!-- Lapsed Gear 2 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 2 Newcomer</masterLabel>
+            <translation><!-- Lapsed Gear 2 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 2 Repeater</masterLabel>
+            <translation><!-- Lapsed Gear 2 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 2 Welcome Back</masterLabel>
+            <translation><!-- Lapsed Gear 2 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 3 Loyal</masterLabel>
+            <translation><!-- Lapsed Gear 3 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 3 Newcomer</masterLabel>
+            <translation><!-- Lapsed Gear 3 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 3 Repeater</masterLabel>
+            <translation><!-- Lapsed Gear 3 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 3 Welcome Back</masterLabel>
+            <translation><!-- Lapsed Gear 3 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 4 Loyal</masterLabel>
+            <translation><!-- Lapsed Gear 4 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 4 Newcomer</masterLabel>
+            <translation><!-- Lapsed Gear 4 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 4 Repeater</masterLabel>
+            <translation><!-- Lapsed Gear 4 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 4 Welcome Back</masterLabel>
+            <translation><!-- Lapsed Gear 4 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 5 Loyal</masterLabel>
+            <translation><!-- Lapsed Gear 5 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 5 Newcomer</masterLabel>
+            <translation><!-- Lapsed Gear 5 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 5 Repeater</masterLabel>
+            <translation><!-- Lapsed Gear 5 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 5 Welcome Back</masterLabel>
+            <translation><!-- Lapsed Gear 5 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 6 Loyal</masterLabel>
+            <translation><!-- Lapsed Gear 6 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 6 Newcomer</masterLabel>
+            <translation><!-- Lapsed Gear 6 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 6 Repeater</masterLabel>
+            <translation><!-- Lapsed Gear 6 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsed Gear 6 Welcome Back</masterLabel>
+            <translation><!-- Lapsed Gear 6 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 1 Newcomer</masterLabel>
+            <translation><!-- Lapsing Gear 1 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 1 Repeater</masterLabel>
+            <translation><!-- Lapsing Gear 1 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 1 Welcome Back</masterLabel>
+            <translation><!-- Lapsing Gear 1 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 2 Loyal</masterLabel>
+            <translation><!-- Lapsing Gear 2 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 2 Newcomer</masterLabel>
+            <translation><!-- Lapsing Gear 2 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 2 Repeater</masterLabel>
+            <translation><!-- Lapsing Gear 2 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 2 Welcome Back</masterLabel>
+            <translation><!-- Lapsing Gear 2 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 3 Loyal</masterLabel>
+            <translation><!-- Lapsing Gear 3 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 3 Newcomer</masterLabel>
+            <translation><!-- Lapsing Gear 3 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 3 Repeater</masterLabel>
+            <translation><!-- Lapsing Gear 3 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 3 Welcome Back</masterLabel>
+            <translation><!-- Lapsing Gear 3 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 4 Loyal</masterLabel>
+            <translation><!-- Lapsing Gear 4 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 4 Newcomer</masterLabel>
+            <translation><!-- Lapsing Gear 4 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 4 Repeater</masterLabel>
+            <translation><!-- Lapsing Gear 4 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 4 Welcome Back</masterLabel>
+            <translation><!-- Lapsing Gear 4 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 5 Loyal</masterLabel>
+            <translation><!-- Lapsing Gear 5 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 5 Newcomer</masterLabel>
+            <translation><!-- Lapsing Gear 5 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 5 Repeater</masterLabel>
+            <translation><!-- Lapsing Gear 5 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 5 Welcome Back</masterLabel>
+            <translation><!-- Lapsing Gear 5 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 6 Loyal</masterLabel>
+            <translation><!-- Lapsing Gear 6 Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 6 Newcomer</masterLabel>
+            <translation><!-- Lapsing Gear 6 Newcomer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 6 Repeater</masterLabel>
+            <translation><!-- Lapsing Gear 6 Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lapsing Gear 6 Welcome Back</masterLabel>
+            <translation><!-- Lapsing Gear 6 Welcome Back --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Access Frequent G14</masterLabel>
+            <translation><!-- Lost Access Frequent G14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Access Frequent G18</masterLabel>
+            <translation><!-- Lost Access Frequent G18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Access Regular G15</masterLabel>
+            <translation><!-- Lost Access Regular G15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Access Regular G19</masterLabel>
+            <translation><!-- Lost Access Regular G19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Access Super frequent G13</masterLabel>
+            <translation><!-- Lost Access Super frequent G13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Access Super frequent G17</masterLabel>
+            <translation><!-- Lost Access Super frequent G17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost F1</masterLabel>
+            <translation><!-- Lost F1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Initiate Frequent G2</masterLabel>
+            <translation><!-- Lost Initiate Frequent G2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Initiate Frequent G6</masterLabel>
+            <translation><!-- Lost Initiate Frequent G6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Initiate Regular G3</masterLabel>
+            <translation><!-- Lost Initiate Regular G3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Initiate Regular G7</masterLabel>
+            <translation><!-- Lost Initiate Regular G7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Initiate Super frequent G1</masterLabel>
+            <translation><!-- Lost Initiate Super frequent G1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Initiate Super frequent G5</masterLabel>
+            <translation><!-- Lost Initiate Super frequent G5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Potential Initiate Frequent G10</masterLabel>
+            <translation><!-- Lost Potential Initiate Frequent G10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Potential Initiate Regular G11</masterLabel>
+            <translation><!-- Lost Potential Initiate Regular G11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost Potential Initiate Super frequent G9</masterLabel>
+            <translation><!-- Lost Potential Initiate Super frequent G9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP Frequent A26</masterLabel>
+            <translation><!-- Lost TOP VIP Frequent A26 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP Frequent A30</masterLabel>
+            <translation><!-- Lost TOP VIP Frequent A30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP One Shot A28</masterLabel>
+            <translation><!-- Lost TOP VIP One Shot A28 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP One Shot A32</masterLabel>
+            <translation><!-- Lost TOP VIP One Shot A32 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP Regular A27</masterLabel>
+            <translation><!-- Lost TOP VIP Regular A27 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP Regular A31</masterLabel>
+            <translation><!-- Lost TOP VIP Regular A31 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP Super Frequent A25</masterLabel>
+            <translation><!-- Lost TOP VIP Super Frequent A25 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost TOP VIP Super Frequent A29</masterLabel>
+            <translation><!-- Lost TOP VIP Super Frequent A29 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP Frequent B26</masterLabel>
+            <translation><!-- Lost VIP Frequent B26 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP Frequent B30</masterLabel>
+            <translation><!-- Lost VIP Frequent B30 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP One Shot B28</masterLabel>
+            <translation><!-- Lost VIP One Shot B28 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP One Shot B32</masterLabel>
+            <translation><!-- Lost VIP One Shot B32 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP Regular B27</masterLabel>
+            <translation><!-- Lost VIP Regular B27 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP Regular B31</masterLabel>
+            <translation><!-- Lost VIP Regular B31 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP Super Frequent B25</masterLabel>
+            <translation><!-- Lost VIP Super Frequent B25 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lost VIP Super Frequent B29</masterLabel>
+            <translation><!-- Lost VIP Super Frequent B29 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loyal 0-6 U03</masterLabel>
+            <translation><!-- Loyal 0-6 U03 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loyal 7-12 U08</masterLabel>
+            <translation><!-- Loyal 7-12 U08 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MIX</masterLabel>
+            <translation><!-- MIX --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NEW</masterLabel>
+            <translation><!-- NEW --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Client</masterLabel>
+            <translation><!-- New Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New High Potential 0-6 U04</masterLabel>
+            <translation><!-- New High Potential 0-6 U04 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New High Potential 7-12 U09</masterLabel>
+            <translation><!-- New High Potential 7-12 U09 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Rising Star</masterLabel>
+            <translation><!-- New Rising Star --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Watch Client</masterLabel>
+            <translation><!-- New Watch Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New with high potential</masterLabel>
+            <translation><!-- New with high potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New with low potential</masterLabel>
+            <translation><!-- New with low potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Purchas</masterLabel>
+            <translation><!-- No Purchas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Normal : &lt;</masterLabel>
+            <translation><!-- Normal : &lt; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Normal : &gt;</masterLabel>
+            <translation><!-- Normal : &gt; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Assigned (PI)</masterLabel>
+            <translation><!-- Not Assigned (PI) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Occasional</masterLabel>
+            <translation><!-- Occasional --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot A</masterLabel>
+            <translation><!-- One Shot A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Access F2</masterLabel>
+            <translation><!-- One Shot Access F2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Access F3</masterLabel>
+            <translation><!-- One Shot Access F3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Lost Access G16</masterLabel>
+            <translation><!-- One Shot Lost Access G16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Lost Access G20</masterLabel>
+            <translation><!-- One Shot Lost Access G20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Lost Initiate G4</masterLabel>
+            <translation><!-- One Shot Lost Initiate G4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Lost Initiate G8</masterLabel>
+            <translation><!-- One Shot Lost Initiate G8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Lost Potential Initiate G12</masterLabel>
+            <translation><!-- One Shot Lost Potential Initiate G12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Potential Initiate F1</masterLabel>
+            <translation><!-- One Shot Potential Initiate F1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Sleeping Access F7</masterLabel>
+            <translation><!-- One Shot Sleeping Access F7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Sleeping Access F8</masterLabel>
+            <translation><!-- One Shot Sleeping Access F8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Sleeping Initiate F4</masterLabel>
+            <translation><!-- One Shot Sleeping Initiate F4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Sleeping Initiate F5</masterLabel>
+            <translation><!-- One Shot Sleeping Initiate F5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Shot Sleeping Potential Initiate F6</masterLabel>
+            <translation><!-- One Shot Sleeping Potential Initiate F6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>One Timer</masterLabel>
+            <translation><!-- One Timer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Prospects</masterLabel>
+            <translation><!-- Other Prospects --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Watch Clients</masterLabel>
+            <translation><!-- Other Watch Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. Initiate One Time Buy. D3</masterLabel>
+            <translation><!-- Pot. Initiate One Time Buy. D3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. Initiate One Time Buy. D6</masterLabel>
+            <translation><!-- Pot. Initiate One Time Buy. D6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. Initiate Repeater D2</masterLabel>
+            <translation><!-- Pot. Initiate Repeater D2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. Initiate Repeater D5</masterLabel>
+            <translation><!-- Pot. Initiate Repeater D5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. Initiate Super Freq. D1</masterLabel>
+            <translation><!-- Pot. Initiate Super Freq. D1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. Initiate Super Freq. D4</masterLabel>
+            <translation><!-- Pot. Initiate Super Freq. D4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP One Time Buyer B3</masterLabel>
+            <translation><!-- Pot. VIP One Time Buyer B3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP One Time Buyer B6</masterLabel>
+            <translation><!-- Pot. VIP One Time Buyer B6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Repeater B2</masterLabel>
+            <translation><!-- Pot. VIP Repeater B2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Repeater B5</masterLabel>
+            <translation><!-- Pot. VIP Repeater B5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Sleeping B7</masterLabel>
+            <translation><!-- Pot. VIP Sleeping B7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Sleeping B8</masterLabel>
+            <translation><!-- Pot. VIP Sleeping B8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Sleeping B9</masterLabel>
+            <translation><!-- Pot. VIP Sleeping B9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Super Frequent B1</masterLabel>
+            <translation><!-- Pot. VIP Super Frequent B1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pot. VIP Super Frequent B4</masterLabel>
+            <translation><!-- Pot. VIP Super Frequent B4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential</masterLabel>
+            <translation><!-- Potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate Frequent D2</masterLabel>
+            <translation><!-- Potential Initiate Frequent D2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate Frequent D6</masterLabel>
+            <translation><!-- Potential Initiate Frequent D6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate New N4</masterLabel>
+            <translation><!-- Potential Initiate New N4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate One Shot D4</masterLabel>
+            <translation><!-- Potential Initiate One Shot D4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate Regular D3</masterLabel>
+            <translation><!-- Potential Initiate Regular D3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate Regular D7</masterLabel>
+            <translation><!-- Potential Initiate Regular D7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate Super frequent D1</masterLabel>
+            <translation><!-- Potential Initiate Super frequent D1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential Initiate Super frequent D5</masterLabel>
+            <translation><!-- Potential Initiate Super frequent D5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect</masterLabel>
+            <translation><!-- Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect U18</masterLabel>
+            <translation><!-- Prospect U18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect with potential</masterLabel>
+            <translation><!-- Prospect with potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reccurent</masterLabel>
+            <translation><!-- Reccurent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Repeat Client</masterLabel>
+            <translation><!-- Repeat Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Repeater</masterLabel>
+            <translation><!-- Repeater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV - Inactive</masterLabel>
+            <translation><!-- SAV - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV - Loyal</masterLabel>
+            <translation><!-- SAV - Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV - Loyal - Inactive</masterLabel>
+            <translation><!-- SAV - Loyal - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV - One Shot</masterLabel>
+            <translation><!-- SAV - One Shot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV - Recurrent</masterLabel>
+            <translation><!-- SAV - Recurrent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV - Recurrent - Inactive</masterLabel>
+            <translation><!-- SAV - Recurrent - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SLEEPER</masterLabel>
+            <translation><!-- SLEEPER --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STAR(ACTIVE)</masterLabel>
+            <translation><!-- STAR(ACTIVE) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STAR(LOYAL)</masterLabel>
+            <translation><!-- STAR(LOYAL) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STAR(NEW)</masterLabel>
+            <translation><!-- STAR(NEW) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping</masterLabel>
+            <translation><!-- Sleeping --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Accessories</masterLabel>
+            <translation><!-- Sleeping Access Accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Bijoux</masterLabel>
+            <translation><!-- Sleeping Access Bijoux --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access E7</masterLabel>
+            <translation><!-- Sleeping Access E7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access E8</masterLabel>
+            <translation><!-- Sleeping Access E8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access E9</masterLabel>
+            <translation><!-- Sleeping Access E9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Frequent E18</masterLabel>
+            <translation><!-- Sleeping Access Frequent E18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Frequent E21</masterLabel>
+            <translation><!-- Sleeping Access Frequent E21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Regular E19</masterLabel>
+            <translation><!-- Sleeping Access Regular E19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Regular E22</masterLabel>
+            <translation><!-- Sleeping Access Regular E22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Super frequent E17</masterLabel>
+            <translation><!-- Sleeping Access Super frequent E17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Super frequent E20</masterLabel>
+            <translation><!-- Sleeping Access Super frequent E20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access U17</masterLabel>
+            <translation><!-- Sleeping Access U17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Access Watch</masterLabel>
+            <translation><!-- Sleeping Access Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Existing Rising Star</masterLabel>
+            <translation><!-- Sleeping Existing Rising Star --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Heart of Cartier U16</masterLabel>
+            <translation><!-- Sleeping Heart of Cartier U16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Bridal</masterLabel>
+            <translation><!-- Sleeping Initiate Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate C7</masterLabel>
+            <translation><!-- Sleeping Initiate C7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate C8</masterLabel>
+            <translation><!-- Sleeping Initiate C8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate C9</masterLabel>
+            <translation><!-- Sleeping Initiate C9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Frequent C18</masterLabel>
+            <translation><!-- Sleeping Initiate Frequent C18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Frequent C21</masterLabel>
+            <translation><!-- Sleeping Initiate Frequent C21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Jewelry</masterLabel>
+            <translation><!-- Sleeping Initiate Jewelry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Regular C19</masterLabel>
+            <translation><!-- Sleeping Initiate Regular C19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Regular C22</masterLabel>
+            <translation><!-- Sleeping Initiate Regular C22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Super frequent C17</masterLabel>
+            <translation><!-- Sleeping Initiate Super frequent C17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Super frequent C20</masterLabel>
+            <translation><!-- Sleeping Initiate Super frequent C20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Initiate Watch</masterLabel>
+            <translation><!-- Sleeping Initiate Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping New Rising Star</masterLabel>
+            <translation><!-- Sleeping New Rising Star --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Occasional</masterLabel>
+            <translation><!-- Sleeping Occasional --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Pot. Initiate D7</masterLabel>
+            <translation><!-- Sleeping Pot. Initiate D7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Pot. Initiate D8</masterLabel>
+            <translation><!-- Sleeping Pot. Initiate D8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Pot. Initiate D9</masterLabel>
+            <translation><!-- Sleeping Pot. Initiate D9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Potential Initiate Frequent D9</masterLabel>
+            <translation><!-- Sleeping Potential Initiate Frequent D9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Potential Initiate Regular D10</masterLabel>
+            <translation><!-- Sleeping Potential Initiate Regular D10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Potential Initiate Super frequent D8</masterLabel>
+            <translation><!-- Sleeping Potential Initiate Super frequent D8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Super Frequent</masterLabel>
+            <translation><!-- Sleeping Super Frequent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP Frequent A18</masterLabel>
+            <translation><!-- Sleeping TOP VIP Frequent A18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP Frequent A22</masterLabel>
+            <translation><!-- Sleeping TOP VIP Frequent A22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP One Shot A20</masterLabel>
+            <translation><!-- Sleeping TOP VIP One Shot A20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP One Shot A24</masterLabel>
+            <translation><!-- Sleeping TOP VIP One Shot A24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP Regular A19</masterLabel>
+            <translation><!-- Sleeping TOP VIP Regular A19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP Regular A23</masterLabel>
+            <translation><!-- Sleeping TOP VIP Regular A23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP Super Frequent A17</masterLabel>
+            <translation><!-- Sleeping TOP VIP Super Frequent A17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping TOP VIP Super Frequent A21</masterLabel>
+            <translation><!-- Sleeping TOP VIP Super Frequent A21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP</masterLabel>
+            <translation><!-- Sleeping VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP Frequent B18</masterLabel>
+            <translation><!-- Sleeping VIP Frequent B18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP Frequent B22</masterLabel>
+            <translation><!-- Sleeping VIP Frequent B22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP One Shot B20</masterLabel>
+            <translation><!-- Sleeping VIP One Shot B20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP One Shot B24</masterLabel>
+            <translation><!-- Sleeping VIP One Shot B24 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP Regular B19</masterLabel>
+            <translation><!-- Sleeping VIP Regular B19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP Regular B23</masterLabel>
+            <translation><!-- Sleeping VIP Regular B23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP Super Frequent B17</masterLabel>
+            <translation><!-- Sleeping VIP Super Frequent B17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP Super Frequent B21</masterLabel>
+            <translation><!-- Sleeping VIP Super Frequent B21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping VIP U15</masterLabel>
+            <translation><!-- Sleeping VIP U15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping with potential</masterLabel>
+            <translation><!-- Sleeping with potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleepy Access U14</masterLabel>
+            <translation><!-- Sleepy Access U14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleepy Heart of Cartier U12</masterLabel>
+            <translation><!-- Sleepy Heart of Cartier U12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleepy Loyal U13</masterLabel>
+            <translation><!-- Sleepy Loyal U13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleepy VIP U11</masterLabel>
+            <translation><!-- Sleepy VIP U11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Starter</masterLabel>
+            <translation><!-- Starter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Strapper</masterLabel>
+            <translation><!-- Strapper --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Strappers</masterLabel>
+            <translation><!-- Strappers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Super Frequent</masterLabel>
+            <translation><!-- Super Frequent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP</masterLabel>
+            <translation><!-- TOP VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Frequent A10</masterLabel>
+            <translation><!-- TOP VIP Frequent A10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Frequent A14</masterLabel>
+            <translation><!-- TOP VIP Frequent A14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Frequent A2</masterLabel>
+            <translation><!-- TOP VIP Frequent A2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Frequent A6</masterLabel>
+            <translation><!-- TOP VIP Frequent A6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP New N1</masterLabel>
+            <translation><!-- TOP VIP New N1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP One Shot A12</masterLabel>
+            <translation><!-- TOP VIP One Shot A12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP One Shot A16</masterLabel>
+            <translation><!-- TOP VIP One Shot A16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP One Shot A4</masterLabel>
+            <translation><!-- TOP VIP One Shot A4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP One Shot A8</masterLabel>
+            <translation><!-- TOP VIP One Shot A8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Regular A11</masterLabel>
+            <translation><!-- TOP VIP Regular A11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Regular A15</masterLabel>
+            <translation><!-- TOP VIP Regular A15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Regular A3</masterLabel>
+            <translation><!-- TOP VIP Regular A3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Regular A7</masterLabel>
+            <translation><!-- TOP VIP Regular A7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Super Frequent A1</masterLabel>
+            <translation><!-- TOP VIP Super Frequent A1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Super Frequent A13</masterLabel>
+            <translation><!-- TOP VIP Super Frequent A13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Super Frequent A5</masterLabel>
+            <translation><!-- TOP VIP Super Frequent A5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TOP VIP Super Frequent A9</masterLabel>
+            <translation><!-- TOP VIP Super Frequent A9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ultimate</masterLabel>
+            <translation><!-- Ultimate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unique - Loyal</masterLabel>
+            <translation><!-- Unique - Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unique - Loyal - Inactive</masterLabel>
+            <translation><!-- Unique - Loyal - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unique - One Shot</masterLabel>
+            <translation><!-- Unique - One Shot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unique - One Shot - Inactive</masterLabel>
+            <translation><!-- Unique - One Shot - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unique - Recurrent</masterLabel>
+            <translation><!-- Unique - Recurrent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unique - Recurrent - Inactive</masterLabel>
+            <translation><!-- Unique - Recurrent - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA1</masterLabel>
+            <translation><!-- VA1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA10</masterLabel>
+            <translation><!-- VA10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA11</masterLabel>
+            <translation><!-- VA11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA2</masterLabel>
+            <translation><!-- VA2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA3</masterLabel>
+            <translation><!-- VA3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA4</masterLabel>
+            <translation><!-- VA4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA5</masterLabel>
+            <translation><!-- VA5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA6</masterLabel>
+            <translation><!-- VA6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA7</masterLabel>
+            <translation><!-- VA7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA8</masterLabel>
+            <translation><!-- VA8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VA9</masterLabel>
+            <translation><!-- VA9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB1</masterLabel>
+            <translation><!-- VB1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB10</masterLabel>
+            <translation><!-- VB10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB11</masterLabel>
+            <translation><!-- VB11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB2</masterLabel>
+            <translation><!-- VB2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB3</masterLabel>
+            <translation><!-- VB3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB4</masterLabel>
+            <translation><!-- VB4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB5</masterLabel>
+            <translation><!-- VB5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB6</masterLabel>
+            <translation><!-- VB6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB7</masterLabel>
+            <translation><!-- VB7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB8</masterLabel>
+            <translation><!-- VB8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VB9</masterLabel>
+            <translation><!-- VB9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC1</masterLabel>
+            <translation><!-- VC1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC10</masterLabel>
+            <translation><!-- VC10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC2</masterLabel>
+            <translation><!-- VC2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC3</masterLabel>
+            <translation><!-- VC3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC4</masterLabel>
+            <translation><!-- VC4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC5</masterLabel>
+            <translation><!-- VC5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC6</masterLabel>
+            <translation><!-- VC6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC7</masterLabel>
+            <translation><!-- VC7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC8</masterLabel>
+            <translation><!-- VC8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VC9</masterLabel>
+            <translation><!-- VC9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD1</masterLabel>
+            <translation><!-- VD1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD10</masterLabel>
+            <translation><!-- VD10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD11</masterLabel>
+            <translation><!-- VD11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD2</masterLabel>
+            <translation><!-- VD2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD3</masterLabel>
+            <translation><!-- VD3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD4</masterLabel>
+            <translation><!-- VD4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD5</masterLabel>
+            <translation><!-- VD5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD6</masterLabel>
+            <translation><!-- VD6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD7</masterLabel>
+            <translation><!-- VD7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD8</masterLabel>
+            <translation><!-- VD8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VD9</masterLabel>
+            <translation><!-- VD9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE1</masterLabel>
+            <translation><!-- VE1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE10</masterLabel>
+            <translation><!-- VE10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE11</masterLabel>
+            <translation><!-- VE11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE2</masterLabel>
+            <translation><!-- VE2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE3</masterLabel>
+            <translation><!-- VE3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE4</masterLabel>
+            <translation><!-- VE4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE5</masterLabel>
+            <translation><!-- VE5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE6</masterLabel>
+            <translation><!-- VE6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE7</masterLabel>
+            <translation><!-- VE7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE8</masterLabel>
+            <translation><!-- VE8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VE9</masterLabel>
+            <translation><!-- VE9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VF1</masterLabel>
+            <translation><!-- VF1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VF2</masterLabel>
+            <translation><!-- VF2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VF3</masterLabel>
+            <translation><!-- VF3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VF4</masterLabel>
+            <translation><!-- VF4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VF5</masterLabel>
+            <translation><!-- VF5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC</masterLabel>
+            <translation><!-- VIC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC - Loyal</masterLabel>
+            <translation><!-- VIC - Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC - Loyal - Inactive</masterLabel>
+            <translation><!-- VIC - Loyal - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC - One Shot</masterLabel>
+            <translation><!-- VIC - One Shot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC - One Shot - Inactive</masterLabel>
+            <translation><!-- VIC - One Shot - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC - Recurrent</masterLabel>
+            <translation><!-- VIC - Recurrent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIC - Recurrent - Inactive</masterLabel>
+            <translation><!-- VIC - Recurrent - Inactive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP</masterLabel>
+            <translation><!-- VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP 0-6 U01</masterLabel>
+            <translation><!-- VIP 0-6 U01 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP 7-12 U06</masterLabel>
+            <translation><!-- VIP 7-12 U06 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Frequent B10</masterLabel>
+            <translation><!-- VIP Frequent B10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Frequent B14</masterLabel>
+            <translation><!-- VIP Frequent B14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Frequent B2</masterLabel>
+            <translation><!-- VIP Frequent B2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Frequent B6</masterLabel>
+            <translation><!-- VIP Frequent B6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP New N2</masterLabel>
+            <translation><!-- VIP New N2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP One Shot B12</masterLabel>
+            <translation><!-- VIP One Shot B12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP One Shot B16</masterLabel>
+            <translation><!-- VIP One Shot B16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP One Shot B4</masterLabel>
+            <translation><!-- VIP One Shot B4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP One Shot B8</masterLabel>
+            <translation><!-- VIP One Shot B8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP One Time Buyer</masterLabel>
+            <translation><!-- VIP One Time Buyer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP One Time Buyer A6</masterLabel>
+            <translation><!-- VIP One Time Buyer A6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Regular B11</masterLabel>
+            <translation><!-- VIP Regular B11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Regular B15</masterLabel>
+            <translation><!-- VIP Regular B15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Regular B3</masterLabel>
+            <translation><!-- VIP Regular B3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Regular B7</masterLabel>
+            <translation><!-- VIP Regular B7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Repeater A2</masterLabel>
+            <translation><!-- VIP Repeater A2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Repeater A5</masterLabel>
+            <translation><!-- VIP Repeater A5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Sleeping A7</masterLabel>
+            <translation><!-- VIP Sleeping A7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Sleeping A8</masterLabel>
+            <translation><!-- VIP Sleeping A8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Sleeping A9</masterLabel>
+            <translation><!-- VIP Sleeping A9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Super Frequent A1</masterLabel>
+            <translation><!-- VIP Super Frequent A1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Super Frequent A4</masterLabel>
+            <translation><!-- VIP Super Frequent A4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Super Frequent B1</masterLabel>
+            <translation><!-- VIP Super Frequent B1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Super Frequent B13</masterLabel>
+            <translation><!-- VIP Super Frequent B13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Super Frequent B5</masterLabel>
+            <translation><!-- VIP Super Frequent B5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP Super Frequent B9</masterLabel>
+            <translation><!-- VIP Super Frequent B9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VVIP</masterLabel>
+            <translation><!-- VVIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valuable :</masterLabel>
+            <translation><!-- Valuable : --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip : &lt;10</masterLabel>
+            <translation><!-- Vip : &lt;10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vvip : &lt;10</masterLabel>
+            <translation><!-- Vvip : &lt;10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WAT</masterLabel>
+            <translation><!-- WAT --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

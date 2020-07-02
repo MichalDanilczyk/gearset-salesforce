@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Collection Of Interests --></label>
+        <name>RICSC_CollectionOfInterests__c</name>
+        <picklistValues>
+            <masterLabel>Accessories</masterLabel>
+            <translation><!-- Accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Antique Pieces</masterLabel>
+            <translation><!-- Antique Pieces --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ballet/Opera</masterLabel>
+            <translation><!-- Ballet/Opera --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal</masterLabel>
+            <translation><!-- Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal jewellery</masterLabel>
+            <translation><!-- Bridal jewellery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Classic</masterLabel>
+            <translation><!-- Classic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Collector</masterLabel>
+            <translation><!-- Collector --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complications</masterLabel>
+            <translation><!-- Complications --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Design/Architecture</masterLabel>
+            <translation><!-- Design/Architecture --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Drive</masterLabel>
+            <translation><!-- Drive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Enameling</masterLabel>
+            <translation><!-- Enameling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Engraving</masterLabel>
+            <translation><!-- Engraving --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Estate Pieces</masterLabel>
+            <translation><!-- Estate Pieces --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eyewear</masterLabel>
+            <translation><!-- Eyewear --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fashion/Couture</masterLabel>
+            <translation><!-- Fashion/Couture --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fine Watchmaking</masterLabel>
+            <translation><!-- Fine Watchmaking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fragrance</masterLabel>
+            <translation><!-- Fragrance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gastronomy/Wine</masterLabel>
+            <translation><!-- Gastronomy/Wine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gem-Setting</masterLabel>
+            <translation><!-- Gem-Setting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Generic function</masterLabel>
+            <translation><!-- Generic function --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Heritage/Craftsmanship</masterLabel>
+            <translation><!-- Heritage/Craftsmanship --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Jewellery</masterLabel>
+            <translation><!-- High Jewellery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery</masterLabel>
+            <translation><!-- Jewellery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lady</masterLabel>
+            <translation><!-- Lady --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Goods</masterLabel>
+            <translation><!-- Leather Goods --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Limited series</masterLabel>
+            <translation><!-- Limited series --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Love</masterLabel>
+            <translation><!-- Love --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nature/Gardens</masterLabel>
+            <translation><!-- Nature/Gardens --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New creations</masterLabel>
+            <translation><!-- New creations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pens</masterLabel>
+            <translation><!-- Pens --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Poetry/Literature</masterLabel>
+            <translation><!-- Poetry/Literature --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sport</masterLabel>
+            <translation><!-- Sport --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Style</masterLabel>
+            <translation><!-- Style --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timepieces</masterLabel>
+            <translation><!-- Timepieces --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trinity</masterLabel>
+            <translation><!-- Trinity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visuals arts</masterLabel>
+            <translation><!-- Visuals arts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch icons</masterLabel>
+            <translation><!-- Watch icons --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch services</masterLabel>
+            <translation><!-- Watch services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Well-being/Spa</masterLabel>
+            <translation><!-- Well-being/Spa --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

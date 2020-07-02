@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Hobbies --></label>
+        <name>RICSC_Hobbies__c</name>
+        <picklistValues>
+            <masterLabel>CRICKET</masterLabel>
+            <translation><!-- CRICKET --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>F1_MOTOR_RACING</masterLabel>
+            <translation><!-- F1_MOTOR_RACING --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PEN_COLL</masterLabel>
+            <translation><!-- PEN_COLL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RUGBY</masterLabel>
+            <translation><!-- RUGBY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAILING</masterLabel>
+            <translation><!-- SAILING --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SHOPPING</masterLabel>
+            <translation><!-- SHOPPING --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SKIING</masterLabel>
+            <translation><!-- SKIING --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SPORT</masterLabel>
+            <translation><!-- SPORT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TENNIS</masterLabel>
+            <translation><!-- TENNIS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>THEATRE</masterLabel>
+            <translation><!-- THEATRE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TRAVEL</masterLabel>
+            <translation><!-- TRAVEL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WATCH_COLL</masterLabel>
+            <translation><!-- WATCH_COLL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WATER</masterLabel>
+            <translation><!-- WATER --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WHISKY</masterLabel>
+            <translation><!-- WHISKY --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WINE</masterLabel>
+            <translation><!-- WINE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WINTER_SPORTS</masterLabel>
+            <translation><!-- WINTER_SPORTS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YACHTING</masterLabel>
+            <translation><!-- YACHTING --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>YOGA</masterLabel>
+            <translation><!-- YOGA --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

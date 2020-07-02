@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Source CRM --></label>
+        <name>RICSC_SourceCRM__c</name>
+        <picklistValues>
+            <masterLabel>Legacy_0050010</masterLabel>
+            <translation><!-- Legacy_0050010 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0050050</masterLabel>
+            <translation><!-- Legacy_0050050 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0050090</masterLabel>
+            <translation><!-- Legacy_0050090 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0143090</masterLabel>
+            <translation><!-- Legacy_0143090 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0153080</masterLabel>
+            <translation><!-- Legacy_0153080 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0155000</masterLabel>
+            <translation><!-- Legacy_0155000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0163070</masterLabel>
+            <translation><!-- Legacy_0163070 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0163170</masterLabel>
+            <translation><!-- Legacy_0163170 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0163270</masterLabel>
+            <translation><!-- Legacy_0163270 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0163370</masterLabel>
+            <translation><!-- Legacy_0163370 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0174000</masterLabel>
+            <translation><!-- Legacy_0174000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0174010</masterLabel>
+            <translation><!-- Legacy_0174010 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0174020</masterLabel>
+            <translation><!-- Legacy_0174020 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0174030</masterLabel>
+            <translation><!-- Legacy_0174030 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Legacy_0186000</masterLabel>
+            <translation><!-- Legacy_0186000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAP_CRM</masterLabel>
+            <translation><!-- SAP_CRM --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

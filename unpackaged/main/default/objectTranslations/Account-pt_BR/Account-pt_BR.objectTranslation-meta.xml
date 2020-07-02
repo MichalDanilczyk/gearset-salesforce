@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <fieldSets>
+        <label><!-- All Editable Fields --></label>
+        <name>AllEditableFields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Fields to copy on GR --></label>
+        <name>FieldsToCopyOnGR</name>
+    </fieldSets>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Admin Boutique Page Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Admin Page Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Client Interest Information --></label>
+            <section>Client Interest Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Consents --></label>
+            <section>Contact Consents</section>
+        </sections>
+        <sections>
+            <label><!-- LR Information --></label>
+            <section>LR Information</section>
+        </sections>
+        <sections>
+            <label><!-- Languages --></label>
+            <section>Languages</section>
+        </sections>
+        <sections>
+            <label><!-- Reference Indicators --></label>
+            <section>Reference Indicators</section>
+        </sections>
+        <sections>
+            <label><!-- Segmentation Information --></label>
+            <section>Segmentation Information</section>
+        </sections>
+        <sections>
+            <label><!-- Special Occasions --></label>
+            <section>Special Occasions</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CAR CRM Manager Page Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Client Interest Information --></label>
+            <section>Client Interest Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Consents --></label>
+            <section>Contact Consents</section>
+        </sections>
+        <sections>
+            <label><!-- LR Information --></label>
+            <section>LR Information</section>
+        </sections>
+        <sections>
+            <label><!-- Languages --></label>
+            <section>Languages</section>
+        </sections>
+        <sections>
+            <label><!-- Other Information --></label>
+            <section>Other Information</section>
+        </sections>
+        <sections>
+            <label><!-- Reference Indicators --></label>
+            <section>Reference Indicators</section>
+        </sections>
+        <sections>
+            <label><!-- Segmentation Information --></label>
+            <section>Segmentation Information</section>
+        </sections>
+        <sections>
+            <label><!-- Special Occasions --></label>
+            <section>Special Occasions</section>
+        </sections>
+        <sections>
+            <label><!-- Transactions Indicators --></label>
+            <section>Transactions Indicators</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CRM Manager Boutique Page Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>JLC CRM Manager Page Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Client Interest Information --></label>
+            <section>Client Interest Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Consents --></label>
+            <section>Contact Consents</section>
+        </sections>
+        <sections>
+            <label><!-- LR Information --></label>
+            <section>LR Information</section>
+        </sections>
+        <sections>
+            <label><!-- Languages --></label>
+            <section>Languages</section>
+        </sections>
+        <sections>
+            <label><!-- Other Information --></label>
+            <section>Other Information</section>
+        </sections>
+        <sections>
+            <label><!-- Reference Indicators --></label>
+            <section>Reference Indicators</section>
+        </sections>
+        <sections>
+            <label><!-- Segmentation Information --></label>
+            <section>Segmentation Information</section>
+        </sections>
+        <sections>
+            <label><!-- Special Occasions --></label>
+            <section>Special Occasions</section>
+        </sections>
+        <sections>
+            <label><!-- Transactions Indicators --></label>
+            <section>Transactions Indicators</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Person Account Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Account Summary --></label>
+            <section>Account Summary</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>VCA CRM Manager Page Layout</layout>
+        <layoutType>PersonAccount</layoutType>
+        <sections>
+            <label><!-- Client Interest Information --></label>
+            <section>Client Interest Information</section>
+        </sections>
+        <sections>
+            <label><!-- Contact Consents --></label>
+            <section>Contact Consents</section>
+        </sections>
+        <sections>
+            <label><!-- LR Information --></label>
+            <section>LR Information</section>
+        </sections>
+        <sections>
+            <label><!-- Languages --></label>
+            <section>Languages</section>
+        </sections>
+        <sections>
+            <label><!-- Other Information --></label>
+            <section>Other Information</section>
+        </sections>
+        <sections>
+            <label><!-- Reference Indicators --></label>
+            <section>Reference Indicators</section>
+        </sections>
+        <sections>
+            <label><!-- Segmentation Information --></label>
+            <section>Segmentation Information</section>
+        </sections>
+        <sections>
+            <label><!-- Special Occasions --></label>
+            <section>Special Occasions</section>
+        </sections>
+        <sections>
+            <label><!-- Transactions Indicators --></label>
+            <section>Transactions Indicators</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Child Account --></label>
+        <name>Child_Account</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- Account --></label>
+        <name>Account</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Boutique --></label>
+        <name>RICSC_Boutique</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+</CustomObjectTranslation>

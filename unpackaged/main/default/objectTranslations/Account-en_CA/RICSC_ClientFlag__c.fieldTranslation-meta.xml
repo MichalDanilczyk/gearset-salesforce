@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Client Flag --></label>
+        <name>RICSC_ClientFlag__c</name>
+        <picklistValues>
+            <masterLabel>Family-Richemont Board of Directors</masterLabel>
+            <translation><!-- Family-Richemont Board of Directors --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GOAL – Local</masterLabel>
+            <translation><!-- GOAL – Local --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GOAL – Potential</masterLabel>
+            <translation><!-- GOAL – Potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GOAL – Top</masterLabel>
+            <translation><!-- GOAL – Top --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GOAL+ – Existing HE</masterLabel>
+            <translation><!-- GOAL+ – Existing HE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GOAL+ – Non-HE client</masterLabel>
+            <translation><!-- GOAL+ – Non-HE client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GOAL+ – Prospect</masterLabel>
+            <translation><!-- GOAL+ – Prospect --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loyal</masterLabel>
+            <translation><!-- Loyal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential</masterLabel>
+            <translation><!-- Potential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Potential VIP</masterLabel>
+            <translation><!-- Potential VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Richemont Board of Directors</masterLabel>
+            <translation><!-- Richemont Board of Directors --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAV</masterLabel>
+            <translation><!-- SAV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Top VIP</masterLabel>
+            <translation><!-- Top VIP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP</masterLabel>
+            <translation><!-- VIP --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>
