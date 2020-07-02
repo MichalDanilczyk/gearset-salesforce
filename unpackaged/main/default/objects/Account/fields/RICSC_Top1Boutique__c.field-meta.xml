@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Top1Boutique__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>This field retrieves the Top 1 Boutique based on rules defined in Salesforce</description>
+        <externalId>false</externalId>
+        <label>Top 1 Boutique</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts (Top 1 Boutique)</relationshipLabel>
+        <relationshipName>Accounts2</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Lookup</type>
+    </CustomField>

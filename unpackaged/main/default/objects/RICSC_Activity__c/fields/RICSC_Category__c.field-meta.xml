@@ -1,0 +1,2820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Category__c</fullName>
+        <description>Category of the activity - SAP CRM field</description>
+        <externalId>false</externalId>
+        <label>Category</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>100 Anos Pantera Masaryk 16102014</fullName>
+                    <default>false</default>
+                    <label>100 Anos Pantera Masaryk 16102014</label>
+                </value>
+                <value>
+                    <fullName>100 Anos Pantera Masaryk Amex 15102014</fullName>
+                    <default>false</default>
+                    <label>100 Anos Pantera Masaryk Amex 15102014</label>
+                </value>
+                <value>
+                    <fullName>13p Mini Trinket Tray - Crm00401</fullName>
+                    <default>false</default>
+                    <label>13p Mini Trinket Tray - Crm00401</label>
+                </value>
+                <value>
+                    <fullName>2-Notebook Set - Crm00403</fullName>
+                    <default>false</default>
+                    <label>2-Notebook Set - Crm00403</label>
+                </value>
+                <value>
+                    <fullName>3-Watch Box - Crm00393</fullName>
+                    <default>false</default>
+                    <label>3-Watch Box - Crm00393</label>
+                </value>
+                <value>
+                    <fullName>6-Watch Box - Crm00391</fullName>
+                    <default>false</default>
+                    <label>6-Watch Box - Crm00391</label>
+                </value>
+                <value>
+                    <fullName>Acc. Tableware</fullName>
+                    <default>false</default>
+                    <label>Acc. Tableware</label>
+                </value>
+                <value>
+                    <fullName>Access Wm14</fullName>
+                    <default>false</default>
+                    <label>Access Wm14</label>
+                </value>
+                <value>
+                    <fullName>Afternoon Tea</fullName>
+                    <default>false</default>
+                    <label>Afternoon Tea</label>
+                </value>
+                <value>
+                    <fullName>Agenda</fullName>
+                    <default>false</default>
+                    <label>Agenda</label>
+                </value>
+                <value>
+                    <fullName>Alert M+10</fullName>
+                    <default>false</default>
+                    <label>Alert M+10</label>
+                </value>
+                <value>
+                    <fullName>Alert M+3</fullName>
+                    <default>false</default>
+                    <label>Alert M+3</label>
+                </value>
+                <value>
+                    <fullName>Alert M+6</fullName>
+                    <default>false</default>
+                    <label>Alert M+6</label>
+                </value>
+                <value>
+                    <fullName>Alert Watch Y+1</fullName>
+                    <default>false</default>
+                    <label>Alert Watch Y+1</label>
+                </value>
+                <value>
+                    <fullName>Alert Watch Y+3</fullName>
+                    <default>false</default>
+                    <label>Alert Watch Y+3</label>
+                </value>
+                <value>
+                    <fullName>Alert Watch Y+6</fullName>
+                    <default>false</default>
+                    <label>Alert Watch Y+6</label>
+                </value>
+                <value>
+                    <fullName>Alert Watch Y+9</fullName>
+                    <default>false</default>
+                    <label>Alert Watch Y+9</label>
+                </value>
+                <value>
+                    <fullName>Alhambra Holiday Season Pendant</fullName>
+                    <default>false</default>
+                    <label>Alhambra Holiday Season Pendant</label>
+                </value>
+                <value>
+                    <fullName>Almoço/ Jantar</fullName>
+                    <default>false</default>
+                    <label>Almoço/ Jantar</label>
+                </value>
+                <value>
+                    <fullName>Amazing Cartier</fullName>
+                    <default>false</default>
+                    <label>Amazing Cartier</label>
+                </value>
+                <value>
+                    <fullName>Amulette</fullName>
+                    <default>false</default>
+                    <label>Amulette</label>
+                </value>
+                <value>
+                    <fullName>Aniversário De Casamento</fullName>
+                    <default>false</default>
+                    <label>Aniversário De Casamento</label>
+                </value>
+                <value>
+                    <fullName>Anniversary Card</fullName>
+                    <default>false</default>
+                    <label>Anniversary Card</label>
+                </value>
+                <value>
+                    <fullName>Anniversary Contact</fullName>
+                    <default>false</default>
+                    <label>Anniversary Contact</label>
+                </value>
+                <value>
+                    <fullName>Anniversary Gift</fullName>
+                    <default>false</default>
+                    <label>Anniversary Gift</label>
+                </value>
+                <value>
+                    <fullName>Anniversary Treatment</fullName>
+                    <default>false</default>
+                    <label>Anniversary Treatment</label>
+                </value>
+                <value>
+                    <fullName>Anniversary Whatsapp</fullName>
+                    <default>false</default>
+                    <label>Anniversary Whatsapp</label>
+                </value>
+                <value>
+                    <fullName>Appointments</fullName>
+                    <default>false</default>
+                    <label>Appointments</label>
+                </value>
+                <value>
+                    <fullName>Art De Cartier</fullName>
+                    <default>false</default>
+                    <label>Art De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Art Magazine</fullName>
+                    <default>false</default>
+                    <label>Art Magazine</label>
+                </value>
+                <value>
+                    <fullName>Asia Imagined In The Baur &amp; Car Collect.</fullName>
+                    <default>false</default>
+                    <label>Asia Imagined In The Baur &amp; Car Collect.</label>
+                </value>
+                <value>
+                    <fullName>Baby Born</fullName>
+                    <default>false</default>
+                    <label>Baby Born</label>
+                </value>
+                <value>
+                    <fullName>Bespoke Treatment</fullName>
+                    <default>false</default>
+                    <label>Bespoke Treatment</label>
+                </value>
+                <value>
+                    <fullName>Biennale</fullName>
+                    <default>false</default>
+                    <label>Biennale</label>
+                </value>
+                <value>
+                    <fullName>Biennale Book</fullName>
+                    <default>false</default>
+                    <label>Biennale Book</label>
+                </value>
+                <value>
+                    <fullName>Biennale Des Antiquaires 2012</fullName>
+                    <default>false</default>
+                    <label>Biennale Des Antiquaires 2012</label>
+                </value>
+                <value>
+                    <fullName>Bird Jewellery Box</fullName>
+                    <default>false</default>
+                    <label>Bird Jewellery Box</label>
+                </value>
+                <value>
+                    <fullName>Bird Jewelry Box  - Crm00394</fullName>
+                    <default>false</default>
+                    <label>Bird Jewelry Box  - Crm00394</label>
+                </value>
+                <value>
+                    <fullName>Bird Stole - Crm00399</fullName>
+                    <default>false</default>
+                    <label>Bird Stole - Crm00399</label>
+                </value>
+                <value>
+                    <fullName>Birthday</fullName>
+                    <default>false</default>
+                    <label>Birthday</label>
+                </value>
+                <value>
+                    <fullName>Birthday Card</fullName>
+                    <default>false</default>
+                    <label>Birthday Card</label>
+                </value>
+                <value>
+                    <fullName>Birthday Celebration</fullName>
+                    <default>false</default>
+                    <label>Birthday Celebration</label>
+                </value>
+                <value>
+                    <fullName>Birthday Contact</fullName>
+                    <default>false</default>
+                    <label>Birthday Contact</label>
+                </value>
+                <value>
+                    <fullName>Birthday Gift</fullName>
+                    <default>false</default>
+                    <label>Birthday Gift</label>
+                </value>
+                <value>
+                    <fullName>Birthday Month</fullName>
+                    <default>false</default>
+                    <label>Birthday Month</label>
+                </value>
+                <value>
+                    <fullName>Birthday Planning</fullName>
+                    <default>false</default>
+                    <label>Birthday Planning</label>
+                </value>
+                <value>
+                    <fullName>Birthday Treatment</fullName>
+                    <default>false</default>
+                    <label>Birthday Treatment</label>
+                </value>
+                <value>
+                    <fullName>Birthday Whatsapp</fullName>
+                    <default>false</default>
+                    <label>Birthday Whatsapp</label>
+                </value>
+                <value>
+                    <fullName>Birth Of A Baby</fullName>
+                    <default>false</default>
+                    <label>Birth Of A Baby</label>
+                </value>
+                <value>
+                    <fullName>Black Key Chain/Photo Holder</fullName>
+                    <default>false</default>
+                    <label>Black Key Chain/Photo Holder</label>
+                </value>
+                <value>
+                    <fullName>Black Key Chain/Photo Holder - Crm00167</fullName>
+                    <default>false</default>
+                    <label>Black Key Chain/Photo Holder - Crm00167</label>
+                </value>
+                <value>
+                    <fullName>Black Watch Box</fullName>
+                    <default>false</default>
+                    <label>Black Watch Box</label>
+                </value>
+                <value>
+                    <fullName>Black Watch Box Fy16 - Crm00332</fullName>
+                    <default>false</default>
+                    <label>Black Watch Box Fy16 - Crm00332</label>
+                </value>
+                <value>
+                    <fullName>Book</fullName>
+                    <default>false</default>
+                    <label>Book</label>
+                </value>
+                <value>
+                    <fullName>Book Dragons Writing Set</fullName>
+                    <default>false</default>
+                    <label>Book Dragons Writing Set</label>
+                </value>
+                <value>
+                    <fullName>Book Hj &amp; Precious Obj By Car English</fullName>
+                    <default>false</default>
+                    <label>Book Hj &amp; Precious Obj By Car English</label>
+                </value>
+                <value>
+                    <fullName>Bookmark - Crm00402</fullName>
+                    <default>false</default>
+                    <label>Bookmark - Crm00402</label>
+                </value>
+                <value>
+                    <fullName>Books</fullName>
+                    <default>false</default>
+                    <label>Books</label>
+                </value>
+                <value>
+                    <fullName>Botella De Champagne</fullName>
+                    <default>false</default>
+                    <label>Botella De Champagne</label>
+                </value>
+                <value>
+                    <fullName>Botella De Vino Chateau St Julien</fullName>
+                    <default>false</default>
+                    <label>Botella De Vino Chateau St Julien</label>
+                </value>
+                <value>
+                    <fullName>Boutique Appointment</fullName>
+                    <default>false</default>
+                    <label>Boutique Appointment</label>
+                </value>
+                <value>
+                    <fullName>Boutique Cocktail</fullName>
+                    <default>false</default>
+                    <label>Boutique Cocktail</label>
+                </value>
+                <value>
+                    <fullName>Boutique Dinner</fullName>
+                    <default>false</default>
+                    <label>Boutique Dinner</label>
+                </value>
+                <value>
+                    <fullName>Boutique event</fullName>
+                    <default>false</default>
+                    <label>Boutique event</label>
+                </value>
+                <value>
+                    <fullName>Boutique Information</fullName>
+                    <default>false</default>
+                    <label>Boutique Information</label>
+                </value>
+                <value>
+                    <fullName>Boutique Lunch</fullName>
+                    <default>false</default>
+                    <label>Boutique Lunch</label>
+                </value>
+                <value>
+                    <fullName>Bp Art Deco Composite Pen - Crm00351</fullName>
+                    <default>false</default>
+                    <label>Bp Art Deco Composite Pen - Crm00351</label>
+                </value>
+                <value>
+                    <fullName>Brand magazine</fullName>
+                    <default>false</default>
+                    <label>Brand magazine</label>
+                </value>
+                <value>
+                    <fullName>Breakfast</fullName>
+                    <default>false</default>
+                    <label>Breakfast</label>
+                </value>
+                <value>
+                    <fullName>Breakfast Treatment</fullName>
+                    <default>false</default>
+                    <label>Breakfast Treatment</label>
+                </value>
+                <value>
+                    <fullName>Bridal</fullName>
+                    <default>false</default>
+                    <label>Bridal</label>
+                </value>
+                <value>
+                    <fullName>Brilliant: Car In The 20th Century Vers</fullName>
+                    <default>false</default>
+                    <label>Brilliant: Car In The 20th Century Vers</label>
+                </value>
+                <value>
+                    <fullName>Btq appointment</fullName>
+                    <default>false</default>
+                    <label>Btq appointment</label>
+                </value>
+                <value>
+                    <fullName>Btq Exhibition / con</fullName>
+                    <default>false</default>
+                    <label>Btq Exhibition / con</label>
+                </value>
+                <value>
+                    <fullName>Btq other event</fullName>
+                    <default>false</default>
+                    <label>Btq other event</label>
+                </value>
+                <value>
+                    <fullName>Cactus De Cartier</fullName>
+                    <default>false</default>
+                    <label>Cactus De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Cactus Jewelry Box - Crm00370</fullName>
+                    <default>false</default>
+                    <label>Cactus Jewelry Box - Crm00370</label>
+                </value>
+                <value>
+                    <fullName>Call IN</fullName>
+                    <default>false</default>
+                    <label>Call IN</label>
+                </value>
+                <value>
+                    <fullName>Canasta De Vinos - Ampely</fullName>
+                    <default>false</default>
+                    <label>Canasta De Vinos - Ampely</label>
+                </value>
+                <value>
+                    <fullName>Candle</fullName>
+                    <default>false</default>
+                    <label>Candle</label>
+                </value>
+                <value>
+                    <fullName>Carat</fullName>
+                    <default>false</default>
+                    <label>Carat</label>
+                </value>
+                <value>
+                    <fullName>Card Holder Happy Birthday - Crm00405</fullName>
+                    <default>false</default>
+                    <label>Card Holder Happy Birthday - Crm00405</label>
+                </value>
+                <value>
+                    <fullName>Card Holder Hb Red - Crm00405</fullName>
+                    <default>false</default>
+                    <label>Card Holder Hb Red - Crm00405</label>
+                </value>
+                <value>
+                    <fullName>Card Holder Must De Cartier - Crm00406</fullName>
+                    <default>false</default>
+                    <label>Card Holder Must De Cartier - Crm00406</label>
+                </value>
+                <value>
+                    <fullName>Car Etourdissant High Jewelry &amp; Precious</fullName>
+                    <default>false</default>
+                    <label>Car Etourdissant High Jewelry &amp; Precious</label>
+                </value>
+                <value>
+                    <fullName>Carta Aniversario</fullName>
+                    <default>false</default>
+                    <label>Carta Aniversario</label>
+                </value>
+                <value>
+                    <fullName>Carta Cumpleanos</fullName>
+                    <default>false</default>
+                    <label>Carta Cumpleanos</label>
+                </value>
+                <value>
+                    <fullName>Carta De Agradecimento</fullName>
+                    <default>false</default>
+                    <label>Carta De Agradecimento</label>
+                </value>
+                <value>
+                    <fullName>Carta De Aniversário</fullName>
+                    <default>false</default>
+                    <label>Carta De Aniversário</label>
+                </value>
+                <value>
+                    <fullName>Carta De Aniversário De Casamento</fullName>
+                    <default>false</default>
+                    <label>Carta De Aniversário De Casamento</label>
+                </value>
+                <value>
+                    <fullName>Carta De Dia Das Mães</fullName>
+                    <default>false</default>
+                    <label>Carta De Dia Das Mães</label>
+                </value>
+                <value>
+                    <fullName>Carta De Dia Dos Pais</fullName>
+                    <default>false</default>
+                    <label>Carta De Dia Dos Pais</label>
+                </value>
+                <value>
+                    <fullName>Carta Noivado</fullName>
+                    <default>false</default>
+                    <label>Carta Noivado</label>
+                </value>
+                <value>
+                    <fullName>Cartão De Natal</fullName>
+                    <default>false</default>
+                    <label>Cartão De Natal</label>
+                </value>
+                <value>
+                    <fullName>Cartier : Le Style Et L'Histoire</fullName>
+                    <default>false</default>
+                    <label>Cartier : Le Style Et L'Histoire</label>
+                </value>
+                <value>
+                    <fullName>Cartier Carat</fullName>
+                    <default>false</default>
+                    <label>Cartier Carat</label>
+                </value>
+                <value>
+                    <fullName>Cartier Collection</fullName>
+                    <default>false</default>
+                    <label>Cartier Collection</label>
+                </value>
+                <value>
+                    <fullName>Cartier Collection Tome 2. Timepieces</fullName>
+                    <default>false</default>
+                    <label>Cartier Collection Tome 2. Timepieces</label>
+                </value>
+                <value>
+                    <fullName>Cartier I Love You</fullName>
+                    <default>false</default>
+                    <label>Cartier I Love You</label>
+                </value>
+                <value>
+                    <fullName>Cartier - Nadelhoffer</fullName>
+                    <default>false</default>
+                    <label>Cartier - Nadelhoffer</label>
+                </value>
+                <value>
+                    <fullName>Cartier Panthere</fullName>
+                    <default>false</default>
+                    <label>Cartier Panthere</label>
+                </value>
+                <value>
+                    <fullName>Cartier Par Hans Nadelhoffer</fullName>
+                    <default>false</default>
+                    <label>Cartier Par Hans Nadelhoffer</label>
+                </value>
+                <value>
+                    <fullName>Cartier Party 2017</fullName>
+                    <default>false</default>
+                    <label>Cartier Party 2017</label>
+                </value>
+                <value>
+                    <fullName>Cartier Party Whatsapp Invite</fullName>
+                    <default>false</default>
+                    <label>Cartier Party Whatsapp Invite</label>
+                </value>
+                <value>
+                    <fullName>Cashimere Blanket</fullName>
+                    <default>false</default>
+                    <label>Cashimere Blanket</label>
+                </value>
+                <value>
+                    <fullName>Cashmere Blanket</fullName>
+                    <default>false</default>
+                    <label>Cashmere Blanket</label>
+                </value>
+                <value>
+                    <fullName>Cashmere Blanket - Crm00395</fullName>
+                    <default>false</default>
+                    <label>Cashmere Blanket - Crm00395</label>
+                </value>
+                <value>
+                    <fullName>Cashmere Blanket Fy15 - Crm00288</fullName>
+                    <default>false</default>
+                    <label>Cashmere Blanket Fy15 - Crm00288</label>
+                </value>
+                <value>
+                    <fullName>Casual Leather Notebook Fy15 - Crm00293</fullName>
+                    <default>false</default>
+                    <label>Casual Leather Notebook Fy15 - Crm00293</label>
+                </value>
+                <value>
+                    <fullName>Casual Lunch Or Dinner</fullName>
+                    <default>false</default>
+                    <label>Casual Lunch Or Dinner</label>
+                </value>
+                <value>
+                    <fullName>Catálogo Bridal 12/13</fullName>
+                    <default>false</default>
+                    <label>Catálogo Bridal 12/13</label>
+                </value>
+                <value>
+                    <fullName>Catálogo Bridal 13/14</fullName>
+                    <default>false</default>
+                    <label>Catálogo Bridal 13/14</label>
+                </value>
+                <value>
+                    <fullName>Catalogo Bridal 2015/16</fullName>
+                    <default>false</default>
+                    <label>Catalogo Bridal 2015/16</label>
+                </value>
+                <value>
+                    <fullName>Catálogo De Fwm 13/14</fullName>
+                    <default>false</default>
+                    <label>Catálogo De Fwm 13/14</label>
+                </value>
+                <value>
+                    <fullName>Catálogo De Jóias 12/13</fullName>
+                    <default>false</default>
+                    <label>Catálogo De Jóias 12/13</label>
+                </value>
+                <value>
+                    <fullName>Catálogo De Jóias 13/14</fullName>
+                    <default>false</default>
+                    <label>Catálogo De Jóias 13/14</label>
+                </value>
+                <value>
+                    <fullName>Catalogo De Joias 2015/16</fullName>
+                    <default>false</default>
+                    <label>Catalogo De Joias 2015/16</label>
+                </value>
+                <value>
+                    <fullName>Catalogo De Relogio 2015/16</fullName>
+                    <default>false</default>
+                    <label>Catalogo De Relogio 2015/16</label>
+                </value>
+                <value>
+                    <fullName>Catálogo De Relógios 12/13</fullName>
+                    <default>false</default>
+                    <label>Catálogo De Relógios 12/13</label>
+                </value>
+                <value>
+                    <fullName>Catálogo De Relógios 13/14</fullName>
+                    <default>false</default>
+                    <label>Catálogo De Relógios 13/14</label>
+                </value>
+                <value>
+                    <fullName>Catalogo Joyeria</fullName>
+                    <default>false</default>
+                    <label>Catalogo Joyeria</label>
+                </value>
+                <value>
+                    <fullName>Catalogue</fullName>
+                    <default>false</default>
+                    <label>Catalogue</label>
+                </value>
+                <value>
+                    <fullName>Catalogue (pdf)</fullName>
+                    <default>false</default>
+                    <label>Catalogue (pdf)</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - Acc.</fullName>
+                    <default>false</default>
+                    <label>Catalogue - Acc.</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - Bridal</fullName>
+                    <default>false</default>
+                    <label>Catalogue - Bridal</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - HJ</fullName>
+                    <default>false</default>
+                    <label>Catalogue - HJ</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - Jewelry</fullName>
+                    <default>false</default>
+                    <label>Catalogue - Jewelry</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - Personalised</fullName>
+                    <default>false</default>
+                    <label>Catalogue - Personalised</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - Spring</fullName>
+                    <default>false</default>
+                    <label>Catalogue - Spring</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - Watches</fullName>
+                    <default>false</default>
+                    <label>Catalogue - Watches</label>
+                </value>
+                <value>
+                    <fullName>Catalogue - X'mas</fullName>
+                    <default>false</default>
+                    <label>Catalogue - X'mas</label>
+                </value>
+                <value>
+                    <fullName>C De Cartier</fullName>
+                    <default>false</default>
+                    <label>C De Cartier</label>
+                </value>
+                <value>
+                    <fullName>C De Cartier Pouch - Crm00404</fullName>
+                    <default>false</default>
+                    <label>C De Cartier Pouch - Crm00404</label>
+                </value>
+                <value>
+                    <fullName>Celebração De Aniversário</fullName>
+                    <default>false</default>
+                    <label>Celebração De Aniversário</label>
+                </value>
+                <value>
+                    <fullName>Champagne</fullName>
+                    <default>false</default>
+                    <label>Champagne</label>
+                </value>
+                <value>
+                    <fullName>Champagne / Wine</fullName>
+                    <default>false</default>
+                    <label>Champagne / Wine</label>
+                </value>
+                <value>
+                    <fullName>Champagne Flutes</fullName>
+                    <default>false</default>
+                    <label>Champagne Flutes</label>
+                </value>
+                <value>
+                    <fullName>Champagne San Valentin 2017</fullName>
+                    <default>false</default>
+                    <label>Champagne San Valentin 2017</label>
+                </value>
+                <value>
+                    <fullName>Champagne San Valentin 2018</fullName>
+                    <default>false</default>
+                    <label>Champagne San Valentin 2018</label>
+                </value>
+                <value>
+                    <fullName>Chandelle Declaration Perf</fullName>
+                    <default>false</default>
+                    <label>Chandelle Declaration Perf</label>
+                </value>
+                <value>
+                    <fullName>Characteristics</fullName>
+                    <default>false</default>
+                    <label>Characteristics</label>
+                </value>
+                <value>
+                    <fullName>Charity/Spec. Sales</fullName>
+                    <default>false</default>
+                    <label>Charity/Spec. Sales</label>
+                </value>
+                <value>
+                    <fullName>Charity event</fullName>
+                    <default>false</default>
+                    <label>Charity event</label>
+                </value>
+                <value>
+                    <fullName>Chinese Moon Festival Treatment</fullName>
+                    <default>false</default>
+                    <label>Chinese Moon Festival Treatment</label>
+                </value>
+                <value>
+                    <fullName>Chinese National Day</fullName>
+                    <default>false</default>
+                    <label>Chinese National Day</label>
+                </value>
+                <value>
+                    <fullName>Chinese New Year</fullName>
+                    <default>false</default>
+                    <label>Chinese New Year</label>
+                </value>
+                <value>
+                    <fullName>Chinese New Year 2017</fullName>
+                    <default>false</default>
+                    <label>Chinese New Year 2017</label>
+                </value>
+                <value>
+                    <fullName>Chinese Opp List</fullName>
+                    <default>false</default>
+                    <label>Chinese Opp List</label>
+                </value>
+                <value>
+                    <fullName>Chocolate</fullName>
+                    <default>false</default>
+                    <label>Chocolate</label>
+                </value>
+                <value>
+                    <fullName>Chocolate / Gourmet</fullName>
+                    <default>false</default>
+                    <label>Chocolate / Gourmet</label>
+                </value>
+                <value>
+                    <fullName>Chocolate Box</fullName>
+                    <default>false</default>
+                    <label>Chocolate Box</label>
+                </value>
+                <value>
+                    <fullName>Chocolates</fullName>
+                    <default>false</default>
+                    <label>Chocolates</label>
+                </value>
+                <value>
+                    <fullName>Chocolates San Valentin 2018</fullName>
+                    <default>false</default>
+                    <label>Chocolates San Valentin 2018</label>
+                </value>
+                <value>
+                    <fullName>Christmas</fullName>
+                    <default>false</default>
+                    <label>Christmas</label>
+                </value>
+                <value>
+                    <fullName>Christmas Box</fullName>
+                    <default>false</default>
+                    <label>Christmas Box</label>
+                </value>
+                <value>
+                    <fullName>Clash De Cartier</fullName>
+                    <default>false</default>
+                    <label>Clash De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Clash De Cartier Fy20</fullName>
+                    <default>false</default>
+                    <label>Clash De Cartier Fy20</label>
+                </value>
+                <value>
+                    <fullName>Cle Afternoon Tea</fullName>
+                    <default>false</default>
+                    <label>Cle Afternoon Tea</label>
+                </value>
+                <value>
+                    <fullName>Cleaning</fullName>
+                    <default>false</default>
+                    <label>Cleaning</label>
+                </value>
+                <value>
+                    <fullName>Cle Art Magazine</fullName>
+                    <default>false</default>
+                    <label>Cle Art Magazine</label>
+                </value>
+                <value>
+                    <fullName>Cle Can 06052015</fullName>
+                    <default>false</default>
+                    <label>Cle Can 06052015</label>
+                </value>
+                <value>
+                    <fullName>Cle Msk 20&amp;21 042015</fullName>
+                    <default>false</default>
+                    <label>Cle Msk 20&amp;21 042015</label>
+                </value>
+                <value>
+                    <fullName>Cle Msk 21042015 Amex</fullName>
+                    <default>false</default>
+                    <label>Cle Msk 21042015 Amex</label>
+                </value>
+                <value>
+                    <fullName>Cle Msk Kary Rodríguez</fullName>
+                    <default>false</default>
+                    <label>Cle Msk Kary Rodríguez</label>
+                </value>
+                <value>
+                    <fullName>Cle Spring Mailer</fullName>
+                    <default>false</default>
+                    <label>Cle Spring Mailer</label>
+                </value>
+                <value>
+                    <fullName>Cle Whatsapp Message</fullName>
+                    <default>false</default>
+                    <label>Cle Whatsapp Message</label>
+                </value>
+                <value>
+                    <fullName>Client Data Update</fullName>
+                    <default>false</default>
+                    <label>Client Data Update</label>
+                </value>
+                <value>
+                    <fullName>Client Satisfaction</fullName>
+                    <default>false</default>
+                    <label>Client Satisfaction</label>
+                </value>
+                <value>
+                    <fullName>Clothes</fullName>
+                    <default>false</default>
+                    <label>Clothes</label>
+                </value>
+                <value>
+                    <fullName>Coffret Champagne</fullName>
+                    <default>false</default>
+                    <label>Coffret Champagne</label>
+                </value>
+                <value>
+                    <fullName>Coffret The Dammann</fullName>
+                    <default>false</default>
+                    <label>Coffret The Dammann</label>
+                </value>
+                <value>
+                    <fullName>Cognac + Truffes</fullName>
+                    <default>false</default>
+                    <label>Cognac + Truffes</label>
+                </value>
+                <value>
+                    <fullName>Coloring Set</fullName>
+                    <default>false</default>
+                    <label>Coloring Set</label>
+                </value>
+                <value>
+                    <fullName>Comida Pop Up Noma Tulum</fullName>
+                    <default>false</default>
+                    <label>Comida Pop Up Noma Tulum</label>
+                </value>
+                <value>
+                    <fullName>Commercial Offer</fullName>
+                    <default>false</default>
+                    <label>Commercial Offer</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Cost Of Service</fullName>
+                    <default>false</default>
+                    <label>Complaint - Cost Of Service</label>
+                </value>
+                <value>
+                    <fullName>Complaint -Network Services / Behaviour</fullName>
+                    <default>false</default>
+                    <label>Complaint -Network Services / Behaviour</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Product Quality</fullName>
+                    <default>false</default>
+                    <label>Complaint - Product Quality</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Repair Duration</fullName>
+                    <default>false</default>
+                    <label>Complaint - Repair Duration</label>
+                </value>
+                <value>
+                    <fullName>Complaint - Repeat Repair</fullName>
+                    <default>false</default>
+                    <label>Complaint - Repeat Repair</label>
+                </value>
+                <value>
+                    <fullName>Complete Service</fullName>
+                    <default>false</default>
+                    <label>Complete Service</label>
+                </value>
+                <value>
+                    <fullName>Conditions Of Sales</fullName>
+                    <default>false</default>
+                    <label>Conditions Of Sales</label>
+                </value>
+                <value>
+                    <fullName>Convite Evento</fullName>
+                    <default>false</default>
+                    <label>Convite Evento</label>
+                </value>
+                <value>
+                    <fullName>Convite Exposições</fullName>
+                    <default>false</default>
+                    <label>Convite Exposições</label>
+                </value>
+                <value>
+                    <fullName>Convite Sala São Paulo</fullName>
+                    <default>false</default>
+                    <label>Convite Sala São Paulo</label>
+                </value>
+                <value>
+                    <fullName>Convocatoria Siar 2015</fullName>
+                    <default>false</default>
+                    <label>Convocatoria Siar 2015</label>
+                </value>
+                <value>
+                    <fullName>Corporate emailing</fullName>
+                    <default>false</default>
+                    <label>Corporate emailing</label>
+                </value>
+                <value>
+                    <fullName>Correspondence Box</fullName>
+                    <default>false</default>
+                    <label>Correspondence Box</label>
+                </value>
+                <value>
+                    <fullName>Costs Estimate</fullName>
+                    <default>false</default>
+                    <label>Costs Estimate</label>
+                </value>
+                <value>
+                    <fullName>Counterfeit Reported</fullName>
+                    <default>false</default>
+                    <label>Counterfeit Reported</label>
+                </value>
+                <value>
+                    <fullName>Crm00010 Set 2 Juegos Cartas</fullName>
+                    <default>false</default>
+                    <label>Crm00010 Set 2 Juegos Cartas</label>
+                </value>
+                <value>
+                    <fullName>Crm00013 Goodies Caja Champagne</fullName>
+                    <default>false</default>
+                    <label>Crm00013 Goodies Caja Champagne</label>
+                </value>
+                <value>
+                    <fullName>Crm00048 Declaration Candle</fullName>
+                    <default>false</default>
+                    <label>Crm00048 Declaration Candle</label>
+                </value>
+                <value>
+                    <fullName>Crm00068 Watch Box For Find Watchmaking</fullName>
+                    <default>false</default>
+                    <label>Crm00068 Watch Box For Find Watchmaking</label>
+                </value>
+                <value>
+                    <fullName>Crm00069 Travel Watch Roll</fullName>
+                    <default>false</default>
+                    <label>Crm00069 Travel Watch Roll</label>
+                </value>
+                <value>
+                    <fullName>Crm00146 - Passport Holder Black</fullName>
+                    <default>false</default>
+                    <label>Crm00146 - Passport Holder Black</label>
+                </value>
+                <value>
+                    <fullName>Crm00147 - Passport Holder Red</fullName>
+                    <default>false</default>
+                    <label>Crm00147 - Passport Holder Red</label>
+                </value>
+                <value>
+                    <fullName>Crm00148 Vip Men Watchbox</fullName>
+                    <default>false</default>
+                    <label>Crm00148 Vip Men Watchbox</label>
+                </value>
+                <value>
+                    <fullName>Crm00152 Goal Pen Holder</fullName>
+                    <default>false</default>
+                    <label>Crm00152 Goal Pen Holder</label>
+                </value>
+                <value>
+                    <fullName>Crm00153 Goal Zebra Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00153 Goal Zebra Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00153 - Zebra Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00153 - Zebra Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00157 Vip Woman Watchbox</fullName>
+                    <default>false</default>
+                    <label>Crm00157 Vip Woman Watchbox</label>
+                </value>
+                <value>
+                    <fullName>Crm00164 Leather Notebook Brown 13</fullName>
+                    <default>false</default>
+                    <label>Crm00164 Leather Notebook Brown 13</label>
+                </value>
+                <value>
+                    <fullName>Crm00165 Vip Jewelry Box Red 13</fullName>
+                    <default>false</default>
+                    <label>Crm00165 Vip Jewelry Box Red 13</label>
+                </value>
+                <value>
+                    <fullName>Crm00170 Coffret Champagne13</fullName>
+                    <default>false</default>
+                    <label>Crm00170 Coffret Champagne13</label>
+                </value>
+                <value>
+                    <fullName>Crm00283 Crm Panthere Frag. 30ml</fullName>
+                    <default>false</default>
+                    <label>Crm00283 Crm Panthere Frag. 30ml</label>
+                </value>
+                <value>
+                    <fullName>Crm00283 - Panthere Fragrance Box 30 Ml</fullName>
+                    <default>false</default>
+                    <label>Crm00283 - Panthere Fragrance Box 30 Ml</label>
+                </value>
+                <value>
+                    <fullName>Crm00286 Vip Jewelry Box</fullName>
+                    <default>false</default>
+                    <label>Crm00286 Vip Jewelry Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00287 Vip Watch Box</fullName>
+                    <default>false</default>
+                    <label>Crm00287 Vip Watch Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00288 Cashmere Blanket</fullName>
+                    <default>false</default>
+                    <label>Crm00288 Cashmere Blanket</label>
+                </value>
+                <value>
+                    <fullName>Crm00289 Silver Box</fullName>
+                    <default>false</default>
+                    <label>Crm00289 Silver Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00290 Woman Travel Pouch</fullName>
+                    <default>false</default>
+                    <label>Crm00290 Woman Travel Pouch</label>
+                </value>
+                <value>
+                    <fullName>Crm00294 - Red Notebook</fullName>
+                    <default>false</default>
+                    <label>Crm00294 - Red Notebook</label>
+                </value>
+                <value>
+                    <fullName>Crm00300 Mini Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00300 Mini Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00300 - Panthere Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00300 - Panthere Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00329 - Mini Panther Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00329 - Mini Panther Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00329 - Panthere Mini Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00329 - Panthere Mini Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00330 - Large Panther Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00330 - Large Panther Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00331 - Cashmere Blanket</fullName>
+                    <default>false</default>
+                    <label>Crm00331 - Cashmere Blanket</label>
+                </value>
+                <value>
+                    <fullName>Crm00332 - Black Watch Box</fullName>
+                    <default>false</default>
+                    <label>Crm00332 - Black Watch Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00335 - Mini Watch Winder</fullName>
+                    <default>false</default>
+                    <label>Crm00335 - Mini Watch Winder</label>
+                </value>
+                <value>
+                    <fullName>Crm00337 - Panther Jewelry Box</fullName>
+                    <default>false</default>
+                    <label>Crm00337 - Panther Jewelry Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00340 - Heritage Portfolio</fullName>
+                    <default>false</default>
+                    <label>Crm00340 - Heritage Portfolio</label>
+                </value>
+                <value>
+                    <fullName>Crm00341 - Jewelry Pouch</fullName>
+                    <default>false</default>
+                    <label>Crm00341 - Jewelry Pouch</label>
+                </value>
+                <value>
+                    <fullName>Crm00341 - Woman Travel Pouch</fullName>
+                    <default>false</default>
+                    <label>Crm00341 - Woman Travel Pouch</label>
+                </value>
+                <value>
+                    <fullName>Crm00343 - Bird Jewelry Box</fullName>
+                    <default>false</default>
+                    <label>Crm00343 - Bird Jewelry Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00351 - Bp Art Deco Composite Pen</fullName>
+                    <default>false</default>
+                    <label>Crm00351 - Bp Art Deco Composite Pen</label>
+                </value>
+                <value>
+                    <fullName>Crm00371 - L'Envol Fragrance</fullName>
+                    <default>false</default>
+                    <label>Crm00371 - L'Envol Fragrance</label>
+                </value>
+                <value>
+                    <fullName>Crm00392 - Panther Jewelry Box</fullName>
+                    <default>false</default>
+                    <label>Crm00392 - Panther Jewelry Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00393 - 3 Watch Box</fullName>
+                    <default>false</default>
+                    <label>Crm00393 - 3 Watch Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00394 - Bird Jewlery Box</fullName>
+                    <default>false</default>
+                    <label>Crm00394 - Bird Jewlery Box</label>
+                </value>
+                <value>
+                    <fullName>Crm00398 - Travel Blanket</fullName>
+                    <default>false</default>
+                    <label>Crm00398 - Travel Blanket</label>
+                </value>
+                <value>
+                    <fullName>Crm00401 - 13p Mini Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Crm00401 - 13p Mini Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Crm00404 - C De Cartier Pouch</fullName>
+                    <default>false</default>
+                    <label>Crm00404 - C De Cartier Pouch</label>
+                </value>
+                <value>
+                    <fullName>Crm00405 - Card Holder Happy Birthday</fullName>
+                    <default>false</default>
+                    <label>Crm00405 - Card Holder Happy Birthday</label>
+                </value>
+                <value>
+                    <fullName>Crm00406 - Card Holder Must</fullName>
+                    <default>false</default>
+                    <label>Crm00406 - Card Holder Must</label>
+                </value>
+                <value>
+                    <fullName>Crm00407 - Large Card Holder Must</fullName>
+                    <default>false</default>
+                    <label>Crm00407 - Large Card Holder Must</label>
+                </value>
+                <value>
+                    <fullName>Crm00408 - Large Cald Holder Lc</fullName>
+                    <default>false</default>
+                    <label>Crm00408 - Large Cald Holder Lc</label>
+                </value>
+                <value>
+                    <fullName>Crm-Ch1 - Champagne 75</fullName>
+                    <default>false</default>
+                    <label>Crm-Ch1 - Champagne 75</label>
+                </value>
+                <value>
+                    <fullName>Crm-Ch1 - Champagne 75cl</fullName>
+                    <default>false</default>
+                    <label>Crm-Ch1 - Champagne 75cl</label>
+                </value>
+                <value>
+                    <fullName>Crm Gift</fullName>
+                    <default>false</default>
+                    <label>Crm Gift</label>
+                </value>
+                <value>
+                    <fullName>Cultural event</fullName>
+                    <default>false</default>
+                    <label>Cultural event</label>
+                </value>
+                <value>
+                    <fullName>Cumpleanos</fullName>
+                    <default>false</default>
+                    <label>Cumpleanos</label>
+                </value>
+                <value>
+                    <fullName>Customer Service</fullName>
+                    <default>false</default>
+                    <label>Customer Service</label>
+                </value>
+                <value>
+                    <fullName>Desayuno Bridal Harpers 24112014</fullName>
+                    <default>false</default>
+                    <label>Desayuno Bridal Harpers 24112014</label>
+                </value>
+                <value>
+                    <fullName>Diamonds Casa De La Bola 25112015</fullName>
+                    <default>false</default>
+                    <label>Diamonds Casa De La Bola 25112015</label>
+                </value>
+                <value>
+                    <fullName>Digital Card</fullName>
+                    <default>false</default>
+                    <label>Digital Card</label>
+                </value>
+                <value>
+                    <fullName>Dinner</fullName>
+                    <default>false</default>
+                    <label>Dinner</label>
+                </value>
+                <value>
+                    <fullName>Dinner Treatment</fullName>
+                    <default>false</default>
+                    <label>Dinner Treatment</label>
+                </value>
+                <value>
+                    <fullName>Display 6 Watch Box Fwm</fullName>
+                    <default>false</default>
+                    <label>Display 6 Watch Box Fwm</label>
+                </value>
+                <value>
+                    <fullName>Diwali</fullName>
+                    <default>false</default>
+                    <label>Diwali</label>
+                </value>
+                <value>
+                    <fullName>Diwali Chocolates</fullName>
+                    <default>false</default>
+                    <label>Diwali Chocolates</label>
+                </value>
+                <value>
+                    <fullName>Diwali Trays</fullName>
+                    <default>false</default>
+                    <label>Diwali Trays</label>
+                </value>
+                <value>
+                    <fullName>Donation to Charity</fullName>
+                    <default>false</default>
+                    <label>Donation to Charity</label>
+                </value>
+                <value>
+                    <fullName>Drive</fullName>
+                    <default>false</default>
+                    <label>Drive</label>
+                </value>
+                <value>
+                    <fullName>Dubai Opera E-Invite</fullName>
+                    <default>false</default>
+                    <label>Dubai Opera E-Invite</label>
+                </value>
+                <value>
+                    <fullName>Easter Box</fullName>
+                    <default>false</default>
+                    <label>Easter Box</label>
+                </value>
+                <value>
+                    <fullName>E-catalogue</fullName>
+                    <default>false</default>
+                    <label>E-catalogue</label>
+                </value>
+                <value>
+                    <fullName>Ecrou</fullName>
+                    <default>false</default>
+                    <label>Ecrou</label>
+                </value>
+                <value>
+                    <fullName>Ecrou De Cartier</fullName>
+                    <default>false</default>
+                    <label>Ecrou De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Eid Al Adha</fullName>
+                    <default>false</default>
+                    <label>Eid Al Adha</label>
+                </value>
+                <value>
+                    <fullName>Eid Al Adha Chocolates</fullName>
+                    <default>false</default>
+                    <label>Eid Al Adha Chocolates</label>
+                </value>
+                <value>
+                    <fullName>Eid Al Fitr</fullName>
+                    <default>false</default>
+                    <label>Eid Al Fitr</label>
+                </value>
+                <value>
+                    <fullName>Eid Al Fitr Chocolates</fullName>
+                    <default>false</default>
+                    <label>Eid Al Fitr Chocolates</label>
+                </value>
+                <value>
+                    <fullName>Eid Greetings</fullName>
+                    <default>false</default>
+                    <label>Eid Greetings</label>
+                </value>
+                <value>
+                    <fullName>E-leaflet</fullName>
+                    <default>false</default>
+                    <label>E-leaflet</label>
+                </value>
+                <value>
+                    <fullName>E-Mail From Boutique</fullName>
+                    <default>false</default>
+                    <label>E-Mail From Boutique</label>
+                </value>
+                <value>
+                    <fullName>E-Mail IN</fullName>
+                    <default>false</default>
+                    <label>E-Mail IN</label>
+                </value>
+                <value>
+                    <fullName>Emirati Women'S Day</fullName>
+                    <default>false</default>
+                    <label>Emirati Women'S Day</label>
+                </value>
+                <value>
+                    <fullName>End Watch Warranty</fullName>
+                    <default>false</default>
+                    <label>End Watch Warranty</label>
+                </value>
+                <value>
+                    <fullName>Engagement</fullName>
+                    <default>false</default>
+                    <label>Engagement</label>
+                </value>
+                <value>
+                    <fullName>Engraving</fullName>
+                    <default>false</default>
+                    <label>Engraving</label>
+                </value>
+                <value>
+                    <fullName>Envio De E-Mail</fullName>
+                    <default>false</default>
+                    <label>Envio De E-Mail</label>
+                </value>
+                <value>
+                    <fullName>Eoy Social Messaging</fullName>
+                    <default>false</default>
+                    <label>Eoy Social Messaging</label>
+                </value>
+                <value>
+                    <fullName>Etourdissant</fullName>
+                    <default>false</default>
+                    <label>Etourdissant</label>
+                </value>
+                <value>
+                    <fullName>Event</fullName>
+                    <default>false</default>
+                    <label>Event</label>
+                </value>
+                <value>
+                    <fullName>Evento Panthere 1 Junio 2017</fullName>
+                    <default>false</default>
+                    <label>Evento Panthere 1 Junio 2017</label>
+                </value>
+                <value>
+                    <fullName>Eventos Cartier</fullName>
+                    <default>false</default>
+                    <label>Eventos Cartier</label>
+                </value>
+                <value>
+                    <fullName>Fashion event</fullName>
+                    <default>false</default>
+                    <label>Fashion event</label>
+                </value>
+                <value>
+                    <fullName>Flores</fullName>
+                    <default>false</default>
+                    <label>Flores</label>
+                </value>
+                <value>
+                    <fullName>Flores San Valentin 2017</fullName>
+                    <default>false</default>
+                    <label>Flores San Valentin 2017</label>
+                </value>
+                <value>
+                    <fullName>Flores San Valentin 2018</fullName>
+                    <default>false</default>
+                    <label>Flores San Valentin 2018</label>
+                </value>
+                <value>
+                    <fullName>Flower Bouquet</fullName>
+                    <default>false</default>
+                    <label>Flower Bouquet</label>
+                </value>
+                <value>
+                    <fullName>Flowers</fullName>
+                    <default>false</default>
+                    <label>Flowers</label>
+                </value>
+                <value>
+                    <fullName>Foc Service For Loyal Clients</fullName>
+                    <default>false</default>
+                    <label>Foc Service For Loyal Clients</label>
+                </value>
+                <value>
+                    <fullName>Focus Group</fullName>
+                    <default>false</default>
+                    <label>Focus Group</label>
+                </value>
+                <value>
+                    <fullName>Follow-Up Call</fullName>
+                    <default>false</default>
+                    <label>Follow-Up Call</label>
+                </value>
+                <value>
+                    <fullName>Followup Cor.Mailing</fullName>
+                    <default>false</default>
+                    <label>Followup Cor.Mailing</label>
+                </value>
+                <value>
+                    <fullName>Follow-Up Email</fullName>
+                    <default>false</default>
+                    <label>Follow-Up Email</label>
+                </value>
+                <value>
+                    <fullName>Fondation Cartier-30th Anniv Box Set-En</fullName>
+                    <default>false</default>
+                    <label>Fondation Cartier-30th Anniv Box Set-En</label>
+                </value>
+                <value>
+                    <fullName>Fondation Cartier Catalogue Congo Fr</fullName>
+                    <default>false</default>
+                    <label>Fondation Cartier Catalogue Congo Fr</label>
+                </value>
+                <value>
+                    <fullName>Future Contact</fullName>
+                    <default>false</default>
+                    <label>Future Contact</label>
+                </value>
+                <value>
+                    <fullName>Fwm Watch Box</fullName>
+                    <default>false</default>
+                    <label>Fwm Watch Box</label>
+                </value>
+                <value>
+                    <fullName>Galaxies De Cartier</fullName>
+                    <default>false</default>
+                    <label>Galaxies De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Gift Book</fullName>
+                    <default>false</default>
+                    <label>Gift Book</label>
+                </value>
+                <value>
+                    <fullName>Gifts And Catalogues</fullName>
+                    <default>false</default>
+                    <label>Gifts And Catalogues</label>
+                </value>
+                <value>
+                    <fullName>Goal Notebook Red Leather</fullName>
+                    <default>false</default>
+                    <label>Goal Notebook Red Leather</label>
+                </value>
+                <value>
+                    <fullName>Goal Zebra Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Goal Zebra Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Gold Panther Writing Set 2013</fullName>
+                    <default>false</default>
+                    <label>Gold Panther Writing Set 2013</label>
+                </value>
+                <value>
+                    <fullName>Graduation</fullName>
+                    <default>false</default>
+                    <label>Graduation</label>
+                </value>
+                <value>
+                    <fullName>Graduation Treatment</fullName>
+                    <default>false</default>
+                    <label>Graduation Treatment</label>
+                </value>
+                <value>
+                    <fullName>Greetings</fullName>
+                    <default>false</default>
+                    <label>Greetings</label>
+                </value>
+                <value>
+                    <fullName>Greetings card</fullName>
+                    <default>false</default>
+                    <label>Greetings card</label>
+                </value>
+                <value>
+                    <fullName>Guirlande De Cartier</fullName>
+                    <default>false</default>
+                    <label>Guirlande De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Hh Watch Travel Pouch</fullName>
+                    <default>false</default>
+                    <label>Hh Watch Travel Pouch</label>
+                </value>
+                <value>
+                    <fullName>High Potential Chocolates</fullName>
+                    <default>false</default>
+                    <label>High Potential Chocolates</label>
+                </value>
+                <value>
+                    <fullName>High Potential Greeting Card</fullName>
+                    <default>false</default>
+                    <label>High Potential Greeting Card</label>
+                </value>
+                <value>
+                    <fullName>Hj &amp; Precious Objects</fullName>
+                    <default>false</default>
+                    <label>Hj &amp; Precious Objects</label>
+                </value>
+                <value>
+                    <fullName>Hj Biennale 2014</fullName>
+                    <default>false</default>
+                    <label>Hj Biennale 2014</label>
+                </value>
+                <value>
+                    <fullName>Hj Cartier Royal Biennale 2014 En</fullName>
+                    <default>false</default>
+                    <label>Hj Cartier Royal Biennale 2014 En</label>
+                </value>
+                <value>
+                    <fullName>Hj Cena De Gala New York 102017</fullName>
+                    <default>false</default>
+                    <label>Hj Cena De Gala New York 102017</label>
+                </value>
+                <value>
+                    <fullName>Hj Event 2017</fullName>
+                    <default>false</default>
+                    <label>Hj Event 2017</label>
+                </value>
+                <value>
+                    <fullName>Hj Invitation</fullName>
+                    <default>false</default>
+                    <label>Hj Invitation</label>
+                </value>
+                <value>
+                    <fullName>Holiday Season Pendant</fullName>
+                    <default>false</default>
+                    <label>Holiday Season Pendant</label>
+                </value>
+                <value>
+                    <fullName>Human Resources</fullName>
+                    <default>false</default>
+                    <label>Human Resources</label>
+                </value>
+                <value>
+                    <fullName>Hypnose Private Viewing Invitation</fullName>
+                    <default>false</default>
+                    <label>Hypnose Private Viewing Invitation</label>
+                </value>
+                <value>
+                    <fullName>Impossible Collection Of Watches</fullName>
+                    <default>false</default>
+                    <label>Impossible Collection Of Watches</label>
+                </value>
+                <value>
+                    <fullName>Inbound</fullName>
+                    <default>false</default>
+                    <label>Inbound</label>
+                </value>
+                <value>
+                    <fullName>Individual Interview</fullName>
+                    <default>false</default>
+                    <label>Individual Interview</label>
+                </value>
+                <value>
+                    <fullName>Internal Testing</fullName>
+                    <default>false</default>
+                    <label>Internal Testing</label>
+                </value>
+                <value>
+                    <fullName>International Event</fullName>
+                    <default>false</default>
+                    <label>International Event</label>
+                </value>
+                <value>
+                    <fullName>Jewellery</fullName>
+                    <default>false</default>
+                    <label>Jewellery</label>
+                </value>
+                <value>
+                    <fullName>Jewellery box</fullName>
+                    <default>false</default>
+                    <label>Jewellery box</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Travel Pouch</fullName>
+                    <default>false</default>
+                    <label>Jewellery Travel Pouch</label>
+                </value>
+                <value>
+                    <fullName>Joyero De Viaje</fullName>
+                    <default>false</default>
+                    <label>Joyero De Viaje</label>
+                </value>
+                <value>
+                    <fullName>Juc</fullName>
+                    <default>false</default>
+                    <label>Juc</label>
+                </value>
+                <value>
+                    <fullName>Juego De Cartas</fullName>
+                    <default>false</default>
+                    <label>Juego De Cartas</label>
+                </value>
+                <value>
+                    <fullName>Juste Un Clou</fullName>
+                    <default>false</default>
+                    <label>Juste Un Clou</label>
+                </value>
+                <value>
+                    <fullName>Ksa Hj Event</fullName>
+                    <default>false</default>
+                    <label>Ksa Hj Event</label>
+                </value>
+                <value>
+                    <fullName>Ksa National Day</fullName>
+                    <default>false</default>
+                    <label>Ksa National Day</label>
+                </value>
+                <value>
+                    <fullName>L'Envol Fragrance - Crm00371</fullName>
+                    <default>false</default>
+                    <label>L'Envol Fragrance - Crm00371</label>
+                </value>
+                <value>
+                    <fullName>Large Panther Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Large Panther Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Large Trinket Tray - Crm00400</fullName>
+                    <default>false</default>
+                    <label>Large Trinket Tray - Crm00400</label>
+                </value>
+                <value>
+                    <fullName>Leaflet</fullName>
+                    <default>false</default>
+                    <label>Leaflet</label>
+                </value>
+                <value>
+                    <fullName>Leather accessories</fullName>
+                    <default>false</default>
+                    <label>Leather accessories</label>
+                </value>
+                <value>
+                    <fullName>Leather Notebook Brown</fullName>
+                    <default>false</default>
+                    <label>Leather Notebook Brown</label>
+                </value>
+                <value>
+                    <fullName>Le Macaron 2016</fullName>
+                    <default>false</default>
+                    <label>Le Macaron 2016</label>
+                </value>
+                <value>
+                    <fullName>Les Heures De Perfumes</fullName>
+                    <default>false</default>
+                    <label>Les Heures De Perfumes</label>
+                </value>
+                <value>
+                    <fullName>Letter From Boutique</fullName>
+                    <default>false</default>
+                    <label>Letter From Boutique</label>
+                </value>
+                <value>
+                    <fullName>Letter From Office</fullName>
+                    <default>false</default>
+                    <label>Letter From Office</label>
+                </value>
+                <value>
+                    <fullName>Libro Alta Joyeria 2015 - Crrpd00115</fullName>
+                    <default>false</default>
+                    <label>Libro Alta Joyeria 2015 - Crrpd00115</label>
+                </value>
+                <value>
+                    <fullName>Libro America Latina Fundacion Cartier</fullName>
+                    <default>false</default>
+                    <label>Libro America Latina Fundacion Cartier</label>
+                </value>
+                <value>
+                    <fullName>Livre D'Or</fullName>
+                    <default>false</default>
+                    <label>Livre D'Or</label>
+                </value>
+                <value>
+                    <fullName>Livre D'Or White</fullName>
+                    <default>false</default>
+                    <label>Livre D'Or White</label>
+                </value>
+                <value>
+                    <fullName>Livre D'Or White - Crm00171</fullName>
+                    <default>false</default>
+                    <label>Livre D'Or White - Crm00171</label>
+                </value>
+                <value>
+                    <fullName>Livro Grand Palais</fullName>
+                    <default>false</default>
+                    <label>Livro Grand Palais</label>
+                </value>
+                <value>
+                    <fullName>Livro Inside Rio</fullName>
+                    <default>false</default>
+                    <label>Livro Inside Rio</label>
+                </value>
+                <value>
+                    <fullName>Livro Panthere 100 Anos Cartier</fullName>
+                    <default>false</default>
+                    <label>Livro Panthere 100 Anos Cartier</label>
+                </value>
+                <value>
+                    <fullName>Livro Ron Mueck</fullName>
+                    <default>false</default>
+                    <label>Livro Ron Mueck</label>
+                </value>
+                <value>
+                    <fullName>Livro The Tank Watch</fullName>
+                    <default>false</default>
+                    <label>Livro The Tank Watch</label>
+                </value>
+                <value>
+                    <fullName>Local Emailing</fullName>
+                    <default>false</default>
+                    <label>Local Emailing</label>
+                </value>
+                <value>
+                    <fullName>Local event(not btq)</fullName>
+                    <default>false</default>
+                    <label>Local event(not btq)</label>
+                </value>
+                <value>
+                    <fullName>Love And Bb</fullName>
+                    <default>false</default>
+                    <label>Love And Bb</label>
+                </value>
+                <value>
+                    <fullName>Low Potential Whatsapp Messages</fullName>
+                    <default>false</default>
+                    <label>Low Potential Whatsapp Messages</label>
+                </value>
+                <value>
+                    <fullName>Ludo</fullName>
+                    <default>false</default>
+                    <label>Ludo</label>
+                </value>
+                <value>
+                    <fullName>Lunch</fullName>
+                    <default>false</default>
+                    <label>Lunch</label>
+                </value>
+                <value>
+                    <fullName>Lunch/dinner not btq</fullName>
+                    <default>false</default>
+                    <label>Lunch/dinner not btq</label>
+                </value>
+                <value>
+                    <fullName>Lunch or dinner</fullName>
+                    <default>false</default>
+                    <label>Lunch or dinner</label>
+                </value>
+                <value>
+                    <fullName>Lunch Treatment</fullName>
+                    <default>false</default>
+                    <label>Lunch Treatment</label>
+                </value>
+                <value>
+                    <fullName>Macarons San Valentin 2018</fullName>
+                    <default>false</default>
+                    <label>Macarons San Valentin 2018</label>
+                </value>
+                <value>
+                    <fullName>Magicien Dubai 2016 Invitation</fullName>
+                    <default>false</default>
+                    <label>Magicien Dubai 2016 Invitation</label>
+                </value>
+                <value>
+                    <fullName>Mailer With Personalised Card</fullName>
+                    <default>false</default>
+                    <label>Mailer With Personalised Card</label>
+                </value>
+                <value>
+                    <fullName>Mailing</fullName>
+                    <default>false</default>
+                    <label>Mailing</label>
+                </value>
+                <value>
+                    <fullName>Mday19 - 32 Pcs Box</fullName>
+                    <default>false</default>
+                    <label>Mday19 - 32 Pcs Box</label>
+                </value>
+                <value>
+                    <fullName>Mday19 - Vip Box</fullName>
+                    <default>false</default>
+                    <label>Mday19 - Vip Box</label>
+                </value>
+                <value>
+                    <fullName>Memory Game</fullName>
+                    <default>false</default>
+                    <label>Memory Game</label>
+                </value>
+                <value>
+                    <fullName>Miniatura Envol San Valentin 2017</fullName>
+                    <default>false</default>
+                    <label>Miniatura Envol San Valentin 2017</label>
+                </value>
+                <value>
+                    <fullName>Mini C De Cartier</fullName>
+                    <default>false</default>
+                    <label>Mini C De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Mini Panther Trinket Tray</fullName>
+                    <default>false</default>
+                    <label>Mini Panther Trinket Tray</label>
+                </value>
+                <value>
+                    <fullName>Mirage Save The Date</fullName>
+                    <default>false</default>
+                    <label>Mirage Save The Date</label>
+                </value>
+                <value>
+                    <fullName>Missing Long Label</fullName>
+                    <default>false</default>
+                    <label>Missing Long Label</label>
+                </value>
+                <value>
+                    <fullName>Moleskine Drive Dia Padre 2016</fullName>
+                    <default>false</default>
+                    <label>Moleskine Drive Dia Padre 2016</label>
+                </value>
+                <value>
+                    <fullName>Mothers Day</fullName>
+                    <default>false</default>
+                    <label>Mothers Day</label>
+                </value>
+                <value>
+                    <fullName>Multi-Product / Corporate Catalog</fullName>
+                    <default>false</default>
+                    <label>Multi-Product / Corporate Catalog</label>
+                </value>
+                <value>
+                    <fullName>National Day</fullName>
+                    <default>false</default>
+                    <label>National Day</label>
+                </value>
+                <value>
+                    <fullName>New Baby Born</fullName>
+                    <default>false</default>
+                    <label>New Baby Born</label>
+                </value>
+                <value>
+                    <fullName>New clients</fullName>
+                    <default>false</default>
+                    <label>New clients</label>
+                </value>
+                <value>
+                    <fullName>New Love</fullName>
+                    <default>false</default>
+                    <label>New Love</label>
+                </value>
+                <value>
+                    <fullName>New Return /Exchange</fullName>
+                    <default>false</default>
+                    <label>New Return /Exchange</label>
+                </value>
+                <value>
+                    <fullName>Newsletter</fullName>
+                    <default>false</default>
+                    <label>Newsletter</label>
+                </value>
+                <value>
+                    <fullName>New Year</fullName>
+                    <default>false</default>
+                    <label>New Year</label>
+                </value>
+                <value>
+                    <fullName>New Year Chocolates</fullName>
+                    <default>false</default>
+                    <label>New Year Chocolates</label>
+                </value>
+                <value>
+                    <fullName>Notebook</fullName>
+                    <default>false</default>
+                    <label>Notebook</label>
+                </value>
+                <value>
+                    <fullName>Nueva Coleccion Ronde C</fullName>
+                    <default>false</default>
+                    <label>Nueva Coleccion Ronde C</label>
+                </value>
+                <value>
+                    <fullName>Obsequio</fullName>
+                    <default>false</default>
+                    <label>Obsequio</label>
+                </value>
+                <value>
+                    <fullName>Opera Boutique Loyal And Active List</fullName>
+                    <default>false</default>
+                    <label>Opera Boutique Loyal And Active List</label>
+                </value>
+                <value>
+                    <fullName>Opera Whatsapp Invitation</fullName>
+                    <default>false</default>
+                    <label>Opera Whatsapp Invitation</label>
+                </value>
+                <value>
+                    <fullName>Order Status</fullName>
+                    <default>false</default>
+                    <label>Order Status</label>
+                </value>
+                <value>
+                    <fullName>Other (Specify)</fullName>
+                    <default>false</default>
+                    <label>Other (Specify)</label>
+                </value>
+                <value>
+                    <fullName>Other Communications</fullName>
+                    <default>false</default>
+                    <label>Other Communications</label>
+                </value>
+                <value>
+                    <fullName>Other Entertainments</fullName>
+                    <default>false</default>
+                    <label>Other Entertainments</label>
+                </value>
+                <value>
+                    <fullName>Other Events</fullName>
+                    <default>false</default>
+                    <label>Other Events</label>
+                </value>
+                <value>
+                    <fullName>Other Gift</fullName>
+                    <default>false</default>
+                    <label>Other Gift</label>
+                </value>
+                <value>
+                    <fullName>Other Gifts</fullName>
+                    <default>false</default>
+                    <label>Other Gifts</label>
+                </value>
+                <value>
+                    <fullName>Other Mailers</fullName>
+                    <default>false</default>
+                    <label>Other Mailers</label>
+                </value>
+                <value>
+                    <fullName>Other Occasions</fullName>
+                    <default>false</default>
+                    <label>Other Occasions</label>
+                </value>
+                <value>
+                    <fullName>Others</fullName>
+                    <default>false</default>
+                    <label>Others</label>
+                </value>
+                <value>
+                    <fullName>Outbound</fullName>
+                    <default>false</default>
+                    <label>Outbound</label>
+                </value>
+                <value>
+                    <fullName>Outras Ocasiões</fullName>
+                    <default>false</default>
+                    <label>Outras Ocasiões</label>
+                </value>
+                <value>
+                    <fullName>Outros (Descrever)</fullName>
+                    <default>false</default>
+                    <label>Outros (Descrever)</label>
+                </value>
+                <value>
+                    <fullName>Outros Contatos</fullName>
+                    <default>false</default>
+                    <label>Outros Contatos</label>
+                </value>
+                <value>
+                    <fullName>Outros Eventos</fullName>
+                    <default>false</default>
+                    <label>Outros Eventos</label>
+                </value>
+                <value>
+                    <fullName>Page Boy Delivery</fullName>
+                    <default>false</default>
+                    <label>Page Boy Delivery</label>
+                </value>
+                <value>
+                    <fullName>Palais Exhibition</fullName>
+                    <default>false</default>
+                    <label>Palais Exhibition</label>
+                </value>
+                <value>
+                    <fullName>Panthere Fragrance - Crm00283</fullName>
+                    <default>false</default>
+                    <label>Panthere Fragrance - Crm00283</label>
+                </value>
+                <value>
+                    <fullName>Panthere Perfume</fullName>
+                    <default>false</default>
+                    <label>Panthere Perfume</label>
+                </value>
+                <value>
+                    <fullName>Panthere Watch</fullName>
+                    <default>false</default>
+                    <label>Panthere Watch</label>
+                </value>
+                <value>
+                    <fullName>Panther Jewelery Box - Crm00337</fullName>
+                    <default>false</default>
+                    <label>Panther Jewelery Box - Crm00337</label>
+                </value>
+                <value>
+                    <fullName>Panther Jewellery Box</fullName>
+                    <default>false</default>
+                    <label>Panther Jewellery Box</label>
+                </value>
+                <value>
+                    <fullName>Panther Jewelry Box - Crm00392</fullName>
+                    <default>false</default>
+                    <label>Panther Jewelry Box - Crm00392</label>
+                </value>
+                <value>
+                    <fullName>Paris Nouvelle Vague</fullName>
+                    <default>false</default>
+                    <label>Paris Nouvelle Vague</label>
+                </value>
+                <value>
+                    <fullName>Partnership</fullName>
+                    <default>false</default>
+                    <label>Partnership</label>
+                </value>
+                <value>
+                    <fullName>Passport Holder</fullName>
+                    <default>false</default>
+                    <label>Passport Holder</label>
+                </value>
+                <value>
+                    <fullName>Passport Holder Black</fullName>
+                    <default>false</default>
+                    <label>Passport Holder Black</label>
+                </value>
+                <value>
+                    <fullName>Passport Holder - Black - Crm00146</fullName>
+                    <default>false</default>
+                    <label>Passport Holder - Black - Crm00146</label>
+                </value>
+                <value>
+                    <fullName>Passport Holder Red</fullName>
+                    <default>false</default>
+                    <label>Passport Holder Red</label>
+                </value>
+                <value>
+                    <fullName>Passport Holder - Red - Crm00147</fullName>
+                    <default>false</default>
+                    <label>Passport Holder - Red - Crm00147</label>
+                </value>
+                <value>
+                    <fullName>Pedido De Casamento</fullName>
+                    <default>false</default>
+                    <label>Pedido De Casamento</label>
+                </value>
+                <value>
+                    <fullName>Pen Holder</fullName>
+                    <default>false</default>
+                    <label>Pen Holder</label>
+                </value>
+                <value>
+                    <fullName>Pen Holder (Red) - Crm00168</fullName>
+                    <default>false</default>
+                    <label>Pen Holder (Red) - Crm00168</label>
+                </value>
+                <value>
+                    <fullName>Perfume</fullName>
+                    <default>false</default>
+                    <label>Perfume</label>
+                </value>
+                <value>
+                    <fullName>Perfumed Candle</fullName>
+                    <default>false</default>
+                    <label>Perfumed Candle</label>
+                </value>
+                <value>
+                    <fullName>Perfumes</fullName>
+                    <default>false</default>
+                    <label>Perfumes</label>
+                </value>
+                <value>
+                    <fullName>Personalised Card</fullName>
+                    <default>false</default>
+                    <label>Personalised Card</label>
+                </value>
+                <value>
+                    <fullName>Personalizado</fullName>
+                    <default>false</default>
+                    <label>Personalizado</label>
+                </value>
+                <value>
+                    <fullName>Phone Call Contact</fullName>
+                    <default>false</default>
+                    <label>Phone Call Contact</label>
+                </value>
+                <value>
+                    <fullName>Phone Call From Boutique</fullName>
+                    <default>false</default>
+                    <label>Phone Call From Boutique</label>
+                </value>
+                <value>
+                    <fullName>Phone Call From Client</fullName>
+                    <default>false</default>
+                    <label>Phone Call From Client</label>
+                </value>
+                <value>
+                    <fullName>Phone Interview</fullName>
+                    <default>false</default>
+                    <label>Phone Interview</label>
+                </value>
+                <value>
+                    <fullName>Polishing</fullName>
+                    <default>false</default>
+                    <label>Polishing</label>
+                </value>
+                <value>
+                    <fullName>Polo</fullName>
+                    <default>false</default>
+                    <label>Polo</label>
+                </value>
+                <value>
+                    <fullName>Polo 2016 Invitation</fullName>
+                    <default>false</default>
+                    <label>Polo 2016 Invitation</label>
+                </value>
+                <value>
+                    <fullName>Polo Invitation 2018</fullName>
+                    <default>false</default>
+                    <label>Polo Invitation 2018</label>
+                </value>
+                <value>
+                    <fullName>Polo Save The Date 2018</fullName>
+                    <default>false</default>
+                    <label>Polo Save The Date 2018</label>
+                </value>
+                <value>
+                    <fullName>Porta Pasaporte</fullName>
+                    <default>false</default>
+                    <label>Porta Pasaporte</label>
+                </value>
+                <value>
+                    <fullName>Positive Comment</fullName>
+                    <default>false</default>
+                    <label>Positive Comment</label>
+                </value>
+                <value>
+                    <fullName>Post Compra</fullName>
+                    <default>false</default>
+                    <label>Post Compra</label>
+                </value>
+                <value>
+                    <fullName>Post Purchase</fullName>
+                    <default>false</default>
+                    <label>Post Purchase</label>
+                </value>
+                <value>
+                    <fullName>Post Purchase Card</fullName>
+                    <default>false</default>
+                    <label>Post Purchase Card</label>
+                </value>
+                <value>
+                    <fullName>Post Purchase Gift</fullName>
+                    <default>false</default>
+                    <label>Post Purchase Gift</label>
+                </value>
+                <value>
+                    <fullName>Post Purchase Whatsapp</fullName>
+                    <default>false</default>
+                    <label>Post Purchase Whatsapp</label>
+                </value>
+                <value>
+                    <fullName>Price And/Or Availability</fullName>
+                    <default>false</default>
+                    <label>Price And/Or Availability</label>
+                </value>
+                <value>
+                    <fullName>Private Viewing</fullName>
+                    <default>false</default>
+                    <label>Private Viewing</label>
+                </value>
+                <value>
+                    <fullName>Private Viewing Invitation</fullName>
+                    <default>false</default>
+                    <label>Private Viewing Invitation</label>
+                </value>
+                <value>
+                    <fullName>Product</fullName>
+                    <default>false</default>
+                    <label>Product</label>
+                </value>
+                <value>
+                    <fullName>Product Information</fullName>
+                    <default>false</default>
+                    <label>Product Information</label>
+                </value>
+                <value>
+                    <fullName>Product Launch</fullName>
+                    <default>false</default>
+                    <label>Product Launch</label>
+                </value>
+                <value>
+                    <fullName>Product Maintenance/Instructions</fullName>
+                    <default>false</default>
+                    <label>Product Maintenance/Instructions</label>
+                </value>
+                <value>
+                    <fullName>Product Presentation</fullName>
+                    <default>false</default>
+                    <label>Product Presentation</label>
+                </value>
+                <value>
+                    <fullName>Purchase Anniversary</fullName>
+                    <default>false</default>
+                    <label>Purchase Anniversary</label>
+                </value>
+                <value>
+                    <fullName>Purchase Anniversary Whatsapp</fullName>
+                    <default>false</default>
+                    <label>Purchase Anniversary Whatsapp</label>
+                </value>
+                <value>
+                    <fullName>Ramadan Greeting</fullName>
+                    <default>false</default>
+                    <label>Ramadan Greeting</label>
+                </value>
+                <value>
+                    <fullName>Ramo De Novias</fullName>
+                    <default>false</default>
+                    <label>Ramo De Novias</label>
+                </value>
+                <value>
+                    <fullName>Reapertura 5th Ave. 092016</fullName>
+                    <default>false</default>
+                    <label>Reapertura 5th Ave. 092016</label>
+                </value>
+                <value>
+                    <fullName>Red Notebook Fy15 - Crm00294</fullName>
+                    <default>false</default>
+                    <label>Red Notebook Fy15 - Crm00294</label>
+                </value>
+                <value>
+                    <fullName>Re-engagement email</fullName>
+                    <default>false</default>
+                    <label>Re-engagement email</label>
+                </value>
+                <value>
+                    <fullName>Repair Status/Leadtime</fullName>
+                    <default>false</default>
+                    <label>Repair Status/Leadtime</label>
+                </value>
+                <value>
+                    <fullName>Rmdn20 - 32 Pcs Box</fullName>
+                    <default>false</default>
+                    <label>Rmdn20 - 32 Pcs Box</label>
+                </value>
+                <value>
+                    <fullName>Rmdn20 - Vip Box</fullName>
+                    <default>false</default>
+                    <label>Rmdn20 - Vip Box</label>
+                </value>
+                <value>
+                    <fullName>Rolls Royce</fullName>
+                    <default>false</default>
+                    <label>Rolls Royce</label>
+                </value>
+                <value>
+                    <fullName>Rpd00044 - Cartier I Love You</fullName>
+                    <default>false</default>
+                    <label>Rpd00044 - Cartier I Love You</label>
+                </value>
+                <value>
+                    <fullName>Rpd00093 Cartier : Style And History</fullName>
+                    <default>false</default>
+                    <label>Rpd00093 Cartier : Style And History</label>
+                </value>
+                <value>
+                    <fullName>Rpd00098 - Libro Cartier In The 20th</fullName>
+                    <default>false</default>
+                    <label>Rpd00098 - Libro Cartier In The 20th</label>
+                </value>
+                <value>
+                    <fullName>Rpd00099 - Libro Cartier 20th Slipcase</fullName>
+                    <default>false</default>
+                    <label>Rpd00099 - Libro Cartier 20th Slipcase</label>
+                </value>
+                <value>
+                    <fullName>Rpd00101 - Libro Fondation Cartier</fullName>
+                    <default>false</default>
+                    <label>Rpd00101 - Libro Fondation Cartier</label>
+                </value>
+                <value>
+                    <fullName>Rpd00103 Cartier Royal</fullName>
+                    <default>false</default>
+                    <label>Rpd00103 Cartier Royal</label>
+                </value>
+                <value>
+                    <fullName>Rpd00108 - Libro Panthere</fullName>
+                    <default>false</default>
+                    <label>Rpd00108 - Libro Panthere</label>
+                </value>
+                <value>
+                    <fullName>Rpd00115 - Libro Alta Joyeria</fullName>
+                    <default>false</default>
+                    <label>Rpd00115 - Libro Alta Joyeria</label>
+                </value>
+                <value>
+                    <fullName>Santos</fullName>
+                    <default>false</default>
+                    <label>Santos</label>
+                </value>
+                <value>
+                    <fullName>Santos 100 Complimentary Service</fullName>
+                    <default>false</default>
+                    <label>Santos 100 Complimentary Service</label>
+                </value>
+                <value>
+                    <fullName>Santos Communicating Object</fullName>
+                    <default>false</default>
+                    <label>Santos Communicating Object</label>
+                </value>
+                <value>
+                    <fullName>Santos Offer</fullName>
+                    <default>false</default>
+                    <label>Santos Offer</label>
+                </value>
+                <value>
+                    <fullName>Sdgc Event</fullName>
+                    <default>false</default>
+                    <label>Sdgc Event</label>
+                </value>
+                <value>
+                    <fullName>Service Advice</fullName>
+                    <default>false</default>
+                    <label>Service Advice</label>
+                </value>
+                <value>
+                    <fullName>Service Starting Price</fullName>
+                    <default>false</default>
+                    <label>Service Starting Price</label>
+                </value>
+                <value>
+                    <fullName>Set De Escritura</fullName>
+                    <default>false</default>
+                    <label>Set De Escritura</label>
+                </value>
+                <value>
+                    <fullName>Set Of 2 Panthere Trinket 2010</fullName>
+                    <default>false</default>
+                    <label>Set Of 2 Panthere Trinket 2010</label>
+                </value>
+                <value>
+                    <fullName>Shenyang Exhibition</fullName>
+                    <default>false</default>
+                    <label>Shenyang Exhibition</label>
+                </value>
+                <value>
+                    <fullName>Siar 2014</fullName>
+                    <default>false</default>
+                    <label>Siar 2014</label>
+                </value>
+                <value>
+                    <fullName>Sihh</fullName>
+                    <default>false</default>
+                    <label>Sihh</label>
+                </value>
+                <value>
+                    <fullName>Sleeping</fullName>
+                    <default>false</default>
+                    <label>Sleeping</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Card</fullName>
+                    <default>false</default>
+                    <label>Sleeping Card</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Contact</fullName>
+                    <default>false</default>
+                    <label>Sleeping Contact</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Gift</fullName>
+                    <default>false</default>
+                    <label>Sleeping Gift</label>
+                </value>
+                <value>
+                    <fullName>Sleeping Whatsapp</fullName>
+                    <default>false</default>
+                    <label>Sleeping Whatsapp</label>
+                </value>
+                <value>
+                    <fullName>Sm15 Carta Impresa</fullName>
+                    <default>false</default>
+                    <label>Sm15 Carta Impresa</label>
+                </value>
+                <value>
+                    <fullName>Sm15 Carta Impresa + Separador Cle</fullName>
+                    <default>false</default>
+                    <label>Sm15 Carta Impresa + Separador Cle</label>
+                </value>
+                <value>
+                    <fullName>Sm15 Carta Perso</fullName>
+                    <default>false</default>
+                    <label>Sm15 Carta Perso</label>
+                </value>
+                <value>
+                    <fullName>Sm15 Carta Perso + Separador Cle</fullName>
+                    <default>false</default>
+                    <label>Sm15 Carta Perso + Separador Cle</label>
+                </value>
+                <value>
+                    <fullName>Sm16 Generico</fullName>
+                    <default>false</default>
+                    <label>Sm16 Generico</label>
+                </value>
+                <value>
+                    <fullName>Sm16 Goal</fullName>
+                    <default>false</default>
+                    <label>Sm16 Goal</label>
+                </value>
+                <value>
+                    <fullName>Small Jewellery Box</fullName>
+                    <default>false</default>
+                    <label>Small Jewellery Box</label>
+                </value>
+                <value>
+                    <fullName>Small Jewelry Box Red</fullName>
+                    <default>false</default>
+                    <label>Small Jewelry Box Red</label>
+                </value>
+                <value>
+                    <fullName>Small Jewelry Box Red - Crm00169</fullName>
+                    <default>false</default>
+                    <label>Small Jewelry Box Red - Crm00169</label>
+                </value>
+                <value>
+                    <fullName>Spa Hotel W (2 Pers.)</fullName>
+                    <default>false</default>
+                    <label>Spa Hotel W (2 Pers.)</label>
+                </value>
+                <value>
+                    <fullName>Spare Parts</fullName>
+                    <default>false</default>
+                    <label>Spare Parts</label>
+                </value>
+                <value>
+                    <fullName>Spa St Regis</fullName>
+                    <default>false</default>
+                    <label>Spa St Regis</label>
+                </value>
+                <value>
+                    <fullName>Spa Treatment</fullName>
+                    <default>false</default>
+                    <label>Spa Treatment</label>
+                </value>
+                <value>
+                    <fullName>Sponsorship/Charity</fullName>
+                    <default>false</default>
+                    <label>Sponsorship/Charity</label>
+                </value>
+                <value>
+                    <fullName>Sport event</fullName>
+                    <default>false</default>
+                    <label>Sport event</label>
+                </value>
+                <value>
+                    <fullName>Spring Mailer</fullName>
+                    <default>false</default>
+                    <label>Spring Mailer</label>
+                </value>
+                <value>
+                    <fullName>Spring Mailer 17</fullName>
+                    <default>false</default>
+                    <label>Spring Mailer 17</label>
+                </value>
+                <value>
+                    <fullName>Spring Mailing 14</fullName>
+                    <default>false</default>
+                    <label>Spring Mailing 14</label>
+                </value>
+                <value>
+                    <fullName>Style And Historu</fullName>
+                    <default>false</default>
+                    <label>Style And Historu</label>
+                </value>
+                <value>
+                    <fullName>Suhoor</fullName>
+                    <default>false</default>
+                    <label>Suhoor</label>
+                </value>
+                <value>
+                    <fullName>Suhoor Attendance</fullName>
+                    <default>false</default>
+                    <label>Suhoor Attendance</label>
+                </value>
+                <value>
+                    <fullName>Sweet Alhambra Watch</fullName>
+                    <default>false</default>
+                    <label>Sweet Alhambra Watch</label>
+                </value>
+                <value>
+                    <fullName>Tank</fullName>
+                    <default>false</default>
+                    <label>Tank</label>
+                </value>
+                <value>
+                    <fullName>Tank Book</fullName>
+                    <default>false</default>
+                    <label>Tank Book</label>
+                </value>
+                <value>
+                    <fullName>Telefonema Da Boutique Para Cliente</fullName>
+                    <default>false</default>
+                    <label>Telefonema Da Boutique Para Cliente</label>
+                </value>
+                <value>
+                    <fullName>Thank you</fullName>
+                    <default>false</default>
+                    <label>Thank you</label>
+                </value>
+                <value>
+                    <fullName>Thank You / Compliment</fullName>
+                    <default>false</default>
+                    <label>Thank You / Compliment</label>
+                </value>
+                <value>
+                    <fullName>Thank you card</fullName>
+                    <default>false</default>
+                    <label>Thank you card</label>
+                </value>
+                <value>
+                    <fullName>Transfer To Boutique</fullName>
+                    <default>false</default>
+                    <label>Transfer To Boutique</label>
+                </value>
+                <value>
+                    <fullName>Transfer To Internal Staff</fullName>
+                    <default>false</default>
+                    <label>Transfer To Internal Staff</label>
+                </value>
+                <value>
+                    <fullName>Travel Blanket - Crm00398</fullName>
+                    <default>false</default>
+                    <label>Travel Blanket - Crm00398</label>
+                </value>
+                <value>
+                    <fullName>Travel Treatment</fullName>
+                    <default>false</default>
+                    <label>Travel Treatment</label>
+                </value>
+                <value>
+                    <fullName>Travel Watch Roll</fullName>
+                    <default>false</default>
+                    <label>Travel Watch Roll</label>
+                </value>
+                <value>
+                    <fullName>Uae National Day</fullName>
+                    <default>false</default>
+                    <label>Uae National Day</label>
+                </value>
+                <value>
+                    <fullName>Vday19 - 32 Pcs Box</fullName>
+                    <default>false</default>
+                    <label>Vday19 - 32 Pcs Box</label>
+                </value>
+                <value>
+                    <fullName>Vinho</fullName>
+                    <default>false</default>
+                    <label>Vinho</label>
+                </value>
+                <value>
+                    <fullName>Vino Tinto Matarromera San Valentin 2018</fullName>
+                    <default>false</default>
+                    <label>Vino Tinto Matarromera San Valentin 2018</label>
+                </value>
+                <value>
+                    <fullName>VIP</fullName>
+                    <default>false</default>
+                    <label>VIP</label>
+                </value>
+                <value>
+                    <fullName>Vip Jewellery Box</fullName>
+                    <default>false</default>
+                    <label>Vip Jewellery Box</label>
+                </value>
+                <value>
+                    <fullName>Vip Jewellery Bx Fy 15 - Crm00286</fullName>
+                    <default>false</default>
+                    <label>Vip Jewellery Bx Fy 15 - Crm00286</label>
+                </value>
+                <value>
+                    <fullName>Vip Men Watcth Box</fullName>
+                    <default>false</default>
+                    <label>Vip Men Watcth Box</label>
+                </value>
+                <value>
+                    <fullName>Vip Watch Box</fullName>
+                    <default>false</default>
+                    <label>Vip Watch Box</label>
+                </value>
+                <value>
+                    <fullName>Vip Watch Box Fy15 - Crm00287</fullName>
+                    <default>false</default>
+                    <label>Vip Watch Box Fy15 - Crm00287</label>
+                </value>
+                <value>
+                    <fullName>Vip Wm14</fullName>
+                    <default>false</default>
+                    <label>Vip Wm14</label>
+                </value>
+                <value>
+                    <fullName>Vip Women Jewellery Box</fullName>
+                    <default>false</default>
+                    <label>Vip Women Jewellery Box</label>
+                </value>
+                <value>
+                    <fullName>Vip Women Watch Box Wood Lacquer</fullName>
+                    <default>false</default>
+                    <label>Vip Women Watch Box Wood Lacquer</label>
+                </value>
+                <value>
+                    <fullName>Visit In The Boutique</fullName>
+                    <default>false</default>
+                    <label>Visit In The Boutique</label>
+                </value>
+                <value>
+                    <fullName>Visit To Boutique</fullName>
+                    <default>false</default>
+                    <label>Visit To Boutique</label>
+                </value>
+                <value>
+                    <fullName>Warranty</fullName>
+                    <default>false</default>
+                    <label>Warranty</label>
+                </value>
+                <value>
+                    <fullName>Watch</fullName>
+                    <default>false</default>
+                    <label>Watch</label>
+                </value>
+                <value>
+                    <fullName>Watches box</fullName>
+                    <default>false</default>
+                    <label>Watches box</label>
+                </value>
+                <value>
+                    <fullName>Watch Strap</fullName>
+                    <default>false</default>
+                    <label>Watch Strap</label>
+                </value>
+                <value>
+                    <fullName>Watch Travel Pouch</fullName>
+                    <default>false</default>
+                    <label>Watch Travel Pouch</label>
+                </value>
+                <value>
+                    <fullName>Website Issue / Error</fullName>
+                    <default>false</default>
+                    <label>Website Issue / Error</label>
+                </value>
+                <value>
+                    <fullName>Wedding Anniversary</fullName>
+                    <default>false</default>
+                    <label>Wedding Anniversary</label>
+                </value>
+                <value>
+                    <fullName>Wedding Gift Or Treatment</fullName>
+                    <default>false</default>
+                    <label>Wedding Gift Or Treatment</label>
+                </value>
+                <value>
+                    <fullName>Wedding Month</fullName>
+                    <default>false</default>
+                    <label>Wedding Month</label>
+                </value>
+                <value>
+                    <fullName>Wedding Planning</fullName>
+                    <default>false</default>
+                    <label>Wedding Planning</label>
+                </value>
+                <value>
+                    <fullName>Wedding Proposal</fullName>
+                    <default>false</default>
+                    <label>Wedding Proposal</label>
+                </value>
+                <value>
+                    <fullName>Welcome</fullName>
+                    <default>false</default>
+                    <label>Welcome</label>
+                </value>
+                <value>
+                    <fullName>Welcome Book</fullName>
+                    <default>false</default>
+                    <label>Welcome Book</label>
+                </value>
+                <value>
+                    <fullName>Welcome email</fullName>
+                    <default>false</default>
+                    <label>Welcome email</label>
+                </value>
+                <value>
+                    <fullName>Welcome pack</fullName>
+                    <default>false</default>
+                    <label>Welcome pack</label>
+                </value>
+                <value>
+                    <fullName>Welcome Program</fullName>
+                    <default>false</default>
+                    <label>Welcome Program</label>
+                </value>
+                <value>
+                    <fullName>Whatsapp Contact</fullName>
+                    <default>false</default>
+                    <label>Whatsapp Contact</label>
+                </value>
+                <value>
+                    <fullName>Whisky - Ampely</fullName>
+                    <default>false</default>
+                    <label>Whisky - Ampely</label>
+                </value>
+                <value>
+                    <fullName>Winter Mailer</fullName>
+                    <default>false</default>
+                    <label>Winter Mailer</label>
+                </value>
+                <value>
+                    <fullName>Winter Mailer 2017</fullName>
+                    <default>false</default>
+                    <label>Winter Mailer 2017</label>
+                </value>
+                <value>
+                    <fullName>Wm15 Generico</fullName>
+                    <default>false</default>
+                    <label>Wm15 Generico</label>
+                </value>
+                <value>
+                    <fullName>Wm15 Goal</fullName>
+                    <default>false</default>
+                    <label>Wm15 Goal</label>
+                </value>
+                <value>
+                    <fullName>Wm16 Envol</fullName>
+                    <default>false</default>
+                    <label>Wm16 Envol</label>
+                </value>
+                <value>
+                    <fullName>Wm16 Generico</fullName>
+                    <default>false</default>
+                    <label>Wm16 Generico</label>
+                </value>
+                <value>
+                    <fullName>Wm16 Perso</fullName>
+                    <default>false</default>
+                    <label>Wm16 Perso</label>
+                </value>
+                <value>
+                    <fullName>Wm16 Perso + Envol</fullName>
+                    <default>false</default>
+                    <label>Wm16 Perso + Envol</label>
+                </value>
+                <value>
+                    <fullName>Womens International Day Treatment</fullName>
+                    <default>false</default>
+                    <label>Womens International Day Treatment</label>
+                </value>
+                <value>
+                    <fullName>Women Travel Pouch Fy15 - Crm00290</fullName>
+                    <default>false</default>
+                    <label>Women Travel Pouch Fy15 - Crm00290</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

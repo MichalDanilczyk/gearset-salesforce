@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ClientFlag__c</fullName>
+        <description>Client categorization based on perceived value (what level of VIP)</description>
+        <externalId>false</externalId>
+        <label>Client Flag</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Top VIP</fullName>
+                    <default>false</default>
+                    <label>Top VIP</label>
+                </value>
+                <value>
+                    <fullName>VIP</fullName>
+                    <default>false</default>
+                    <label>VIP</label>
+                </value>
+                <value>
+                    <fullName>Potential VIP</fullName>
+                    <default>false</default>
+                    <label>Potential VIP</label>
+                </value>
+                <value>
+                    <fullName>GOAL – Top</fullName>
+                    <default>false</default>
+                    <label>GOAL – Top</label>
+                </value>
+                <value>
+                    <fullName>GOAL – Local</fullName>
+                    <default>false</default>
+                    <label>GOAL – Local</label>
+                </value>
+                <value>
+                    <fullName>GOAL – Potential</fullName>
+                    <default>false</default>
+                    <label>GOAL – Potential</label>
+                </value>
+                <value>
+                    <fullName>GOAL+ – Existing HE</fullName>
+                    <default>false</default>
+                    <label>GOAL+ – Existing HE</label>
+                </value>
+                <value>
+                    <fullName>GOAL+ – Non-HE client</fullName>
+                    <default>false</default>
+                    <label>GOAL+ – Non-HE client</label>
+                </value>
+                <value>
+                    <fullName>GOAL+ – Prospect</fullName>
+                    <default>false</default>
+                    <label>GOAL+ – Prospect</label>
+                </value>
+                <value>
+                    <fullName>Loyal</fullName>
+                    <default>false</default>
+                    <label>Loyal</label>
+                </value>
+                <value>
+                    <fullName>Potential</fullName>
+                    <default>false</default>
+                    <label>Potential</label>
+                </value>
+                <value>
+                    <fullName>SAV</fullName>
+                    <default>false</default>
+                    <label>SAV</label>
+                </value>
+                <value>
+                    <fullName>Richemont Board of Directors</fullName>
+                    <default>false</default>
+                    <label>Richemont Board of Directors</label>
+                </value>
+                <value>
+                    <fullName>Family-Richemont Board of Directors</fullName>
+                    <default>false</default>
+                    <label>Family-Richemont Board of Directors</label>
+                </value>
+                <value>
+                    <fullName>VIP1</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>VIP1</label>
+                </value>
+                <value>
+                    <fullName>VIP2</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>VIP2</label>
+                </value>
+                <value>
+                    <fullName>VIP5</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>VIP5</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

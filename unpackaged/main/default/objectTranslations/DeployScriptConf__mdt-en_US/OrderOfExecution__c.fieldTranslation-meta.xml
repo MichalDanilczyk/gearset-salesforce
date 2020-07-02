@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- The Order of execution for the current method.
+Integer values are reserved for global methods.
+Decimal values are reserved for region specific methods. --></help>
+        <label><!-- Order of Execution --></label>
+        <name>OrderOfExecution__c</name>
+    </CustomFieldTranslation>

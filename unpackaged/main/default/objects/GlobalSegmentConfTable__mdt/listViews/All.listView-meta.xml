@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>All</fullName>
+        <columns>Segment__c</columns>
+        <columns>Maison__c</columns>
+        <columns>TurnoverAllTimeFrom__c</columns>
+        <columns>TurnoverAllTimeTo__c</columns>
+        <columns>RangeTurnoverFrom__c</columns>
+        <columns>RangeTurnoverTo__c</columns>
+        <columns>FirstSaleFrom__c</columns>
+        <columns>FirstSaleTo__c</columns>
+        <columns>RecencyFrom__c</columns>
+        <columns>RecencyTo__c</columns>
+        <columns>Potential__c</columns>
+        <columns>HighestTurnover__c</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </ListView>

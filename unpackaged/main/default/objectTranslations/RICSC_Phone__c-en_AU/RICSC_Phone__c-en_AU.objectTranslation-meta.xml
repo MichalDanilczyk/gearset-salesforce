@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Phone</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Phones</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Admin Phone Page Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Phone Information --></label>
+            <section>Phone Information</section>
+        </sections>
+        <sections>
+            <label><!-- Sys Admin --></label>
+            <section>Sys Admin</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CRM Manager Phone Page Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Phone Information --></label>
+            <section>Phone Information</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Phone --></nameFieldLabel>
+    <sharingReasons>
+        <label><!-- VCA Sharing Golden --></label>
+        <name>RICSC_VCASharingGolden</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- VCA Sharing Local --></label>
+        <name>RICSC_VCASharingLocal</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

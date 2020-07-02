@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_DefaultEmail__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Field to identify which is the primary email. For the LR comes from the Source System in the GR is populated  based on rules</description>
+        <externalId>false</externalId>
+        <label>Default Email</label>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </CustomField>

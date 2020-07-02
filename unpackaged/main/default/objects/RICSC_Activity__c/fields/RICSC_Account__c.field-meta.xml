@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Account__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Direct lookup to an account  from  which the activity originated - Release 1 SC</description>
+        <externalId>false</externalId>
+        <label>Account</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Activities</relationshipLabel>
+        <relationshipName>RICSC_ActivitiesAccount</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

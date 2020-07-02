@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_VIP__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>It identifies if the Record is VIP or not . It is recalculated at the GR record level based on Maisons' rules</description>
+        <externalId>false</externalId>
+        <label>VIP</label>
+        <type>Checkbox</type>
+    </CustomField>

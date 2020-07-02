@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- List of newline separated fully specified class names of classes extending TriggerHandlerInterface to skip during execution --></help>
+        <label><!-- DisableTriggerMethods --></label>
+        <name>DisableTriggerMethods__c</name>
+    </CustomFieldTranslation>

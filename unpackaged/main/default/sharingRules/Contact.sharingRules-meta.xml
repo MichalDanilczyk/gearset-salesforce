@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonCARChina</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Maison CAR China</label>
+        <sharedTo>
+            <role>RICSC_CARCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonCARWorld</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>MaisonCARWorld</label>
+        <sharedTo>
+            <role>RICSC_CARCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCChina</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Maison JLC China</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCWorld</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>MaisonJLCWorld</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonVCAChina</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Maison VCA China</label>
+        <sharedTo>
+            <role>RICSC_VCACRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonVCANonChina</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Maison VCA Non-China</label>
+        <sharedTo>
+            <group>RICSC_VCACRMNonChinaRoles</group>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

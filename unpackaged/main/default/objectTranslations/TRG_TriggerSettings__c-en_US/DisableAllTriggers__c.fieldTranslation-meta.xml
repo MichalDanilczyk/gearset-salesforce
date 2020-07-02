@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- If true, all triggers managed by the Trigger Framework are skipped for all objects --></help>
+        <label><!-- DisableAllTriggers --></label>
+        <name>DisableAllTriggers__c</name>
+    </CustomFieldTranslation>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_SocialMediaType__c</fullName>
+        <description>Picklist to indicate the Social Media channel (type)</description>
+        <externalId>false</externalId>
+        <label>Social Media Type</label>
+        <required>false</required>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Facebook</fullName>
+                    <default>false</default>
+                    <label>Facebook</label>
+                </value>
+                <value>
+                    <fullName>Instagram</fullName>
+                    <default>false</default>
+                    <label>Instagram</label>
+                </value>
+                <value>
+                    <fullName>Kakao talk</fullName>
+                    <default>false</default>
+                    <label>Kakao talk</label>
+                </value>
+                <value>
+                    <fullName>Line</fullName>
+                    <default>false</default>
+                    <label>Line</label>
+                </value>
+                <value>
+                    <fullName>Twitter</fullName>
+                    <default>false</default>
+                    <label>Twitter</label>
+                </value>
+                <value>
+                    <fullName>WeChat</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>WeChat</label>
+                </value>
+                <value>
+                    <fullName>We Chat</fullName>
+                    <default>false</default>
+                    <label>We Chat</label>
+                </value>
+                <value>
+                    <fullName>Whatsapp</fullName>
+                    <default>false</default>
+                    <label>Whatsapp</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_FlagforArchiving__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Flag for Archiving</description>
+        <externalId>false</externalId>
+        <label>Flag for Archiving</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </CustomField>

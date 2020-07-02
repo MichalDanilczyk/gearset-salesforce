@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_TicketCompactLayout</fullName>
+        <fields>Subject</fields>
+        <fields>Status</fields>
+        <fields>AccountId</fields>
+        <fields>RICSC_Product__c</fields>
+        <label>Ticket Compact Layout</label>
+    </CompactLayout>

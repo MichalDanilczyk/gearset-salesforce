@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Set the 18 digit version of ID for group with developerName AllInternalUsers --></help>
+        <label><!-- GroupId AllInternalUsers --></label>
+        <name>GroupId_AllInternalUsers__c</name>
+    </CustomFieldTranslation>

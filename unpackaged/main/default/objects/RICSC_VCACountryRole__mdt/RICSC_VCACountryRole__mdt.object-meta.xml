@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Used for VIP visibility requirements. Based on the US CRM-112</description>
+    <label>VCA Country - Role</label>
+    <pluralLabel>VCA Countries - Roles</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

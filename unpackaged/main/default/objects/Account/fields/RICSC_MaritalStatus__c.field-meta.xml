@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_MaritalStatus__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>It indicates if the customer is married</description>
+        <externalId>false</externalId>
+        <label>Marital Status</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </CustomField>

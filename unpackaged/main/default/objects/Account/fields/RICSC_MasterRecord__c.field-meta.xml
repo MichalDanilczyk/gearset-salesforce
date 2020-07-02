@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_MasterRecord__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Technical field to identify an Account cloned in the Golden Record creation process</description>
+        <externalId>false</externalId>
+        <label>Master Record</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </CustomField>

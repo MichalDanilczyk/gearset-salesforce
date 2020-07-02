@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_AddressType__c</fullName>
+        <description>Picklist to capture the type of address</description>
+        <externalId>false</externalId>
+        <label>Address Type</label>
+        <required>false</required>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Boutique</fullName>
+                    <default>false</default>
+                    <label>Boutique</label>
+                </value>
+                <value>
+                    <fullName>Business</fullName>
+                    <default>false</default>
+                    <label>Business</label>
+                </value>
+                <value>
+                    <fullName>Home Address</fullName>
+                    <default>false</default>
+                    <label>Home Address</label>
+                </value>
+                <value>
+                    <fullName>Office Address</fullName>
+                    <default>false</default>
+                    <label>Office Address</label>
+                </value>
+                <value>
+                    <fullName>Old Address</fullName>
+                    <default>false</default>
+                    <label>Old Address</label>
+                </value>
+                <value>
+                    <fullName>Past</fullName>
+                    <default>false</default>
+                    <label>Past</label>
+                </value>
+                <value>
+                    <fullName>Residency</fullName>
+                    <default>false</default>
+                    <label>Residency</label>
+                </value>
+                <value>
+                    <fullName>Secondary Residence</fullName>
+                    <default>false</default>
+                    <label>Secondary Residence</label>
+                </value>
+                <value>
+                    <fullName>Shipping Address</fullName>
+                    <default>false</default>
+                    <label>Shipping Address</label>
+                </value>
+                <value>
+                    <fullName>Summer Home</fullName>
+                    <default>false</default>
+                    <label>Summer Home</label>
+                </value>
+                <value>
+                    <fullName>Temporary / Hotel</fullName>
+                    <default>false</default>
+                    <label>Temporary / Hotel</label>
+                </value>
+                <value>
+                    <fullName>Unknown</fullName>
+                    <default>false</default>
+                    <label>Unknown</label>
+                </value>
+                <value>
+                    <fullName>Web</fullName>
+                    <default>false</default>
+                    <label>Web</label>
+                </value>
+                <value>
+                    <fullName>Web Unknown</fullName>
+                    <default>false</default>
+                    <label>Web Unknown</label>
+                </value>
+                <value>
+                    <fullName>Winter Home</fullName>
+                    <default>false</default>
+                    <label>Winter Home</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

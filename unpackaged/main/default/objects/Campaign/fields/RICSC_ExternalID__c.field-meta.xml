@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ExternalID__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <description>Id of the Campaign in the external system</description>
+        <externalId>true</externalId>
+        <label>External ID</label>
+        <length>255</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>true</unique>
+    </CustomField>

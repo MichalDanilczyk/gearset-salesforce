@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Category --></label>
+        <name>RICSC_Category__c</name>
+        <picklistValues>
+            <masterLabel>100 Anos Pantera Masaryk 16102014</masterLabel>
+            <translation><!-- 100 Anos Pantera Masaryk 16102014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>100 Anos Pantera Masaryk Amex 15102014</masterLabel>
+            <translation><!-- 100 Anos Pantera Masaryk Amex 15102014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13p Mini Trinket Tray - Crm00401</masterLabel>
+            <translation><!-- 13p Mini Trinket Tray - Crm00401 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2-Notebook Set - Crm00403</masterLabel>
+            <translation><!-- 2-Notebook Set - Crm00403 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3-Watch Box - Crm00393</masterLabel>
+            <translation><!-- 3-Watch Box - Crm00393 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6-Watch Box - Crm00391</masterLabel>
+            <translation><!-- 6-Watch Box - Crm00391 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Acc. Tableware</masterLabel>
+            <translation><!-- Acc. Tableware --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Access Wm14</masterLabel>
+            <translation><!-- Access Wm14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Afternoon Tea</masterLabel>
+            <translation><!-- Afternoon Tea --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agenda</masterLabel>
+            <translation><!-- Agenda --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert M+10</masterLabel>
+            <translation><!-- Alert M+10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert M+3</masterLabel>
+            <translation><!-- Alert M+3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert M+6</masterLabel>
+            <translation><!-- Alert M+6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert Watch Y+1</masterLabel>
+            <translation><!-- Alert Watch Y+1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert Watch Y+3</masterLabel>
+            <translation><!-- Alert Watch Y+3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert Watch Y+6</masterLabel>
+            <translation><!-- Alert Watch Y+6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alert Watch Y+9</masterLabel>
+            <translation><!-- Alert Watch Y+9 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alhambra Holiday Season Pendant</masterLabel>
+            <translation><!-- Alhambra Holiday Season Pendant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Almoço/ Jantar</masterLabel>
+            <translation><!-- Almoço/ Jantar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Amazing Cartier</masterLabel>
+            <translation><!-- Amazing Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Amulette</masterLabel>
+            <translation><!-- Amulette --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Aniversário De Casamento</masterLabel>
+            <translation><!-- Aniversário De Casamento --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anniversary Card</masterLabel>
+            <translation><!-- Anniversary Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anniversary Contact</masterLabel>
+            <translation><!-- Anniversary Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anniversary Gift</masterLabel>
+            <translation><!-- Anniversary Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anniversary Treatment</masterLabel>
+            <translation><!-- Anniversary Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anniversary Whatsapp</masterLabel>
+            <translation><!-- Anniversary Whatsapp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Appointments</masterLabel>
+            <translation><!-- Appointments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Art De Cartier</masterLabel>
+            <translation><!-- Art De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Art Magazine</masterLabel>
+            <translation><!-- Art Magazine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Asia Imagined In The Baur &amp; Car Collect.</masterLabel>
+            <translation><!-- Asia Imagined In The Baur &amp; Car Collect. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Baby Born</masterLabel>
+            <translation><!-- Baby Born --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bespoke Treatment</masterLabel>
+            <translation><!-- Bespoke Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Biennale</masterLabel>
+            <translation><!-- Biennale --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Biennale Book</masterLabel>
+            <translation><!-- Biennale Book --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Biennale Des Antiquaires 2012</masterLabel>
+            <translation><!-- Biennale Des Antiquaires 2012 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bird Jewellery Box</masterLabel>
+            <translation><!-- Bird Jewellery Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bird Jewelry Box  - Crm00394</masterLabel>
+            <translation><!-- Bird Jewelry Box  - Crm00394 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bird Stole - Crm00399</masterLabel>
+            <translation><!-- Bird Stole - Crm00399 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birth Of A Baby</masterLabel>
+            <translation><!-- Birth Of A Baby --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday</masterLabel>
+            <translation><!-- Birthday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Card</masterLabel>
+            <translation><!-- Birthday Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Celebration</masterLabel>
+            <translation><!-- Birthday Celebration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Contact</masterLabel>
+            <translation><!-- Birthday Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Gift</masterLabel>
+            <translation><!-- Birthday Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Month</masterLabel>
+            <translation><!-- Birthday Month --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Planning</masterLabel>
+            <translation><!-- Birthday Planning --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Treatment</masterLabel>
+            <translation><!-- Birthday Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Whatsapp</masterLabel>
+            <translation><!-- Birthday Whatsapp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Black Key Chain/Photo Holder</masterLabel>
+            <translation><!-- Black Key Chain/Photo Holder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Black Key Chain/Photo Holder - Crm00167</masterLabel>
+            <translation><!-- Black Key Chain/Photo Holder - Crm00167 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Black Watch Box</masterLabel>
+            <translation><!-- Black Watch Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Black Watch Box Fy16 - Crm00332</masterLabel>
+            <translation><!-- Black Watch Box Fy16 - Crm00332 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Book</masterLabel>
+            <translation><!-- Book --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Book Dragons Writing Set</masterLabel>
+            <translation><!-- Book Dragons Writing Set --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Book Hj &amp; Precious Obj By Car English</masterLabel>
+            <translation><!-- Book Hj &amp; Precious Obj By Car English --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bookmark - Crm00402</masterLabel>
+            <translation><!-- Bookmark - Crm00402 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Books</masterLabel>
+            <translation><!-- Books --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Botella De Champagne</masterLabel>
+            <translation><!-- Botella De Champagne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Botella De Vino Chateau St Julien</masterLabel>
+            <translation><!-- Botella De Vino Chateau St Julien --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Appointment</masterLabel>
+            <translation><!-- Boutique Appointment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Cocktail</masterLabel>
+            <translation><!-- Boutique Cocktail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Dinner</masterLabel>
+            <translation><!-- Boutique Dinner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Information</masterLabel>
+            <translation><!-- Boutique Information --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Lunch</masterLabel>
+            <translation><!-- Boutique Lunch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique event</masterLabel>
+            <translation><!-- Boutique event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bp Art Deco Composite Pen - Crm00351</masterLabel>
+            <translation><!-- Bp Art Deco Composite Pen - Crm00351 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Brand magazine</masterLabel>
+            <translation><!-- Brand magazine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Breakfast</masterLabel>
+            <translation><!-- Breakfast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Breakfast Treatment</masterLabel>
+            <translation><!-- Breakfast Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bridal</masterLabel>
+            <translation><!-- Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Brilliant: Car In The 20th Century Vers</masterLabel>
+            <translation><!-- Brilliant: Car In The 20th Century Vers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Btq Exhibition / con</masterLabel>
+            <translation><!-- Btq Exhibition / con --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Btq appointment</masterLabel>
+            <translation><!-- Btq appointment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Btq other event</masterLabel>
+            <translation><!-- Btq other event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C De Cartier</masterLabel>
+            <translation><!-- C De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C De Cartier Pouch - Crm00404</masterLabel>
+            <translation><!-- C De Cartier Pouch - Crm00404 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cactus De Cartier</masterLabel>
+            <translation><!-- Cactus De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cactus Jewelry Box - Crm00370</masterLabel>
+            <translation><!-- Cactus Jewelry Box - Crm00370 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Call IN</masterLabel>
+            <translation><!-- Call IN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Canasta De Vinos - Ampely</masterLabel>
+            <translation><!-- Canasta De Vinos - Ampely --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Candle</masterLabel>
+            <translation><!-- Candle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Car Etourdissant High Jewelry &amp; Precious</masterLabel>
+            <translation><!-- Car Etourdissant High Jewelry &amp; Precious --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carat</masterLabel>
+            <translation><!-- Carat --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card Holder Happy Birthday - Crm00405</masterLabel>
+            <translation><!-- Card Holder Happy Birthday - Crm00405 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card Holder Hb Red - Crm00405</masterLabel>
+            <translation><!-- Card Holder Hb Red - Crm00405 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Card Holder Must De Cartier - Crm00406</masterLabel>
+            <translation><!-- Card Holder Must De Cartier - Crm00406 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta Aniversario</masterLabel>
+            <translation><!-- Carta Aniversario --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta Cumpleanos</masterLabel>
+            <translation><!-- Carta Cumpleanos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta De Agradecimento</masterLabel>
+            <translation><!-- Carta De Agradecimento --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta De Aniversário</masterLabel>
+            <translation><!-- Carta De Aniversário --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta De Aniversário De Casamento</masterLabel>
+            <translation><!-- Carta De Aniversário De Casamento --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta De Dia Das Mães</masterLabel>
+            <translation><!-- Carta De Dia Das Mães --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta De Dia Dos Pais</masterLabel>
+            <translation><!-- Carta De Dia Dos Pais --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Carta Noivado</masterLabel>
+            <translation><!-- Carta Noivado --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier - Nadelhoffer</masterLabel>
+            <translation><!-- Cartier - Nadelhoffer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier : Le Style Et L'Histoire</masterLabel>
+            <translation><!-- Cartier : Le Style Et L&apos;Histoire --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Carat</masterLabel>
+            <translation><!-- Cartier Carat --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Collection</masterLabel>
+            <translation><!-- Cartier Collection --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Collection Tome 2. Timepieces</masterLabel>
+            <translation><!-- Cartier Collection Tome 2. Timepieces --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier I Love You</masterLabel>
+            <translation><!-- Cartier I Love You --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Panthere</masterLabel>
+            <translation><!-- Cartier Panthere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Par Hans Nadelhoffer</masterLabel>
+            <translation><!-- Cartier Par Hans Nadelhoffer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Party 2017</masterLabel>
+            <translation><!-- Cartier Party 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Party Whatsapp Invite</masterLabel>
+            <translation><!-- Cartier Party Whatsapp Invite --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartão De Natal</masterLabel>
+            <translation><!-- Cartão De Natal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cashimere Blanket</masterLabel>
+            <translation><!-- Cashimere Blanket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cashmere Blanket</masterLabel>
+            <translation><!-- Cashmere Blanket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cashmere Blanket - Crm00395</masterLabel>
+            <translation><!-- Cashmere Blanket - Crm00395 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cashmere Blanket Fy15 - Crm00288</masterLabel>
+            <translation><!-- Cashmere Blanket Fy15 - Crm00288 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Casual Leather Notebook Fy15 - Crm00293</masterLabel>
+            <translation><!-- Casual Leather Notebook Fy15 - Crm00293 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Casual Lunch Or Dinner</masterLabel>
+            <translation><!-- Casual Lunch Or Dinner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogo Bridal 2015/16</masterLabel>
+            <translation><!-- Catalogo Bridal 2015/16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogo De Joias 2015/16</masterLabel>
+            <translation><!-- Catalogo De Joias 2015/16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogo De Relogio 2015/16</masterLabel>
+            <translation><!-- Catalogo De Relogio 2015/16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogo Joyeria</masterLabel>
+            <translation><!-- Catalogo Joyeria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue</masterLabel>
+            <translation><!-- Catalogue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue (pdf)</masterLabel>
+            <translation><!-- Catalogue (pdf) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - Acc.</masterLabel>
+            <translation><!-- Catalogue - Acc. --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - Bridal</masterLabel>
+            <translation><!-- Catalogue - Bridal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - HJ</masterLabel>
+            <translation><!-- Catalogue - HJ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - Jewelry</masterLabel>
+            <translation><!-- Catalogue - Jewelry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - Personalised</masterLabel>
+            <translation><!-- Catalogue - Personalised --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - Spring</masterLabel>
+            <translation><!-- Catalogue - Spring --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - Watches</masterLabel>
+            <translation><!-- Catalogue - Watches --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalogue - X'mas</masterLabel>
+            <translation><!-- Catalogue - X&apos;mas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo Bridal 12/13</masterLabel>
+            <translation><!-- Catálogo Bridal 12/13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo Bridal 13/14</masterLabel>
+            <translation><!-- Catálogo Bridal 13/14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo De Fwm 13/14</masterLabel>
+            <translation><!-- Catálogo De Fwm 13/14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo De Jóias 12/13</masterLabel>
+            <translation><!-- Catálogo De Jóias 12/13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo De Jóias 13/14</masterLabel>
+            <translation><!-- Catálogo De Jóias 13/14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo De Relógios 12/13</masterLabel>
+            <translation><!-- Catálogo De Relógios 12/13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catálogo De Relógios 13/14</masterLabel>
+            <translation><!-- Catálogo De Relógios 13/14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Celebração De Aniversário</masterLabel>
+            <translation><!-- Celebração De Aniversário --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Champagne</masterLabel>
+            <translation><!-- Champagne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Champagne / Wine</masterLabel>
+            <translation><!-- Champagne / Wine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Champagne Flutes</masterLabel>
+            <translation><!-- Champagne Flutes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Champagne San Valentin 2017</masterLabel>
+            <translation><!-- Champagne San Valentin 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Champagne San Valentin 2018</masterLabel>
+            <translation><!-- Champagne San Valentin 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chandelle Declaration Perf</masterLabel>
+            <translation><!-- Chandelle Declaration Perf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Characteristics</masterLabel>
+            <translation><!-- Characteristics --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charity event</masterLabel>
+            <translation><!-- Charity event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Charity/Spec. Sales</masterLabel>
+            <translation><!-- Charity/Spec. Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chinese Moon Festival Treatment</masterLabel>
+            <translation><!-- Chinese Moon Festival Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chinese National Day</masterLabel>
+            <translation><!-- Chinese National Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chinese New Year</masterLabel>
+            <translation><!-- Chinese New Year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chinese New Year 2017</masterLabel>
+            <translation><!-- Chinese New Year 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chinese Opp List</masterLabel>
+            <translation><!-- Chinese Opp List --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chocolate</masterLabel>
+            <translation><!-- Chocolate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chocolate / Gourmet</masterLabel>
+            <translation><!-- Chocolate / Gourmet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chocolate Box</masterLabel>
+            <translation><!-- Chocolate Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chocolates</masterLabel>
+            <translation><!-- Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chocolates San Valentin 2018</masterLabel>
+            <translation><!-- Chocolates San Valentin 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Christmas</masterLabel>
+            <translation><!-- Christmas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Christmas Box</masterLabel>
+            <translation><!-- Christmas Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clash De Cartier</masterLabel>
+            <translation><!-- Clash De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clash De Cartier Fy20</masterLabel>
+            <translation><!-- Clash De Cartier Fy20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Afternoon Tea</masterLabel>
+            <translation><!-- Cle Afternoon Tea --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Art Magazine</masterLabel>
+            <translation><!-- Cle Art Magazine --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Can 06052015</masterLabel>
+            <translation><!-- Cle Can 06052015 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Msk 20&amp;21 042015</masterLabel>
+            <translation><!-- Cle Msk 20&amp;21 042015 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Msk 21042015 Amex</masterLabel>
+            <translation><!-- Cle Msk 21042015 Amex --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Msk Kary Rodríguez</masterLabel>
+            <translation><!-- Cle Msk Kary Rodríguez --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Spring Mailer</masterLabel>
+            <translation><!-- Cle Spring Mailer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Whatsapp Message</masterLabel>
+            <translation><!-- Cle Whatsapp Message --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cleaning</masterLabel>
+            <translation><!-- Cleaning --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client Data Update</masterLabel>
+            <translation><!-- Client Data Update --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client Satisfaction</masterLabel>
+            <translation><!-- Client Satisfaction --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clothes</masterLabel>
+            <translation><!-- Clothes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coffret Champagne</masterLabel>
+            <translation><!-- Coffret Champagne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coffret The Dammann</masterLabel>
+            <translation><!-- Coffret The Dammann --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cognac + Truffes</masterLabel>
+            <translation><!-- Cognac + Truffes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coloring Set</masterLabel>
+            <translation><!-- Coloring Set --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Comida Pop Up Noma Tulum</masterLabel>
+            <translation><!-- Comida Pop Up Noma Tulum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Commercial Offer</masterLabel>
+            <translation><!-- Commercial Offer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Cost Of Service</masterLabel>
+            <translation><!-- Complaint - Cost Of Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Product Quality</masterLabel>
+            <translation><!-- Complaint - Product Quality --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Repair Duration</masterLabel>
+            <translation><!-- Complaint - Repair Duration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint - Repeat Repair</masterLabel>
+            <translation><!-- Complaint - Repeat Repair --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complaint -Network Services / Behaviour</masterLabel>
+            <translation><!-- Complaint -Network Services / Behaviour --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Complete Service</masterLabel>
+            <translation><!-- Complete Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Conditions Of Sales</masterLabel>
+            <translation><!-- Conditions Of Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Convite Evento</masterLabel>
+            <translation><!-- Convite Evento --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Convite Exposições</masterLabel>
+            <translation><!-- Convite Exposições --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Convite Sala São Paulo</masterLabel>
+            <translation><!-- Convite Sala São Paulo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Convocatoria Siar 2015</masterLabel>
+            <translation><!-- Convocatoria Siar 2015 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate emailing</masterLabel>
+            <translation><!-- Corporate emailing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Correspondence Box</masterLabel>
+            <translation><!-- Correspondence Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Costs Estimate</masterLabel>
+            <translation><!-- Costs Estimate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Counterfeit Reported</masterLabel>
+            <translation><!-- Counterfeit Reported --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm Gift</masterLabel>
+            <translation><!-- Crm Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm-Ch1 - Champagne 75</masterLabel>
+            <translation><!-- Crm-Ch1 - Champagne 75 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm-Ch1 - Champagne 75cl</masterLabel>
+            <translation><!-- Crm-Ch1 - Champagne 75cl --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00010 Set 2 Juegos Cartas</masterLabel>
+            <translation><!-- Crm00010 Set 2 Juegos Cartas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00013 Goodies Caja Champagne</masterLabel>
+            <translation><!-- Crm00013 Goodies Caja Champagne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00048 Declaration Candle</masterLabel>
+            <translation><!-- Crm00048 Declaration Candle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00068 Watch Box For Find Watchmaking</masterLabel>
+            <translation><!-- Crm00068 Watch Box For Find Watchmaking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00069 Travel Watch Roll</masterLabel>
+            <translation><!-- Crm00069 Travel Watch Roll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00146 - Passport Holder Black</masterLabel>
+            <translation><!-- Crm00146 - Passport Holder Black --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00147 - Passport Holder Red</masterLabel>
+            <translation><!-- Crm00147 - Passport Holder Red --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00148 Vip Men Watchbox</masterLabel>
+            <translation><!-- Crm00148 Vip Men Watchbox --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00152 Goal Pen Holder</masterLabel>
+            <translation><!-- Crm00152 Goal Pen Holder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00153 - Zebra Trinket Tray</masterLabel>
+            <translation><!-- Crm00153 - Zebra Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00153 Goal Zebra Trinket Tray</masterLabel>
+            <translation><!-- Crm00153 Goal Zebra Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00157 Vip Woman Watchbox</masterLabel>
+            <translation><!-- Crm00157 Vip Woman Watchbox --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00164 Leather Notebook Brown 13</masterLabel>
+            <translation><!-- Crm00164 Leather Notebook Brown 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00165 Vip Jewelry Box Red 13</masterLabel>
+            <translation><!-- Crm00165 Vip Jewelry Box Red 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00170 Coffret Champagne13</masterLabel>
+            <translation><!-- Crm00170 Coffret Champagne13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00283 - Panthere Fragrance Box 30 Ml</masterLabel>
+            <translation><!-- Crm00283 - Panthere Fragrance Box 30 Ml --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00283 Crm Panthere Frag. 30ml</masterLabel>
+            <translation><!-- Crm00283 Crm Panthere Frag. 30ml --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00286 Vip Jewelry Box</masterLabel>
+            <translation><!-- Crm00286 Vip Jewelry Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00287 Vip Watch Box</masterLabel>
+            <translation><!-- Crm00287 Vip Watch Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00288 Cashmere Blanket</masterLabel>
+            <translation><!-- Crm00288 Cashmere Blanket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00289 Silver Box</masterLabel>
+            <translation><!-- Crm00289 Silver Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00290 Woman Travel Pouch</masterLabel>
+            <translation><!-- Crm00290 Woman Travel Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00294 - Red Notebook</masterLabel>
+            <translation><!-- Crm00294 - Red Notebook --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00300 - Panthere Trinket Tray</masterLabel>
+            <translation><!-- Crm00300 - Panthere Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00300 Mini Trinket Tray</masterLabel>
+            <translation><!-- Crm00300 Mini Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00329 - Mini Panther Trinket Tray</masterLabel>
+            <translation><!-- Crm00329 - Mini Panther Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00329 - Panthere Mini Trinket Tray</masterLabel>
+            <translation><!-- Crm00329 - Panthere Mini Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00330 - Large Panther Trinket Tray</masterLabel>
+            <translation><!-- Crm00330 - Large Panther Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00331 - Cashmere Blanket</masterLabel>
+            <translation><!-- Crm00331 - Cashmere Blanket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00332 - Black Watch Box</masterLabel>
+            <translation><!-- Crm00332 - Black Watch Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00335 - Mini Watch Winder</masterLabel>
+            <translation><!-- Crm00335 - Mini Watch Winder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00337 - Panther Jewelry Box</masterLabel>
+            <translation><!-- Crm00337 - Panther Jewelry Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00340 - Heritage Portfolio</masterLabel>
+            <translation><!-- Crm00340 - Heritage Portfolio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00341 - Jewelry Pouch</masterLabel>
+            <translation><!-- Crm00341 - Jewelry Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00341 - Woman Travel Pouch</masterLabel>
+            <translation><!-- Crm00341 - Woman Travel Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00343 - Bird Jewelry Box</masterLabel>
+            <translation><!-- Crm00343 - Bird Jewelry Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00351 - Bp Art Deco Composite Pen</masterLabel>
+            <translation><!-- Crm00351 - Bp Art Deco Composite Pen --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00371 - L'Envol Fragrance</masterLabel>
+            <translation><!-- Crm00371 - L&apos;Envol Fragrance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00392 - Panther Jewelry Box</masterLabel>
+            <translation><!-- Crm00392 - Panther Jewelry Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00393 - 3 Watch Box</masterLabel>
+            <translation><!-- Crm00393 - 3 Watch Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00394 - Bird Jewlery Box</masterLabel>
+            <translation><!-- Crm00394 - Bird Jewlery Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00398 - Travel Blanket</masterLabel>
+            <translation><!-- Crm00398 - Travel Blanket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00401 - 13p Mini Trinket Tray</masterLabel>
+            <translation><!-- Crm00401 - 13p Mini Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00404 - C De Cartier Pouch</masterLabel>
+            <translation><!-- Crm00404 - C De Cartier Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00405 - Card Holder Happy Birthday</masterLabel>
+            <translation><!-- Crm00405 - Card Holder Happy Birthday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00406 - Card Holder Must</masterLabel>
+            <translation><!-- Crm00406 - Card Holder Must --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00407 - Large Card Holder Must</masterLabel>
+            <translation><!-- Crm00407 - Large Card Holder Must --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm00408 - Large Cald Holder Lc</masterLabel>
+            <translation><!-- Crm00408 - Large Cald Holder Lc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cultural event</masterLabel>
+            <translation><!-- Cultural event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cumpleanos</masterLabel>
+            <translation><!-- Cumpleanos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Service</masterLabel>
+            <translation><!-- Customer Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Desayuno Bridal Harpers 24112014</masterLabel>
+            <translation><!-- Desayuno Bridal Harpers 24112014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Diamonds Casa De La Bola 25112015</masterLabel>
+            <translation><!-- Diamonds Casa De La Bola 25112015 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Digital Card</masterLabel>
+            <translation><!-- Digital Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dinner</masterLabel>
+            <translation><!-- Dinner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dinner Treatment</masterLabel>
+            <translation><!-- Dinner Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Display 6 Watch Box Fwm</masterLabel>
+            <translation><!-- Display 6 Watch Box Fwm --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Diwali</masterLabel>
+            <translation><!-- Diwali --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Diwali Chocolates</masterLabel>
+            <translation><!-- Diwali Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Diwali Trays</masterLabel>
+            <translation><!-- Diwali Trays --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Donation to Charity</masterLabel>
+            <translation><!-- Donation to Charity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Drive</masterLabel>
+            <translation><!-- Drive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dubai Opera E-Invite</masterLabel>
+            <translation><!-- Dubai Opera E-Invite --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Mail From Boutique</masterLabel>
+            <translation><!-- E-Mail From Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Mail IN</masterLabel>
+            <translation><!-- E-Mail IN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-catalogue</masterLabel>
+            <translation><!-- E-catalogue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-leaflet</masterLabel>
+            <translation><!-- E-leaflet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Easter Box</masterLabel>
+            <translation><!-- Easter Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ecrou</masterLabel>
+            <translation><!-- Ecrou --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ecrou De Cartier</masterLabel>
+            <translation><!-- Ecrou De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eid Al Adha</masterLabel>
+            <translation><!-- Eid Al Adha --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eid Al Adha Chocolates</masterLabel>
+            <translation><!-- Eid Al Adha Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eid Al Fitr</masterLabel>
+            <translation><!-- Eid Al Fitr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eid Al Fitr Chocolates</masterLabel>
+            <translation><!-- Eid Al Fitr Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eid Greetings</masterLabel>
+            <translation><!-- Eid Greetings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Emirati Women'S Day</masterLabel>
+            <translation><!-- Emirati Women&apos;S Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>End Watch Warranty</masterLabel>
+            <translation><!-- End Watch Warranty --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Engagement</masterLabel>
+            <translation><!-- Engagement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Engraving</masterLabel>
+            <translation><!-- Engraving --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De E-Mail</masterLabel>
+            <translation><!-- Envio De E-Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eoy Social Messaging</masterLabel>
+            <translation><!-- Eoy Social Messaging --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Etourdissant</masterLabel>
+            <translation><!-- Etourdissant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event</masterLabel>
+            <translation><!-- Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Evento Panthere 1 Junio 2017</masterLabel>
+            <translation><!-- Evento Panthere 1 Junio 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eventos Cartier</masterLabel>
+            <translation><!-- Eventos Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fashion event</masterLabel>
+            <translation><!-- Fashion event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flores</masterLabel>
+            <translation><!-- Flores --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flores San Valentin 2017</masterLabel>
+            <translation><!-- Flores San Valentin 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flores San Valentin 2018</masterLabel>
+            <translation><!-- Flores San Valentin 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flower Bouquet</masterLabel>
+            <translation><!-- Flower Bouquet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flowers</masterLabel>
+            <translation><!-- Flowers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foc Service For Loyal Clients</masterLabel>
+            <translation><!-- Foc Service For Loyal Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Focus Group</masterLabel>
+            <translation><!-- Focus Group --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Follow-Up Call</masterLabel>
+            <translation><!-- Follow-Up Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Follow-Up Email</masterLabel>
+            <translation><!-- Follow-Up Email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Followup Cor.Mailing</masterLabel>
+            <translation><!-- Followup Cor.Mailing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fondation Cartier Catalogue Congo Fr</masterLabel>
+            <translation><!-- Fondation Cartier Catalogue Congo Fr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fondation Cartier-30th Anniv Box Set-En</masterLabel>
+            <translation><!-- Fondation Cartier-30th Anniv Box Set-En --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Future Contact</masterLabel>
+            <translation><!-- Future Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fwm Watch Box</masterLabel>
+            <translation><!-- Fwm Watch Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Galaxies De Cartier</masterLabel>
+            <translation><!-- Galaxies De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gift Book</masterLabel>
+            <translation><!-- Gift Book --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gifts And Catalogues</masterLabel>
+            <translation><!-- Gifts And Catalogues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Goal Notebook Red Leather</masterLabel>
+            <translation><!-- Goal Notebook Red Leather --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Goal Zebra Trinket Tray</masterLabel>
+            <translation><!-- Goal Zebra Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold Panther Writing Set 2013</masterLabel>
+            <translation><!-- Gold Panther Writing Set 2013 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduation</masterLabel>
+            <translation><!-- Graduation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Graduation Treatment</masterLabel>
+            <translation><!-- Graduation Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Greetings</masterLabel>
+            <translation><!-- Greetings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Greetings card</masterLabel>
+            <translation><!-- Greetings card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Guirlande De Cartier</masterLabel>
+            <translation><!-- Guirlande De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hh Watch Travel Pouch</masterLabel>
+            <translation><!-- Hh Watch Travel Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Potential Chocolates</masterLabel>
+            <translation><!-- High Potential Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Potential Greeting Card</masterLabel>
+            <translation><!-- High Potential Greeting Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hj &amp; Precious Objects</masterLabel>
+            <translation><!-- Hj &amp; Precious Objects --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hj Biennale 2014</masterLabel>
+            <translation><!-- Hj Biennale 2014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hj Cartier Royal Biennale 2014 En</masterLabel>
+            <translation><!-- Hj Cartier Royal Biennale 2014 En --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hj Cena De Gala New York 102017</masterLabel>
+            <translation><!-- Hj Cena De Gala New York 102017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hj Event 2017</masterLabel>
+            <translation><!-- Hj Event 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hj Invitation</masterLabel>
+            <translation><!-- Hj Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Holiday Season Pendant</masterLabel>
+            <translation><!-- Holiday Season Pendant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Human Resources</masterLabel>
+            <translation><!-- Human Resources --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hypnose Private Viewing Invitation</masterLabel>
+            <translation><!-- Hypnose Private Viewing Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Impossible Collection Of Watches</masterLabel>
+            <translation><!-- Impossible Collection Of Watches --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inbound</masterLabel>
+            <translation><!-- Inbound --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Individual Interview</masterLabel>
+            <translation><!-- Individual Interview --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internal Testing</masterLabel>
+            <translation><!-- Internal Testing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>International Event</masterLabel>
+            <translation><!-- International Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery</masterLabel>
+            <translation><!-- Jewellery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery Travel Pouch</masterLabel>
+            <translation><!-- Jewellery Travel Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery box</masterLabel>
+            <translation><!-- Jewellery box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Joyero De Viaje</masterLabel>
+            <translation><!-- Joyero De Viaje --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Juc</masterLabel>
+            <translation><!-- Juc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Juego De Cartas</masterLabel>
+            <translation><!-- Juego De Cartas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Juste Un Clou</masterLabel>
+            <translation><!-- Juste Un Clou --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ksa Hj Event</masterLabel>
+            <translation><!-- Ksa Hj Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ksa National Day</masterLabel>
+            <translation><!-- Ksa National Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>L'Envol Fragrance - Crm00371</masterLabel>
+            <translation><!-- L&apos;Envol Fragrance - Crm00371 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Large Panther Trinket Tray</masterLabel>
+            <translation><!-- Large Panther Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Large Trinket Tray - Crm00400</masterLabel>
+            <translation><!-- Large Trinket Tray - Crm00400 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Le Macaron 2016</masterLabel>
+            <translation><!-- Le Macaron 2016 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leaflet</masterLabel>
+            <translation><!-- Leaflet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather Notebook Brown</masterLabel>
+            <translation><!-- Leather Notebook Brown --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Leather accessories</masterLabel>
+            <translation><!-- Leather accessories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Les Heures De Perfumes</masterLabel>
+            <translation><!-- Les Heures De Perfumes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letter From Boutique</masterLabel>
+            <translation><!-- Letter From Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letter From Office</masterLabel>
+            <translation><!-- Letter From Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Libro Alta Joyeria 2015 - Crrpd00115</masterLabel>
+            <translation><!-- Libro Alta Joyeria 2015 - Crrpd00115 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Libro America Latina Fundacion Cartier</masterLabel>
+            <translation><!-- Libro America Latina Fundacion Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livre D'Or</masterLabel>
+            <translation><!-- Livre D&apos;Or --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livre D'Or White</masterLabel>
+            <translation><!-- Livre D&apos;Or White --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livre D'Or White - Crm00171</masterLabel>
+            <translation><!-- Livre D&apos;Or White - Crm00171 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livro Grand Palais</masterLabel>
+            <translation><!-- Livro Grand Palais --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livro Inside Rio</masterLabel>
+            <translation><!-- Livro Inside Rio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livro Panthere 100 Anos Cartier</masterLabel>
+            <translation><!-- Livro Panthere 100 Anos Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livro Ron Mueck</masterLabel>
+            <translation><!-- Livro Ron Mueck --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Livro The Tank Watch</masterLabel>
+            <translation><!-- Livro The Tank Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local Emailing</masterLabel>
+            <translation><!-- Local Emailing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local event(not btq)</masterLabel>
+            <translation><!-- Local event(not btq) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Love And Bb</masterLabel>
+            <translation><!-- Love And Bb --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low Potential Whatsapp Messages</masterLabel>
+            <translation><!-- Low Potential Whatsapp Messages --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ludo</masterLabel>
+            <translation><!-- Ludo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lunch</masterLabel>
+            <translation><!-- Lunch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lunch Treatment</masterLabel>
+            <translation><!-- Lunch Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lunch or dinner</masterLabel>
+            <translation><!-- Lunch or dinner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lunch/dinner not btq</masterLabel>
+            <translation><!-- Lunch/dinner not btq --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Macarons San Valentin 2018</masterLabel>
+            <translation><!-- Macarons San Valentin 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Magicien Dubai 2016 Invitation</masterLabel>
+            <translation><!-- Magicien Dubai 2016 Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mailer With Personalised Card</masterLabel>
+            <translation><!-- Mailer With Personalised Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mailing</masterLabel>
+            <translation><!-- Mailing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mday19 - 32 Pcs Box</masterLabel>
+            <translation><!-- Mday19 - 32 Pcs Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mday19 - Vip Box</masterLabel>
+            <translation><!-- Mday19 - Vip Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Memory Game</masterLabel>
+            <translation><!-- Memory Game --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mini C De Cartier</masterLabel>
+            <translation><!-- Mini C De Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mini Panther Trinket Tray</masterLabel>
+            <translation><!-- Mini Panther Trinket Tray --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Miniatura Envol San Valentin 2017</masterLabel>
+            <translation><!-- Miniatura Envol San Valentin 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mirage Save The Date</masterLabel>
+            <translation><!-- Mirage Save The Date --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Missing Long Label</masterLabel>
+            <translation><!-- Missing Long Label --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Moleskine Drive Dia Padre 2016</masterLabel>
+            <translation><!-- Moleskine Drive Dia Padre 2016 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mothers Day</masterLabel>
+            <translation><!-- Mothers Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Multi-Product / Corporate Catalog</masterLabel>
+            <translation><!-- Multi-Product / Corporate Catalog --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>National Day</masterLabel>
+            <translation><!-- National Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Baby Born</masterLabel>
+            <translation><!-- New Baby Born --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Love</masterLabel>
+            <translation><!-- New Love --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Return /Exchange</masterLabel>
+            <translation><!-- New Return /Exchange --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Year</masterLabel>
+            <translation><!-- New Year --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Year Chocolates</masterLabel>
+            <translation><!-- New Year Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New clients</masterLabel>
+            <translation><!-- New clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Newsletter</masterLabel>
+            <translation><!-- Newsletter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Notebook</masterLabel>
+            <translation><!-- Notebook --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nueva Coleccion Ronde C</masterLabel>
+            <translation><!-- Nueva Coleccion Ronde C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Obsequio</masterLabel>
+            <translation><!-- Obsequio --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Opera Boutique Loyal And Active List</masterLabel>
+            <translation><!-- Opera Boutique Loyal And Active List --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Opera Whatsapp Invitation</masterLabel>
+            <translation><!-- Opera Whatsapp Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Order Status</masterLabel>
+            <translation><!-- Order Status --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other (Specify)</masterLabel>
+            <translation><!-- Other (Specify) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Communications</masterLabel>
+            <translation><!-- Other Communications --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Entertainments</masterLabel>
+            <translation><!-- Other Entertainments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Events</masterLabel>
+            <translation><!-- Other Events --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Gift</masterLabel>
+            <translation><!-- Other Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Gifts</masterLabel>
+            <translation><!-- Other Gifts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Mailers</masterLabel>
+            <translation><!-- Other Mailers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Occasions</masterLabel>
+            <translation><!-- Other Occasions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Others</masterLabel>
+            <translation><!-- Others --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outbound</masterLabel>
+            <translation><!-- Outbound --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outras Ocasiões</masterLabel>
+            <translation><!-- Outras Ocasiões --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outros (Descrever)</masterLabel>
+            <translation><!-- Outros (Descrever) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outros Contatos</masterLabel>
+            <translation><!-- Outros Contatos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outros Eventos</masterLabel>
+            <translation><!-- Outros Eventos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Page Boy Delivery</masterLabel>
+            <translation><!-- Page Boy Delivery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Palais Exhibition</masterLabel>
+            <translation><!-- Palais Exhibition --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Panther Jewelery Box - Crm00337</masterLabel>
+            <translation><!-- Panther Jewelery Box - Crm00337 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Panther Jewellery Box</masterLabel>
+            <translation><!-- Panther Jewellery Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Panther Jewelry Box - Crm00392</masterLabel>
+            <translation><!-- Panther Jewelry Box - Crm00392 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Panthere Fragrance - Crm00283</masterLabel>
+            <translation><!-- Panthere Fragrance - Crm00283 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Panthere Perfume</masterLabel>
+            <translation><!-- Panthere Perfume --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Panthere Watch</masterLabel>
+            <translation><!-- Panthere Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Paris Nouvelle Vague</masterLabel>
+            <translation><!-- Paris Nouvelle Vague --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partnership</masterLabel>
+            <translation><!-- Partnership --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Passport Holder</masterLabel>
+            <translation><!-- Passport Holder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Passport Holder - Black - Crm00146</masterLabel>
+            <translation><!-- Passport Holder - Black - Crm00146 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Passport Holder - Red - Crm00147</masterLabel>
+            <translation><!-- Passport Holder - Red - Crm00147 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Passport Holder Black</masterLabel>
+            <translation><!-- Passport Holder Black --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Passport Holder Red</masterLabel>
+            <translation><!-- Passport Holder Red --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pedido De Casamento</masterLabel>
+            <translation><!-- Pedido De Casamento --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pen Holder</masterLabel>
+            <translation><!-- Pen Holder --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pen Holder (Red) - Crm00168</masterLabel>
+            <translation><!-- Pen Holder (Red) - Crm00168 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Perfume</masterLabel>
+            <translation><!-- Perfume --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Perfumed Candle</masterLabel>
+            <translation><!-- Perfumed Candle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Perfumes</masterLabel>
+            <translation><!-- Perfumes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personalised Card</masterLabel>
+            <translation><!-- Personalised Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personalizado</masterLabel>
+            <translation><!-- Personalizado --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Call Contact</masterLabel>
+            <translation><!-- Phone Call Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Call From Boutique</masterLabel>
+            <translation><!-- Phone Call From Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Call From Client</masterLabel>
+            <translation><!-- Phone Call From Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Interview</masterLabel>
+            <translation><!-- Phone Interview --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Polishing</masterLabel>
+            <translation><!-- Polishing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Polo</masterLabel>
+            <translation><!-- Polo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Polo 2016 Invitation</masterLabel>
+            <translation><!-- Polo 2016 Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Polo Invitation 2018</masterLabel>
+            <translation><!-- Polo Invitation 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Polo Save The Date 2018</masterLabel>
+            <translation><!-- Polo Save The Date 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Porta Pasaporte</masterLabel>
+            <translation><!-- Porta Pasaporte --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Positive Comment</masterLabel>
+            <translation><!-- Positive Comment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post Compra</masterLabel>
+            <translation><!-- Post Compra --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post Purchase</masterLabel>
+            <translation><!-- Post Purchase --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post Purchase Card</masterLabel>
+            <translation><!-- Post Purchase Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post Purchase Gift</masterLabel>
+            <translation><!-- Post Purchase Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Post Purchase Whatsapp</masterLabel>
+            <translation><!-- Post Purchase Whatsapp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Price And/Or Availability</masterLabel>
+            <translation><!-- Price And/Or Availability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private Viewing</masterLabel>
+            <translation><!-- Private Viewing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private Viewing Invitation</masterLabel>
+            <translation><!-- Private Viewing Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product</masterLabel>
+            <translation><!-- Product --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product Information</masterLabel>
+            <translation><!-- Product Information --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product Launch</masterLabel>
+            <translation><!-- Product Launch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product Maintenance/Instructions</masterLabel>
+            <translation><!-- Product Maintenance/Instructions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product Presentation</masterLabel>
+            <translation><!-- Product Presentation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Purchase Anniversary</masterLabel>
+            <translation><!-- Purchase Anniversary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Purchase Anniversary Whatsapp</masterLabel>
+            <translation><!-- Purchase Anniversary Whatsapp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ramadan Greeting</masterLabel>
+            <translation><!-- Ramadan Greeting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ramo De Novias</masterLabel>
+            <translation><!-- Ramo De Novias --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Re-engagement email</masterLabel>
+            <translation><!-- Re-engagement email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reapertura 5th Ave. 092016</masterLabel>
+            <translation><!-- Reapertura 5th Ave. 092016 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Red Notebook Fy15 - Crm00294</masterLabel>
+            <translation><!-- Red Notebook Fy15 - Crm00294 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Repair Status/Leadtime</masterLabel>
+            <translation><!-- Repair Status/Leadtime --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rmdn20 - 32 Pcs Box</masterLabel>
+            <translation><!-- Rmdn20 - 32 Pcs Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rmdn20 - Vip Box</masterLabel>
+            <translation><!-- Rmdn20 - Vip Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rolls Royce</masterLabel>
+            <translation><!-- Rolls Royce --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00044 - Cartier I Love You</masterLabel>
+            <translation><!-- Rpd00044 - Cartier I Love You --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00093 Cartier : Style And History</masterLabel>
+            <translation><!-- Rpd00093 Cartier : Style And History --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00098 - Libro Cartier In The 20th</masterLabel>
+            <translation><!-- Rpd00098 - Libro Cartier In The 20th --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00099 - Libro Cartier 20th Slipcase</masterLabel>
+            <translation><!-- Rpd00099 - Libro Cartier 20th Slipcase --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00101 - Libro Fondation Cartier</masterLabel>
+            <translation><!-- Rpd00101 - Libro Fondation Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00103 Cartier Royal</masterLabel>
+            <translation><!-- Rpd00103 Cartier Royal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00108 - Libro Panthere</masterLabel>
+            <translation><!-- Rpd00108 - Libro Panthere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rpd00115 - Libro Alta Joyeria</masterLabel>
+            <translation><!-- Rpd00115 - Libro Alta Joyeria --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Santos</masterLabel>
+            <translation><!-- Santos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Santos 100 Complimentary Service</masterLabel>
+            <translation><!-- Santos 100 Complimentary Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Santos Communicating Object</masterLabel>
+            <translation><!-- Santos Communicating Object --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Santos Offer</masterLabel>
+            <translation><!-- Santos Offer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sdgc Event</masterLabel>
+            <translation><!-- Sdgc Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service Advice</masterLabel>
+            <translation><!-- Service Advice --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service Starting Price</masterLabel>
+            <translation><!-- Service Starting Price --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Set De Escritura</masterLabel>
+            <translation><!-- Set De Escritura --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Set Of 2 Panthere Trinket 2010</masterLabel>
+            <translation><!-- Set Of 2 Panthere Trinket 2010 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shenyang Exhibition</masterLabel>
+            <translation><!-- Shenyang Exhibition --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Siar 2014</masterLabel>
+            <translation><!-- Siar 2014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sihh</masterLabel>
+            <translation><!-- Sihh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping</masterLabel>
+            <translation><!-- Sleeping --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Card</masterLabel>
+            <translation><!-- Sleeping Card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Contact</masterLabel>
+            <translation><!-- Sleeping Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Gift</masterLabel>
+            <translation><!-- Sleeping Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sleeping Whatsapp</masterLabel>
+            <translation><!-- Sleeping Whatsapp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sm15 Carta Impresa</masterLabel>
+            <translation><!-- Sm15 Carta Impresa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sm15 Carta Impresa + Separador Cle</masterLabel>
+            <translation><!-- Sm15 Carta Impresa + Separador Cle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sm15 Carta Perso</masterLabel>
+            <translation><!-- Sm15 Carta Perso --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sm15 Carta Perso + Separador Cle</masterLabel>
+            <translation><!-- Sm15 Carta Perso + Separador Cle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sm16 Generico</masterLabel>
+            <translation><!-- Sm16 Generico --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sm16 Goal</masterLabel>
+            <translation><!-- Sm16 Goal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Jewellery Box</masterLabel>
+            <translation><!-- Small Jewellery Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Jewelry Box Red</masterLabel>
+            <translation><!-- Small Jewelry Box Red --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Small Jewelry Box Red - Crm00169</masterLabel>
+            <translation><!-- Small Jewelry Box Red - Crm00169 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spa Hotel W (2 Pers.)</masterLabel>
+            <translation><!-- Spa Hotel W (2 Pers.) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spa St Regis</masterLabel>
+            <translation><!-- Spa St Regis --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spa Treatment</masterLabel>
+            <translation><!-- Spa Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spare Parts</masterLabel>
+            <translation><!-- Spare Parts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sponsorship/Charity</masterLabel>
+            <translation><!-- Sponsorship/Charity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sport event</masterLabel>
+            <translation><!-- Sport event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spring Mailer</masterLabel>
+            <translation><!-- Spring Mailer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spring Mailer 17</masterLabel>
+            <translation><!-- Spring Mailer 17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spring Mailing 14</masterLabel>
+            <translation><!-- Spring Mailing 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Style And Historu</masterLabel>
+            <translation><!-- Style And Historu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Suhoor</masterLabel>
+            <translation><!-- Suhoor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Suhoor Attendance</masterLabel>
+            <translation><!-- Suhoor Attendance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sweet Alhambra Watch</masterLabel>
+            <translation><!-- Sweet Alhambra Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tank</masterLabel>
+            <translation><!-- Tank --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tank Book</masterLabel>
+            <translation><!-- Tank Book --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telefonema Da Boutique Para Cliente</masterLabel>
+            <translation><!-- Telefonema Da Boutique Para Cliente --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thank You / Compliment</masterLabel>
+            <translation><!-- Thank You / Compliment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thank you</masterLabel>
+            <translation><!-- Thank you --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thank you card</masterLabel>
+            <translation><!-- Thank you card --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transfer To Boutique</masterLabel>
+            <translation><!-- Transfer To Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transfer To Internal Staff</masterLabel>
+            <translation><!-- Transfer To Internal Staff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Travel Blanket - Crm00398</masterLabel>
+            <translation><!-- Travel Blanket - Crm00398 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Travel Treatment</masterLabel>
+            <translation><!-- Travel Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Travel Watch Roll</masterLabel>
+            <translation><!-- Travel Watch Roll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Uae National Day</masterLabel>
+            <translation><!-- Uae National Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>VIP</masterLabel>
+            <translation>VIC</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vday19 - 32 Pcs Box</masterLabel>
+            <translation><!-- Vday19 - 32 Pcs Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vinho</masterLabel>
+            <translation><!-- Vinho --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vino Tinto Matarromera San Valentin 2018</masterLabel>
+            <translation><!-- Vino Tinto Matarromera San Valentin 2018 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Jewellery Box</masterLabel>
+            <translation><!-- Vip Jewellery Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Jewellery Bx Fy 15 - Crm00286</masterLabel>
+            <translation><!-- Vip Jewellery Bx Fy 15 - Crm00286 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Men Watcth Box</masterLabel>
+            <translation><!-- Vip Men Watcth Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Watch Box</masterLabel>
+            <translation><!-- Vip Watch Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Watch Box Fy15 - Crm00287</masterLabel>
+            <translation><!-- Vip Watch Box Fy15 - Crm00287 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Wm14</masterLabel>
+            <translation><!-- Vip Wm14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Women Jewellery Box</masterLabel>
+            <translation><!-- Vip Women Jewellery Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vip Women Watch Box Wood Lacquer</masterLabel>
+            <translation><!-- Vip Women Watch Box Wood Lacquer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visit In The Boutique</masterLabel>
+            <translation><!-- Visit In The Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visit To Boutique</masterLabel>
+            <translation><!-- Visit To Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Warranty</masterLabel>
+            <translation><!-- Warranty --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch</masterLabel>
+            <translation><!-- Watch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch Strap</masterLabel>
+            <translation><!-- Watch Strap --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watch Travel Pouch</masterLabel>
+            <translation><!-- Watch Travel Pouch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Watches box</masterLabel>
+            <translation><!-- Watches box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Website Issue / Error</masterLabel>
+            <translation><!-- Website Issue / Error --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wedding Anniversary</masterLabel>
+            <translation><!-- Wedding Anniversary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wedding Gift Or Treatment</masterLabel>
+            <translation><!-- Wedding Gift Or Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wedding Month</masterLabel>
+            <translation><!-- Wedding Month --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wedding Planning</masterLabel>
+            <translation><!-- Wedding Planning --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wedding Proposal</masterLabel>
+            <translation><!-- Wedding Proposal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Welcome</masterLabel>
+            <translation><!-- Welcome --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Welcome Book</masterLabel>
+            <translation><!-- Welcome Book --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Welcome Program</masterLabel>
+            <translation><!-- Welcome Program --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Welcome email</masterLabel>
+            <translation><!-- Welcome email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Welcome pack</masterLabel>
+            <translation><!-- Welcome pack --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whatsapp Contact</masterLabel>
+            <translation><!-- Whatsapp Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whisky - Ampely</masterLabel>
+            <translation><!-- Whisky - Ampely --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Winter Mailer</masterLabel>
+            <translation><!-- Winter Mailer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Winter Mailer 2017</masterLabel>
+            <translation><!-- Winter Mailer 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wm15 Generico</masterLabel>
+            <translation><!-- Wm15 Generico --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wm15 Goal</masterLabel>
+            <translation><!-- Wm15 Goal --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wm16 Envol</masterLabel>
+            <translation><!-- Wm16 Envol --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wm16 Generico</masterLabel>
+            <translation><!-- Wm16 Generico --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wm16 Perso</masterLabel>
+            <translation><!-- Wm16 Perso --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wm16 Perso + Envol</masterLabel>
+            <translation><!-- Wm16 Perso + Envol --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Women Travel Pouch Fy15 - Crm00290</masterLabel>
+            <translation><!-- Women Travel Pouch Fy15 - Crm00290 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Womens International Day Treatment</masterLabel>
+            <translation><!-- Womens International Day Treatment --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

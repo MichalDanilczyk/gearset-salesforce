@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_TransactionTypeFromSourceSystem__c</fullName>
+        <description>Transaction Type in external system</description>
+        <externalId>false</externalId>
+        <label>Transaction Type from Source System</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>100</fullName>
+                    <default>false</default>
+                    <label>Cancellation</label>
+                </value>
+                <value>
+                    <fullName>30</fullName>
+                    <default>false</default>
+                    <label>Cass</label>
+                </value>
+                <value>
+                    <fullName>40_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>CASS Repairs</label>
+                </value>
+                <value>
+                    <fullName>250_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>CASS Spare parts</label>
+                </value>
+                <value>
+                    <fullName>ZR01</fullName>
+                    <default>false</default>
+                    <label>Client Order</label>
+                </value>
+                <value>
+                    <fullName>ZR02</fullName>
+                    <default>false</default>
+                    <label>Client Reservation</label>
+                </value>
+                <value>
+                    <fullName>ZR32</fullName>
+                    <default>false</default>
+                    <label>Consignment Sale</label>
+                </value>
+                <value>
+                    <fullName>120_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Credit Value Only (MIA)</label>
+                </value>
+                <value>
+                    <fullName>300_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>CR PH</label>
+                </value>
+                <value>
+                    <fullName>150_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>CR Return-Commercial exchange</label>
+                </value>
+                <value>
+                    <fullName>190_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>CR Return-Mis-shipment</label>
+                </value>
+                <value>
+                    <fullName>CS</fullName>
+                    <default>false</default>
+                    <label>Customer Service</label>
+                </value>
+                <value>
+                    <fullName>CSX</fullName>
+                    <default>false</default>
+                    <label>Customer Service Migrated</label>
+                </value>
+                <value>
+                    <fullName>110</fullName>
+                    <default>false</default>
+                    <label>Deposit</label>
+                </value>
+                <value>
+                    <fullName>ZE21</fullName>
+                    <default>false</default>
+                    <label>ECOM Credit Memo Req</label>
+                </value>
+                <value>
+                    <fullName>ZE12</fullName>
+                    <default>false</default>
+                    <label>ECOM Exchange Dwngr</label>
+                </value>
+                <value>
+                    <fullName>ZE13</fullName>
+                    <default>false</default>
+                    <label>ECOM Exchange Upgr</label>
+                </value>
+                <value>
+                    <fullName>ZE03</fullName>
+                    <default>false</default>
+                    <label>ECOM FOC Order</label>
+                </value>
+                <value>
+                    <fullName>310_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>e-commerce sales</label>
+                </value>
+                <value>
+                    <fullName>320_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>e-commerce sales return</label>
+                </value>
+                <value>
+                    <fullName>ZE01</fullName>
+                    <default>false</default>
+                    <label>ECOM Phone Order</label>
+                </value>
+                <value>
+                    <fullName>ZE10</fullName>
+                    <default>false</default>
+                    <label>ECOM Ret.Ord.cutover</label>
+                </value>
+                <value>
+                    <fullName>ZE11</fullName>
+                    <default>false</default>
+                    <label>ECOM Return Order</label>
+                </value>
+                <value>
+                    <fullName>ZE14</fullName>
+                    <default>false</default>
+                    <label>ECOM Return Retail</label>
+                </value>
+                <value>
+                    <fullName>ZE02</fullName>
+                    <default>false</default>
+                    <label>ECOM Web Order</label>
+                </value>
+                <value>
+                    <fullName>90</fullName>
+                    <default>false</default>
+                    <label>Gift</label>
+                </value>
+                <value>
+                    <fullName>50_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Gratuities</label>
+                </value>
+                <value>
+                    <fullName>ZEX1</fullName>
+                    <default>false</default>
+                    <label>Hist. Phone Order</label>
+                </value>
+                <value>
+                    <fullName>ZEX2</fullName>
+                    <default>false</default>
+                    <label>Hist. Web Order</label>
+                </value>
+                <value>
+                    <fullName>40</fullName>
+                    <default>false</default>
+                    <label>In Account</label>
+                </value>
+                <value>
+                    <fullName>100_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Internal Boutique Credit Note (MX)</label>
+                </value>
+                <value>
+                    <fullName>20_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Internal Boutique Sales order (MX)</label>
+                </value>
+                <value>
+                    <fullName>10</fullName>
+                    <default>false</default>
+                    <label>Jewellery Repair</label>
+                </value>
+                <value>
+                    <fullName>20</fullName>
+                    <default>false</default>
+                    <label>Jewellery Transf</label>
+                </value>
+                <value>
+                    <fullName>1000</fullName>
+                    <default>false</default>
+                    <label>Manual Adjustment</label>
+                </value>
+                <value>
+                    <fullName>Normal</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Normal</label>
+                </value>
+                <value>
+                    <fullName>0</fullName>
+                    <default>false</default>
+                    <label>Normal Sale</label>
+                </value>
+                <value>
+                    <fullName>999999</fullName>
+                    <default>false</default>
+                    <label>Other Type</label>
+                </value>
+                <value>
+                    <fullName>90_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Regular Credit</label>
+                </value>
+                <value>
+                    <fullName>10_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Regular Sales</label>
+                </value>
+                <value>
+                    <fullName>240_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Reinvoicing (MX)</label>
+                </value>
+                <value>
+                    <fullName>Repair</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Repair</label>
+                </value>
+                <value>
+                    <fullName>60</fullName>
+                    <default>false</default>
+                    <label>Reservation</label>
+                </value>
+                <value>
+                    <fullName>70</fullName>
+                    <default>false</default>
+                    <label>Reservation Deposit</label>
+                </value>
+                <value>
+                    <fullName>330_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Retail gratuits for Marketing campaign</label>
+                </value>
+                <value>
+                    <fullName>80</fullName>
+                    <default>false</default>
+                    <label>Return Deposit</label>
+                </value>
+                <value>
+                    <fullName>SALE</fullName>
+                    <default>false</default>
+                    <label>Sales</label>
+                </value>
+                <value>
+                    <fullName>370_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Sales in advance cancelling</label>
+                </value>
+                <value>
+                    <fullName>360_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Sales in advance invoice</label>
+                </value>
+                <value>
+                    <fullName>SALX</fullName>
+                    <default>false</default>
+                    <label>Sales Migrated</label>
+                </value>
+                <value>
+                    <fullName>60_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Sales Value Only (MIA)</label>
+                </value>
+                <value>
+                    <fullName>340_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Saphir repair order</label>
+                </value>
+                <value>
+                    <fullName>ZR03</fullName>
+                    <default>false</default>
+                    <label>Solitaire Order</label>
+                </value>
+                <value>
+                    <fullName>ZR04</fullName>
+                    <default>false</default>
+                    <label>Solitaire Order Migrated</label>
+                </value>
+                <value>
+                    <fullName>50</fullName>
+                    <default>false</default>
+                    <label>Special Sale</label>
+                </value>
+                <value>
+                    <fullName>350_MEXBRA</fullName>
+                    <default>false</default>
+                    <label>Web Saphir invoice</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

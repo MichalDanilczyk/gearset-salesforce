@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_PhoneCompactLayout</fullName>
+        <fields>Name</fields>
+        <fields>RICSC_Phone__c</fields>
+        <fields>RICSC_PhoneType__c</fields>
+        <fields>RICSC_SMSEnabled__c</fields>
+        <fields>RICSC_EndDate__c</fields>
+        <label>Phone Compact Layout</label>
+    </CompactLayout>

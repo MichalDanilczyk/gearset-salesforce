@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>ContainsNonSetupObjectDML__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Whether the code triggered by this custom metadata contains only DMLs on Non Setup Objects</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>ContainsNonSetupObjectDML</label>
+        <type>Checkbox</type>
+    </CustomField>

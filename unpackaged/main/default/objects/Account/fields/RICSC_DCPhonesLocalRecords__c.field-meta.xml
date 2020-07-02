@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_DCPhonesLocalRecords__c</fullName>
+        <description>Rollup of all the phone from the Phone object of Local Records. Used for Duplicate Check scenarios.</description>
+        <externalId>false</externalId>
+        <label>DC Phones - Local Records</label>
+        <length>1000</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>LongTextArea</type>
+        <visibleLines>10</visibleLines>
+    </CustomField>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_IntegrationResultCRM__c</fullName>
+        <description>Technical Field -  to indicate the detailed result of the latest consent integration alignment to CRM</description>
+        <externalId>false</externalId>
+        <label>Integration Result CRM</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>TextArea</type>
+    </CustomField>

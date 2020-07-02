@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Potential --></label>
+        <name>Potential__c</name>
+        <picklistValues>
+            <masterLabel>High;Very High;VVR</masterLabel>
+            <translation><!-- High;Very High;VVR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medium;Low</masterLabel>
+            <translation><!-- Medium;Low --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

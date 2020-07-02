@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_InverseRelationshipRole__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Field to link to the inverse role</description>
+        <externalId>false</externalId>
+        <label>Inverse Relationship Role</label>
+        <referenceTo>RICSC_RelationType__c</referenceTo>
+        <relationshipLabel>Relation Types</relationshipLabel>
+        <relationshipName>RICSC_RelationTypesInvRelationshipRole</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ProductOfInterests__c</fullName>
+        <description>Multi-selection of all products (coming from SAP) the client has a known interest in, coming from SAP.</description>
+        <externalId>false</externalId>
+        <label>Product Of Interests</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Accessories Belt</fullName>
+                    <default>false</default>
+                    <label>Accessories Belt</label>
+                </value>
+                <value>
+                    <fullName>Accessories Card holder</fullName>
+                    <default>false</default>
+                    <label>Accessories Card holder</label>
+                </value>
+                <value>
+                    <fullName>Accessories Clock</fullName>
+                    <default>false</default>
+                    <label>Accessories Clock</label>
+                </value>
+                <value>
+                    <fullName>Accessories Cufflinks</fullName>
+                    <default>false</default>
+                    <label>Accessories Cufflinks</label>
+                </value>
+                <value>
+                    <fullName>Accessories Handbags &amp; Leather</fullName>
+                    <default>false</default>
+                    <label>Accessories Handbags &amp; Leather</label>
+                </value>
+                <value>
+                    <fullName>Accessories Key ring</fullName>
+                    <default>false</default>
+                    <label>Accessories Key ring</label>
+                </value>
+                <value>
+                    <fullName>Accessories Lighter</fullName>
+                    <default>false</default>
+                    <label>Accessories Lighter</label>
+                </value>
+                <value>
+                    <fullName>Accessories Money clip</fullName>
+                    <default>false</default>
+                    <label>Accessories Money clip</label>
+                </value>
+                <value>
+                    <fullName>Accessories Other</fullName>
+                    <default>false</default>
+                    <label>Accessories Other</label>
+                </value>
+                <value>
+                    <fullName>Accessories Pens</fullName>
+                    <default>false</default>
+                    <label>Accessories Pens</label>
+                </value>
+                <value>
+                    <fullName>Accessories Prescript Eyewear</fullName>
+                    <default>false</default>
+                    <label>Accessories Prescript Eyewear</label>
+                </value>
+                <value>
+                    <fullName>Accessories Scarf</fullName>
+                    <default>false</default>
+                    <label>Accessories Scarf</label>
+                </value>
+                <value>
+                    <fullName>Accessories Small Leather</fullName>
+                    <default>false</default>
+                    <label>Accessories Small Leather</label>
+                </value>
+                <value>
+                    <fullName>Accessories Sunglasses</fullName>
+                    <default>false</default>
+                    <label>Accessories Sunglasses</label>
+                </value>
+                <value>
+                    <fullName>AMVOX</fullName>
+                    <default>false</default>
+                    <label>AMVOX</label>
+                </value>
+                <value>
+                    <fullName>Atmos</fullName>
+                    <default>false</default>
+                    <label>Atmos</label>
+                </value>
+                <value>
+                    <fullName>Bridal Ballerine</fullName>
+                    <default>false</default>
+                    <label>Bridal Ballerine</label>
+                </value>
+                <value>
+                    <fullName>Bridal Cartier D’Amour</fullName>
+                    <default>false</default>
+                    <label>Bridal Cartier D’Amour</label>
+                </value>
+                <value>
+                    <fullName>Bridal C De Cartier</fullName>
+                    <default>false</default>
+                    <label>Bridal C De Cartier</label>
+                </value>
+                <value>
+                    <fullName>Bridal Classic Wedding Bands</fullName>
+                    <default>false</default>
+                    <label>Bridal Classic Wedding Bands</label>
+                </value>
+                <value>
+                    <fullName>Bridal Declaration</fullName>
+                    <default>false</default>
+                    <label>Bridal Declaration</label>
+                </value>
+                <value>
+                    <fullName>Bridal Honeymoon</fullName>
+                    <default>false</default>
+                    <label>Bridal Honeymoon</label>
+                </value>
+                <value>
+                    <fullName>Bridal LOVE</fullName>
+                    <default>false</default>
+                    <label>Bridal LOVE</label>
+                </value>
+                <value>
+                    <fullName>Bridal Other</fullName>
+                    <default>false</default>
+                    <label>Bridal Other</label>
+                </value>
+                <value>
+                    <fullName>Bridal Solitaire 1895</fullName>
+                    <default>false</default>
+                    <label>Bridal Solitaire 1895</label>
+                </value>
+                <value>
+                    <fullName>Bridal Trinity</fullName>
+                    <default>false</default>
+                    <label>Bridal Trinity</label>
+                </value>
+                <value>
+                    <fullName>Duomètre</fullName>
+                    <default>false</default>
+                    <label>Duomètre</label>
+                </value>
+                <value>
+                    <fullName>Extraordinary</fullName>
+                    <default>false</default>
+                    <label>Extraordinary</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Baiser Volé</fullName>
+                    <default>false</default>
+                    <label>Fragrances Baiser Volé</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Déclaration</fullName>
+                    <default>false</default>
+                    <label>Fragrances Déclaration</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Déclarationd'unSoir</fullName>
+                    <default>false</default>
+                    <label>Fragrances Déclarationd'unSoir</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Eau de Cartier</fullName>
+                    <default>false</default>
+                    <label>Fragrances Eau de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Les Heures</fullName>
+                    <default>false</default>
+                    <label>Fragrances Les Heures</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Must de Cartier</fullName>
+                    <default>false</default>
+                    <label>Fragrances Must de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Other</fullName>
+                    <default>false</default>
+                    <label>Fragrances Other</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Pasha de Cartier</fullName>
+                    <default>false</default>
+                    <label>Fragrances Pasha de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Fragrances Roadster</fullName>
+                    <default>false</default>
+                    <label>Fragrances Roadster</label>
+                </value>
+                <value>
+                    <fullName>Geophysic</fullName>
+                    <default>false</default>
+                    <label>Geophysic</label>
+                </value>
+                <value>
+                    <fullName>Hybris Mechanica</fullName>
+                    <default>false</default>
+                    <label>Hybris Mechanica</label>
+                </value>
+                <value>
+                    <fullName>Jaeger-LeCoultre Polaris</fullName>
+                    <default>false</default>
+                    <label>Jaeger-LeCoultre Polaris</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Alhambra</fullName>
+                    <default>false</default>
+                    <label>Jewellery Alhambra</label>
+                </value>
+                <value>
+                    <fullName>JewelleryAll</fullName>
+                    <default>false</default>
+                    <label>JewelleryAll</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Between the finger rings</fullName>
+                    <default>false</default>
+                    <label>Jewellery Between the finger rings</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Bridal</fullName>
+                    <default>false</default>
+                    <label>Jewellery Bridal</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Butterflies &amp; Dragonflies</fullName>
+                    <default>false</default>
+                    <label>Jewellery Butterflies &amp; Dragonflies</label>
+                </value>
+                <value>
+                    <fullName>JewelleryCaresse d'Orchidees</fullName>
+                    <default>false</default>
+                    <label>JewelleryCaresse d'Orchidees</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Engagement Rings</fullName>
+                    <default>false</default>
+                    <label>Jewellery Engagement Rings</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Envol</fullName>
+                    <default>false</default>
+                    <label>Jewellery Envol</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Fleurette &amp; Snowflake</fullName>
+                    <default>false</default>
+                    <label>Jewellery Fleurette &amp; Snowflake</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Flowerlace</fullName>
+                    <default>false</default>
+                    <label>Jewellery Flowerlace</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Frivole</fullName>
+                    <default>false</default>
+                    <label>Jewellery Frivole</label>
+                </value>
+                <value>
+                    <fullName>JewelleryHearts</fullName>
+                    <default>false</default>
+                    <label>JewelleryHearts</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Logo</fullName>
+                    <default>false</default>
+                    <label>Jewellery Logo</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Love</fullName>
+                    <default>false</default>
+                    <label>Jewellery Love</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Oiseaux de Paradis</fullName>
+                    <default>false</default>
+                    <label>Jewellery Oiseaux de Paradis</label>
+                </value>
+                <value>
+                    <fullName>JewelleryPanthere</fullName>
+                    <default>false</default>
+                    <label>JewelleryPanthere</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Perlée</fullName>
+                    <default>false</default>
+                    <label>Jewellery Perlée</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Rose de Noël &amp; Cosmos</fullName>
+                    <default>false</default>
+                    <label>Jewellery Rose de Noël &amp; Cosmos</label>
+                </value>
+                <value>
+                    <fullName>JewelleryTank</fullName>
+                    <default>false</default>
+                    <label>JewelleryTank</label>
+                </value>
+                <value>
+                    <fullName>JewelleryTrinity</fullName>
+                    <default>false</default>
+                    <label>JewelleryTrinity</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Une Journée à Paris</fullName>
+                    <default>false</default>
+                    <label>Jewellery Une Journée à Paris</label>
+                </value>
+                <value>
+                    <fullName>Jewellery Wedding bands</fullName>
+                    <default>false</default>
+                    <label>Jewellery Wedding bands</label>
+                </value>
+                <value>
+                    <fullName>Jewelry Diamants Leger</fullName>
+                    <default>false</default>
+                    <label>Jewelry Diamants Leger</label>
+                </value>
+                <value>
+                    <fullName>Jewelry Diamond Jewelry</fullName>
+                    <default>false</default>
+                    <label>Jewelry Diamond Jewelry</label>
+                </value>
+                <value>
+                    <fullName>Jewelry Entrelacés</fullName>
+                    <default>false</default>
+                    <label>Jewelry Entrelacés</label>
+                </value>
+                <value>
+                    <fullName>Jewelry for Children</fullName>
+                    <default>false</default>
+                    <label>Jewelry for Children</label>
+                </value>
+                <value>
+                    <fullName>Jewelry for Men</fullName>
+                    <default>false</default>
+                    <label>Jewelry for Men</label>
+                </value>
+                <value>
+                    <fullName>Jewelry High Jewelery</fullName>
+                    <default>false</default>
+                    <label>Jewelry High Jewelery</label>
+                </value>
+                <value>
+                    <fullName>Jewelry Juste un Clou</fullName>
+                    <default>false</default>
+                    <label>Jewelry Juste un Clou</label>
+                </value>
+                <value>
+                    <fullName>Latest creations</fullName>
+                    <default>false</default>
+                    <label>Latest creations</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods All</fullName>
+                    <default>false</default>
+                    <label>Leather Goods All</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods Happy Birthday</fullName>
+                    <default>false</default>
+                    <label>Leather Goods Happy Birthday</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods Marcello de Cartier</fullName>
+                    <default>false</default>
+                    <label>Leather Goods Marcello de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods Must de Cartier</fullName>
+                    <default>false</default>
+                    <label>Leather Goods Must de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods Other</fullName>
+                    <default>false</default>
+                    <label>Leather Goods Other</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods Pasha de Cartier</fullName>
+                    <default>false</default>
+                    <label>Leather Goods Pasha de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Leather Goods Santos de Cartier</fullName>
+                    <default>false</default>
+                    <label>Leather Goods Santos de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Master</fullName>
+                    <default>false</default>
+                    <label>Master</label>
+                </value>
+                <value>
+                    <fullName>Master Extreme</fullName>
+                    <default>false</default>
+                    <label>Master Extreme</label>
+                </value>
+                <value>
+                    <fullName>Metiers Rares</fullName>
+                    <default>false</default>
+                    <label>Metiers Rares</label>
+                </value>
+                <value>
+                    <fullName>Pens All</fullName>
+                    <default>false</default>
+                    <label>Pens All</label>
+                </value>
+                <value>
+                    <fullName>Pens Diabolo de Cartier</fullName>
+                    <default>false</default>
+                    <label>Pens Diabolo de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Pens Louis Cartier</fullName>
+                    <default>false</default>
+                    <label>Pens Louis Cartier</label>
+                </value>
+                <value>
+                    <fullName>Pens Other</fullName>
+                    <default>false</default>
+                    <label>Pens Other</label>
+                </value>
+                <value>
+                    <fullName>Pens Pasha de Cartier</fullName>
+                    <default>false</default>
+                    <label>Pens Pasha de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Pens Roadster de Cartier</fullName>
+                    <default>false</default>
+                    <label>Pens Roadster de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Pens Trinity de Cartier</fullName>
+                    <default>false</default>
+                    <label>Pens Trinity de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Rendez-Vous</fullName>
+                    <default>false</default>
+                    <label>Rendez-Vous</label>
+                </value>
+                <value>
+                    <fullName>Reverso</fullName>
+                    <default>false</default>
+                    <label>Reverso</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Cadenas</fullName>
+                    <default>false</default>
+                    <label>Timepiece Cadenas</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Charms</fullName>
+                    <default>false</default>
+                    <label>Timepiece Charms</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Extraordinary Dials</fullName>
+                    <default>false</default>
+                    <label>Timepiece Extraordinary Dials</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Fleurette</fullName>
+                    <default>false</default>
+                    <label>Timepiece Fleurette</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Lady Arpels</fullName>
+                    <default>false</default>
+                    <label>Timepiece Lady Arpels</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Midnight</fullName>
+                    <default>false</default>
+                    <label>Timepiece Midnight</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Monsieur Arpels</fullName>
+                    <default>false</default>
+                    <label>Timepiece Monsieur Arpels</label>
+                </value>
+                <value>
+                    <fullName>Timepiece PA 49</fullName>
+                    <default>false</default>
+                    <label>Timepiece PA 49</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Poetic Complication</fullName>
+                    <default>false</default>
+                    <label>Timepiece Poetic Complication</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Secret</fullName>
+                    <default>false</default>
+                    <label>Timepiece Secret</label>
+                </value>
+                <value>
+                    <fullName>Timepiece Timeless</fullName>
+                    <default>false</default>
+                    <label>Timepiece Timeless</label>
+                </value>
+                <value>
+                    <fullName>Watches All</fullName>
+                    <default>false</default>
+                    <label>Watches All</label>
+                </value>
+                <value>
+                    <fullName>Watches Baignoire</fullName>
+                    <default>false</default>
+                    <label>Watches Baignoire</label>
+                </value>
+                <value>
+                    <fullName>Watches Ballon Bleu</fullName>
+                    <default>false</default>
+                    <label>Watches Ballon Bleu</label>
+                </value>
+                <value>
+                    <fullName>Watches Calibre</fullName>
+                    <default>false</default>
+                    <label>Watches Calibre</label>
+                </value>
+                <value>
+                    <fullName>Watches CPCP</fullName>
+                    <default>false</default>
+                    <label>Watches CPCP</label>
+                </value>
+                <value>
+                    <fullName>Watches Délices</fullName>
+                    <default>false</default>
+                    <label>Watches Délices</label>
+                </value>
+                <value>
+                    <fullName>Watches Haute Horlogerie</fullName>
+                    <default>false</default>
+                    <label>Watches Haute Horlogerie</label>
+                </value>
+                <value>
+                    <fullName>Watches High Jewelry</fullName>
+                    <default>false</default>
+                    <label>Watches High Jewelry</label>
+                </value>
+                <value>
+                    <fullName>Watches La dona</fullName>
+                    <default>false</default>
+                    <label>Watches La dona</label>
+                </value>
+                <value>
+                    <fullName>Watches Ligne 21 de Cartier</fullName>
+                    <default>false</default>
+                    <label>Watches Ligne 21 de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Watches Other</fullName>
+                    <default>false</default>
+                    <label>Watches Other</label>
+                </value>
+                <value>
+                    <fullName>Watches Panthere</fullName>
+                    <default>false</default>
+                    <label>Watches Panthere</label>
+                </value>
+                <value>
+                    <fullName>Watches Pasha</fullName>
+                    <default>false</default>
+                    <label>Watches Pasha</label>
+                </value>
+                <value>
+                    <fullName>Watches Roadster</fullName>
+                    <default>false</default>
+                    <label>Watches Roadster</label>
+                </value>
+                <value>
+                    <fullName>Watches Ronde Louis Cartier</fullName>
+                    <default>false</default>
+                    <label>Watches Ronde Louis Cartier</label>
+                </value>
+                <value>
+                    <fullName>Watches Ronde Solo de Cartier</fullName>
+                    <default>false</default>
+                    <label>Watches Ronde Solo de Cartier</label>
+                </value>
+                <value>
+                    <fullName>Watches Santos</fullName>
+                    <default>false</default>
+                    <label>Watches Santos</label>
+                </value>
+                <value>
+                    <fullName>Watches Tank</fullName>
+                    <default>false</default>
+                    <label>Watches Tank</label>
+                </value>
+                <value>
+                    <fullName>WatchesTank FR</fullName>
+                    <default>false</default>
+                    <label>WatchesTank FR</label>
+                </value>
+                <value>
+                    <fullName>Watches Tank US</fullName>
+                    <default>false</default>
+                    <label>Watches Tank US</label>
+                </value>
+                <value>
+                    <fullName>Watches Tonneau</fullName>
+                    <default>false</default>
+                    <label>Watches Tonneau</label>
+                </value>
+                <value>
+                    <fullName>Watches Tortue</fullName>
+                    <default>false</default>
+                    <label>Watches Tortue</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+        <visibleLines>4</visibleLines>
+    </CustomField>

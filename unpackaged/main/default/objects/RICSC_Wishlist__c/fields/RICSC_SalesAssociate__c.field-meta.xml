@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_SalesAssociate__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Link to the Sales Associate</description>
+        <externalId>false</externalId>
+        <label>Sales Associate</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Wishlists</relationshipLabel>
+        <relationshipName>RICSC_WishlistsSalesAssociate</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

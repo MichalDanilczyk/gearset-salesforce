@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_GoldenRecord__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Lookup to a Golden Record which has been created for the Account</description>
+        <externalId>false</externalId>
+        <label>Golden Record</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Tickets</relationshipLabel>
+        <relationshipName>RICSC_TicketsGoldenRecord</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

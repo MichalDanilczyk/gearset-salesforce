@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ClassCode__c</fullName>
+        <description>Client segment based on rules in SAP</description>
+        <externalId>false</externalId>
+        <label>Class Code</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Boutique Client</fullName>
+                    <default>false</default>
+                    <label>Boutique Client</label>
+                </value>
+                <value>
+                    <fullName>Boutique Service client</fullName>
+                    <default>false</default>
+                    <label>Boutique Service client</label>
+                </value>
+                <value>
+                    <fullName>Cartier Call Center Prospect</fullName>
+                    <default>false</default>
+                    <label>Cartier Call Center Prospect</label>
+                </value>
+                <value>
+                    <fullName>Cartier Customer Service</fullName>
+                    <default>false</default>
+                    <label>Cartier Customer Service</label>
+                </value>
+                <value>
+                    <fullName>Cartier Prospect</fullName>
+                    <default>false</default>
+                    <label>Cartier Prospect</label>
+                </value>
+                <value>
+                    <fullName>Cartier Prospect Multichannel</fullName>
+                    <default>false</default>
+                    <label>Cartier Prospect Multichannel</label>
+                </value>
+                <value>
+                    <fullName>Cartier Retail</fullName>
+                    <default>false</default>
+                    <label>Cartier Retail</label>
+                </value>
+                <value>
+                    <fullName>Cartier Retail Mutlichannel Customer</fullName>
+                    <default>false</default>
+                    <label>Cartier Retail Mutlichannel Customer</label>
+                </value>
+                <value>
+                    <fullName>Cartier Retail Web Customer</fullName>
+                    <default>false</default>
+                    <label>Cartier Retail Web Customer</label>
+                </value>
+                <value>
+                    <fullName>Charity</fullName>
+                    <default>false</default>
+                    <label>Charity</label>
+                </value>
+                <value>
+                    <fullName>Charity Client</fullName>
+                    <default>false</default>
+                    <label>Charity Client</label>
+                </value>
+                <value>
+                    <fullName>Contact Center Client</fullName>
+                    <default>false</default>
+                    <label>Contact Center Client</label>
+                </value>
+                <value>
+                    <fullName>Contact Center Retail Client</fullName>
+                    <default>false</default>
+                    <label>Contact Center Retail Client</label>
+                </value>
+                <value>
+                    <fullName>Contact Center Service Client</fullName>
+                    <default>false</default>
+                    <label>Contact Center Service Client</label>
+                </value>
+                <value>
+                    <fullName>Customer Service Client</fullName>
+                    <default>false</default>
+                    <label>Customer Service Client</label>
+                </value>
+                <value>
+                    <fullName>E-Commerce Client</fullName>
+                    <default>false</default>
+                    <label>E-Commerce Client</label>
+                </value>
+                <value>
+                    <fullName>Multi-Channel Client</fullName>
+                    <default>false</default>
+                    <label>Multi-Channel Client</label>
+                </value>
+                <value>
+                    <fullName>Multi-channel Retail Client</fullName>
+                    <default>false</default>
+                    <label>Multi-channel Retail Client</label>
+                </value>
+                <value>
+                    <fullName>Multi-channel Service Client</fullName>
+                    <default>false</default>
+                    <label>Multi-channel Service Client</label>
+                </value>
+                <value>
+                    <fullName>Prospect</fullName>
+                    <default>false</default>
+                    <label>Prospect</label>
+                </value>
+                <value>
+                    <fullName>Prospect Boutique</fullName>
+                    <default>false</default>
+                    <label>Prospect Boutique</label>
+                </value>
+                <value>
+                    <fullName>Prospect contact center</fullName>
+                    <default>false</default>
+                    <label>Prospect contact center</label>
+                </value>
+                <value>
+                    <fullName>Prospect Partnership</fullName>
+                    <default>false</default>
+                    <label>Prospect Partnership</label>
+                </value>
+                <value>
+                    <fullName>Prospect Web</fullName>
+                    <default>false</default>
+                    <label>Prospect Web</label>
+                </value>
+                <value>
+                    <fullName>Prospect Web Cartier</fullName>
+                    <default>false</default>
+                    <label>Prospect Web Cartier</label>
+                </value>
+                <value>
+                    <fullName>Staff</fullName>
+                    <default>false</default>
+                    <label>Staff</label>
+                </value>
+                <value>
+                    <fullName>Unknown</fullName>
+                    <default>false</default>
+                    <label>Unknown</label>
+                </value>
+                <value>
+                    <fullName>Web Client</fullName>
+                    <default>false</default>
+                    <label>Web Client</label>
+                </value>
+                <value>
+                    <fullName>Web Retail Client</fullName>
+                    <default>false</default>
+                    <label>Web Retail Client</label>
+                </value>
+                <value>
+                    <fullName>Wholesaler</fullName>
+                    <default>false</default>
+                    <label>Wholesaler</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

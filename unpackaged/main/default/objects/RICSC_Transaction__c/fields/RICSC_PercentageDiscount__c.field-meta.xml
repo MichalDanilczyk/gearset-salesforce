@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_PercentageDiscount__c</fullName>
+        <description>Percentage of discount given to the customer</description>
+        <externalId>false</externalId>
+        <formula>100 * RICSC_DiscountWithTax__c / (RICSC_AmountWithTax__c + RICSC_DiscountWithTax__c)</formula>
+        <label>Percentage Discount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </CustomField>

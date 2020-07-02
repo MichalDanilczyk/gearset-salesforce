@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>EMF</fullName>
+        <default>false</default>
+        <label>Eyewear</label>
+    </standardValue>
+    <standardValue>
+        <fullName>FMF</fullName>
+        <default>false</default>
+        <label>Fragancies</label>
+    </standardValue>
+    <standardValue>
+        <fullName>JMF</fullName>
+        <default>false</default>
+        <label>Jewellery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>LMF</fullName>
+        <default>false</default>
+        <label>Leather Goods</label>
+    </standardValue>
+    <standardValue>
+        <fullName>OMF</fullName>
+        <default>false</default>
+        <label>Objects</label>
+    </standardValue>
+    <standardValue>
+        <fullName>WMF</fullName>
+        <default>false</default>
+        <label>Watches</label>
+    </standardValue>
+</StandardValueSet>

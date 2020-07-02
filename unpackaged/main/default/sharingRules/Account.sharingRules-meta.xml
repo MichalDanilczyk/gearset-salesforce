@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?><SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>MaisonVCARTBoutiqueNonChina</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If maison = CAR and recordtype is Boutique share non china</description>
+        <label>Maison VCA RT Boutique Non-China</label>
+        <sharedTo>
+            <group>RICSC_VCACRMNonChinaRoles</group>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Boutique</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_CountryChinaRTCAR</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If Country of Origin = China
+
+If Record Type= Cartier
+
+-&gt;Share with Role= CAR CRM China</description>
+        <label>CountryChinaRTCAR</label>
+        <sharedTo>
+            <role>RICSC_CARCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_CountryOfOrigin__c</field>
+            <operation>equals</operation>
+            <value>China</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_HighJewelleryClient__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_CountryChinaRTJLC</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If Country of Origin = China
+
+If Record Type= Jaeger Le Coultre
+
+-&gt;Share with Role= JLC CRM China</description>
+        <label>CountryChinaRTJLC</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_CountryOfOrigin__c</field>
+            <operation>equals</operation>
+            <value>China</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Jaeger-LeCoultre</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_VIP__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_CountryChinaRTVCA</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If Country of Origin = China
+
+If Record Type= Van Cleef &amp; Arpels
+
+-&gt;Share with Role= VCA CRM China</description>
+        <label>CountryChinaRTVCA</label>
+        <sharedTo>
+            <role>RICSC_VCACRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RICSC_CountryOfOrigin__c</field>
+            <operation>equals</operation>
+            <value>China</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_JLCHQnonVIPVIP</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If Record Type = Jaeger Le Coultre
+
+-&gt;Share with Role= JLC CRM HQ</description>
+        <label>JLC HQ  (non VIP &amp; VIP)</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMHQ</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Jaeger-LeCoultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_JLCRegionalLocalnonVIP</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>if Record Type = Jaeger Le Coultre
+
+If RICSC_VIP__c= false
+
+-&gt;Share with Role= JLC CRM World</description>
+        <label>JLC Regional &amp; Local (non VIP)</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Jaeger-LeCoultre</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_VIP__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonCARRTBoutiqueChina</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If maison = cartier and recordtype is Boutique share china</description>
+        <label>Maison CAR RT Boutique China</label>
+        <sharedTo>
+            <role>RICSC_CARCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Boutique</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_HighJewelleryClient__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonCARRTBoutiqueWorld</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If maison = CAR and recordtype is Boutique share world</description>
+        <label>Maison CAR RT Boutique World</label>
+        <sharedTo>
+            <role>RICSC_CARCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Boutique</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_HighJewelleryClient__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCRTBoutiqueChina</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If maison = JLC and recordtype is Boutique share china</description>
+        <label>Maison JLC RT Boutique China</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Boutique</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonJLCRTBoutiqueWorld</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If maison = JLC and recordtype is Boutique share World</description>
+        <label>Maison JLC RT Boutique World</label>
+        <sharedTo>
+            <role>RICSC_JLCCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Boutique</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Jaeger Le Coultre</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_MaisonVCARTBoutiqueChina</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If maison = VCA and recordtype is Boutique share china</description>
+        <label>Maison VCA RT Boutique China</label>
+        <sharedTo>
+            <role>RICSC_VCACRMChina</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Boutique</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_Maison__c</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_RecordTypeCARWorld</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If Record Type = Cartier
+-&gt;Share with Role= CAR CRM World</description>
+        <label>RecordTypeCARWorld</label>
+        <sharedTo>
+            <role>RICSC_CARCRMWorld</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Cartier</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>RICSC_HighJewelleryClient__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingCriteriaRules>
+        <fullName>RICSC_RecordTypeVCANonChina</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>None</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>If Record Type = Van Cleef &amp; Arpeels
+
+-&gt;Share with Role= Non China Roles Group</description>
+        <label>RecordTypeVCANonChina</label>
+        <sharedTo>
+            <group>RICSC_VCACRMNonChinaRoles</group>
+        </sharedTo>
+        <criteriaItems>
+            <field>RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Van Cleef &amp; Arpels</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

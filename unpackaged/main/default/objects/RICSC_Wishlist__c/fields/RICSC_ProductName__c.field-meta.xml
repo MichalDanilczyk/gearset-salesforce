@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ProductName__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>Name of the product in the wishlist</description>
+        <externalId>false</externalId>
+        <label>Product Name</label>
+        <referenceTo>Product2</referenceTo>
+        <relationshipLabel>Wishlists (Product Name)</relationshipLabel>
+        <relationshipName>RICSC_WishlistsProduct</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </CustomField>

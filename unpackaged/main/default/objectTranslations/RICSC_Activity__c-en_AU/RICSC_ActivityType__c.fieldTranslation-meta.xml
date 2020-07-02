@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Activity Type --></label>
+        <name>RICSC_ActivityType__c</name>
+        <picklistValues>
+            <masterLabel>After Sales</masterLabel>
+            <translation><!-- After Sales --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Almoço/ Jantar</masterLabel>
+            <translation><!-- Almoço/ Jantar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anniversary Gift</masterLabel>
+            <translation><!-- Anniversary Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Appointment test</masterLabel>
+            <translation><!-- Appointment test --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Asistencia Evento</masterLabel>
+            <translation><!-- Asistencia Evento --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Birthday Gift</masterLabel>
+            <translation><!-- Birthday Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Books And Catalogues</masterLabel>
+            <translation><!-- Books And Catalogues --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Appointment</masterLabel>
+            <translation><!-- Boutique Appointment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boutique Clienteling</masterLabel>
+            <translation><!-- Boutique Clienteling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Call</masterLabel>
+            <translation><!-- Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Campaign</masterLabel>
+            <translation><!-- Campaign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cartier Events</masterLabel>
+            <translation><!-- Cartier Events --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Casual Lunch Or Dinner</masterLabel>
+            <translation><!-- Casual Lunch Or Dinner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Catalog Request</masterLabel>
+            <translation><!-- Catalog Request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chocolate Box</masterLabel>
+            <translation><!-- Chocolate Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cle Contacts</masterLabel>
+            <translation><!-- Cle Contacts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clientela</masterLabel>
+            <translation><!-- Clientela --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contact Record</masterLabel>
+            <translation><!-- Contact Record --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Convite</masterLabel>
+            <translation><!-- Convite --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corp. CRM program</masterLabel>
+            <translation><!-- Corp. CRM program --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate E-Mail</masterLabel>
+            <translation><!-- Corporate E-Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Event</masterLabel>
+            <translation><!-- Corporate Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Gift</masterLabel>
+            <translation><!-- Corporate Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Invitation</masterLabel>
+            <translation><!-- Corporate Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Mail</masterLabel>
+            <translation><!-- Corporate Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Service</masterLabel>
+            <translation><!-- Corporate Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Survey</masterLabel>
+            <translation><!-- Corporate Survey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm Chocolates</masterLabel>
+            <translation><!-- Crm Chocolates --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Crm Gifts</masterLabel>
+            <translation><!-- Crm Gifts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dinner And Lunch</masterLabel>
+            <translation><!-- Dinner And Lunch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dumy Act for CG</masterLabel>
+            <translation><!-- Dumy Act for CG --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Mail</masterLabel>
+            <translation><!-- E-Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E-Mail From Boutique</masterLabel>
+            <translation><!-- E-Mail From Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ecommerce</masterLabel>
+            <translation><!-- Ecommerce --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Entregado En Boutique</masterLabel>
+            <translation><!-- Entregado En Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De Carta</masterLabel>
+            <translation><!-- Envio De Carta --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De Catálogo</masterLabel>
+            <translation><!-- Envio De Catálogo --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De E-Mail</masterLabel>
+            <translation><!-- Envio De E-Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De Flores</masterLabel>
+            <translation><!-- Envio De Flores --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De Livro</masterLabel>
+            <translation><!-- Envio De Livro --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Envio De Presente</masterLabel>
+            <translation><!-- Envio De Presente --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event</masterLabel>
+            <translation><!-- Event --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event Invitation</masterLabel>
+            <translation><!-- Event Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eventos Cartier</masterLabel>
+            <translation><!-- Eventos Cartier --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Flowers</masterLabel>
+            <translation><!-- Flowers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Future Contact</masterLabel>
+            <translation><!-- Future Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>General Inquiry</masterLabel>
+            <translation><!-- General Inquiry --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gift</masterLabel>
+            <translation><!-- Gift --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Goal Contacts</masterLabel>
+            <translation><!-- Goal Contacts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>High Potential After Care Service</masterLabel>
+            <translation><!-- High Potential After Care Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Init. Phys. Mail/Cat</masterLabel>
+            <translation><!-- Init. Phys. Mail/Cat --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Invitation</masterLabel>
+            <translation><!-- Invitation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letter From Boutique</masterLabel>
+            <translation><!-- Letter From Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Letter From Office</masterLabel>
+            <translation><!-- Letter From Office --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Llamada De La Boutique</masterLabel>
+            <translation><!-- Llamada De La Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low Potential After Care Service</masterLabel>
+            <translation><!-- Low Potential After Care Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mail</masterLabel>
+            <translation><!-- Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mail De La Boutique</masterLabel>
+            <translation><!-- Mail De La Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mailers</masterLabel>
+            <translation><!-- Mailers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Missing Long Label</masterLabel>
+            <translation><!-- Missing Long Label --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>National Day</masterLabel>
+            <translation><!-- National Day --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Network</masterLabel>
+            <translation><!-- Network --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ocasião Especial</masterLabel>
+            <translation><!-- Ocasião Especial --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Opportunity List</masterLabel>
+            <translation><!-- Opportunity List --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Opportunity Lists Contact</masterLabel>
+            <translation><!-- Opportunity Lists Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Entertainments</masterLabel>
+            <translation><!-- Other Entertainments --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Events</masterLabel>
+            <translation><!-- Other Events --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Gifts</masterLabel>
+            <translation><!-- Other Gifts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Others</masterLabel>
+            <translation><!-- Others --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outgoing Call</masterLabel>
+            <translation><!-- Outgoing Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outgoing Phone Call</masterLabel>
+            <translation><!-- Outgoing Phone Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Outros Eventos</masterLabel>
+            <translation><!-- Outros Eventos --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Page Boy</masterLabel>
+            <translation><!-- Page Boy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personalized Greeting Cards</masterLabel>
+            <translation><!-- Personalized Greeting Cards --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Call</masterLabel>
+            <translation><!-- Phone Call --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Call From Boutique</masterLabel>
+            <translation><!-- Phone Call From Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone Call From Client</masterLabel>
+            <translation><!-- Phone Call From Client --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Private Viewing</masterLabel>
+            <translation><!-- Private Viewing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Product</masterLabel>
+            <translation><!-- Product --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Programa De Fidelidad</masterLabel>
+            <translation><!-- Programa De Fidelidad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RC Contact Record</masterLabel>
+            <translation><!-- RC Contact Record --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo Aniversario</masterLabel>
+            <translation><!-- Regalo Aniversario --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo Cumpleaños</masterLabel>
+            <translation><!-- Regalo Cumpleaños --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo De Navidad 2013</masterLabel>
+            <translation><!-- Regalo De Navidad 2013 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo De Navidad 2014</masterLabel>
+            <translation><!-- Regalo De Navidad 2014 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo De Navidad 2015</masterLabel>
+            <translation><!-- Regalo De Navidad 2015 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo De Navidad 2016</masterLabel>
+            <translation><!-- Regalo De Navidad 2016 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo De Navidad 2017</masterLabel>
+            <translation><!-- Regalo De Navidad 2017 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regalo Dia De La Madre</masterLabel>
+            <translation><!-- Regalo Dia De La Madre --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sales Policy &amp; Other Services</masterLabel>
+            <translation><!-- Sales Policy &amp; Other Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Send to Emailing Tool</masterLabel>
+            <translation><!-- Send to Emailing Tool --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Service</masterLabel>
+            <translation><!-- Service --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Special Occasion Treatment</masterLabel>
+            <translation><!-- Special Occasion Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telefonema Da Boutique</masterLabel>
+            <translation><!-- Telefonema Da Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vca - Gifts</masterLabel>
+            <translation><!-- Vca - Gifts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vca - Monthly Birthday Opportunity List</masterLabel>
+            <translation><!-- Vca - Monthly Birthday Opportunity List --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vca - New Clients And Prospects</masterLabel>
+            <translation><!-- Vca - New Clients And Prospects --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vca - Opportunity List</masterLabel>
+            <translation><!-- Vca - Opportunity List --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vca - Social Messaging</masterLabel>
+            <translation><!-- Vca - Social Messaging --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Vca - Special Occasion</masterLabel>
+            <translation><!-- Vca - Special Occasion --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visit In The Boutique</masterLabel>
+            <translation><!-- Visit In The Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visit To Boutique</masterLabel>
+            <translation><!-- Visit To Boutique --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whatsapp Communication</masterLabel>
+            <translation><!-- Whatsapp Communication --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Whatsapp Messages</masterLabel>
+            <translation><!-- Whatsapp Messages --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

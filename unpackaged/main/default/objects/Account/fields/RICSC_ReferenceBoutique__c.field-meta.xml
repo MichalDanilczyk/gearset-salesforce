@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_ReferenceBoutique__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <description>This field is populated with the SF ID correspondent to the respective SAP boutique coming from SAP as a consequence of a calculation</description>
+        <externalId>false</externalId>
+        <label>Reference Boutique</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>Accounts (Reference Boutique)</relationshipLabel>
+        <relationshipName>Accounts1</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>true</trackHistory>
+        <type>Lookup</type>
+    </CustomField>

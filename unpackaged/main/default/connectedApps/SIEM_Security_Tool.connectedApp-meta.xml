@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>lisanti.piergiorgio@richemont.com</contactEmail>
+    <label>SIEM Security Tool</label>
+    <oauthConfig>
+        <callbackUrl>https://invalid.invalid.inv</callbackUrl>
+        
+        <scopes>Api</scopes>
+    </oauthConfig>
+</ConnectedApp>

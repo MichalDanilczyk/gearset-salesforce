@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_CountryofOrigin__c</fullName>
+        <description>Picklist to capture the client's country of origin</description>
+        <externalId>false</externalId>
+        <label>Country of Origin</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>RICSC_Country</valueSetName>
+        </valueSet>
+    </CustomField>

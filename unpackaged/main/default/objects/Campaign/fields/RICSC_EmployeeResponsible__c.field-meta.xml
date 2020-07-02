@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_EmployeeResponsible__c</fullName>
+        <description>Employee who is responsible for the campaign</description>
+        <externalId>false</externalId>
+        <label>Employee Responsible</label>
+        <length>80</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </CustomField>

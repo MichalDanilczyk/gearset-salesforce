@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_VanCleefAndArpels</fullName>
+        <active>true</active>
+        <compactLayoutAssignment>RICSC_VCACRMManagerCompactLayout</compactLayoutAssignment>
+        <label>Van Cleef &amp; Arpels</label>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </RecordType>

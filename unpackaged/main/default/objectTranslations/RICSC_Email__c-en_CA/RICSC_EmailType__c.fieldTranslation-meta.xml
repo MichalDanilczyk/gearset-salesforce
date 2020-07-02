@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Email Type --></label>
+        <name>RICSC_EmailType__c</name>
+        <picklistValues>
+            <masterLabel>Business</masterLabel>
+            <translation><!-- Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email Mr</masterLabel>
+            <translation><!-- Email Mr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email Mrs</masterLabel>
+            <translation><!-- Email Mrs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email Partner</masterLabel>
+            <translation><!-- Email Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email web</masterLabel>
+            <translation><!-- Email web --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Invalid Email</masterLabel>
+            <translation><!-- Invalid Email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobile</masterLabel>
+            <translation><!-- Mobile --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal</masterLabel>
+            <translation><!-- Personal --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

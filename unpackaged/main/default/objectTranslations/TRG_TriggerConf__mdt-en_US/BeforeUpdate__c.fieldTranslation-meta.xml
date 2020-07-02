@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- BeforeUpdate Event --></help>
+        <label><!-- BeforeUpdate --></label>
+        <name>BeforeUpdate__c</name>
+    </CustomFieldTranslation>

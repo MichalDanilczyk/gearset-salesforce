@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Age__c</fullName>
+        <description>Calculate age based on the date of birth (e.g. 12th May 1988 as of 14th Aug 2019 should be 31)</description>
+        <externalId>false</externalId>
+        <formula>IF(  AND(NOT( ISBLANK( PersonBirthdate )), Date(1920,12,31) &lt; PersonBirthdate),
+  IF( DATE( 2000 , MONTH( PersonBirthdate ) , DAY( PersonBirthdate ) ) &lt;= DATE( 2000 , MONTH( TODAY() ) , DAY( TODAY() ) ),
+     YEAR (Today()) - YEAR ( PersonBirthdate ),
+     YEAR (Today()) - YEAR ( PersonBirthdate ) -1 ),
+  null)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Age</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </CustomField>

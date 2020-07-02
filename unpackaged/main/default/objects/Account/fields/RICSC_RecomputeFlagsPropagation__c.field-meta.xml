@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_RecomputeFlagsPropagation__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Checkbox to indicate whether there is a pending job to recompute VIP, HJ, COO flags on the account's related objects</description>
+        <externalId>false</externalId>
+        <label>Recompute Flags Propagation</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </CustomField>

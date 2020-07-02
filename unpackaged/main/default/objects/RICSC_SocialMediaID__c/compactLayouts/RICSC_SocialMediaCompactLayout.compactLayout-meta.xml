@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_SocialMediaCompactLayout</fullName>
+        <fields>Name</fields>
+        <fields>RICSC_SocialMediaType__c</fields>
+        <fields>RICSC_WechatOpenID__c</fields>
+        <fields>RICSC_WechatUnionID__c</fields>
+        <fields>RICSC_Account__c</fields>
+        <label>Social Media Compact Layout</label>
+    </CompactLayout>

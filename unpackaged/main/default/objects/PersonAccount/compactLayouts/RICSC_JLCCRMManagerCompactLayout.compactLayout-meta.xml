@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_JLCCRMManagerCompactLayout</fullName>
+        <fields>Name</fields>
+        <fields>RICSC_ReferenceSA__c</fields>
+        <fields>RICSC_ReferenceBoutique__c</fields>
+        <fields>RICSC_ReferenceRegionMarket__c</fields>
+        <fields>RICSC_GlobalSegment__c</fields>
+        <fields>RICSC_VIP__c</fields>
+        <fields>RICSC_CanBeContacted__c</fields>
+        <label>JLCCRM Manager Compact Layout</label>
+    </CompactLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_PhoneType__c</fullName>
+        <description>Picklist field to capture the type of phone number</description>
+        <externalId>false</externalId>
+        <label>Phone Type</label>
+        <required>false</required>
+        <trackHistory>true</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>Business Mr</fullName>
+                    <default>false</default>
+                    <label>Business Mr</label>
+                </value>
+                <value>
+                    <fullName>Business Ms</fullName>
+                    <default>false</default>
+                    <label>Business Ms</label>
+                </value>
+                <value>
+                    <fullName>Invalid Phone</fullName>
+                    <default>false</default>
+                    <label>Invalid Phone</label>
+                </value>
+                <value>
+                    <fullName>Ivalid Phone</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Ivalid Phone</label>
+                </value>
+                <value>
+                    <fullName>Mobile</fullName>
+                    <default>false</default>
+                    <label>Mobile</label>
+                </value>
+                <value>
+                    <fullName>Mobile Partner</fullName>
+                    <default>false</default>
+                    <label>Mobile Partner</label>
+                </value>
+                <value>
+                    <fullName>Other</fullName>
+                    <default>false</default>
+                    <label>Other</label>
+                </value>
+                <value>
+                    <fullName>Residency</fullName>
+                    <default>false</default>
+                    <label>Residency</label>
+                </value>
+                <value>
+                    <fullName>Secondary</fullName>
+                    <default>false</default>
+                    <label>Secondary</label>
+                </value>
+                <value>
+                    <fullName>Unknown</fullName>
+                    <default>false</default>
+                    <label>Unknown</label>
+                </value>
+                <value>
+                    <fullName>Web</fullName>
+                    <default>false</default>
+                    <label>Web</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>

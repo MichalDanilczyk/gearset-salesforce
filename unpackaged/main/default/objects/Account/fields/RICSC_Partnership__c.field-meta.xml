@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>RICSC_Partnership__c</fullName>
+        <description>Field to capture the name of the partnerstore</description>
+        <externalId>false</externalId>
+        <label>Partnership</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>true</sorted>
+                <value>
+                    <fullName>P55</fullName>
+                    <default>false</default>
+                    <label>7SECONDS</label>
+                </value>
+                <value>
+                    <fullName>P56</fullName>
+                    <default>false</default>
+                    <label>8SECONDS</label>
+                </value>
+                <value>
+                    <fullName>P51</fullName>
+                    <default>false</default>
+                    <label>Altiplano Contest</label>
+                </value>
+                <value>
+                    <fullName>P1</fullName>
+                    <default>false</default>
+                    <label>American Express 09</label>
+                </value>
+                <value>
+                    <fullName>P17</fullName>
+                    <default>false</default>
+                    <label>Art Basel 2010</label>
+                </value>
+                <value>
+                    <fullName>P44</fullName>
+                    <default>false</default>
+                    <label>Art Basel 2011</label>
+                </value>
+                <value>
+                    <fullName>P13</fullName>
+                    <default>false</default>
+                    <label>Asia Society 09</label>
+                </value>
+                <value>
+                    <fullName>P19</fullName>
+                    <default>false</default>
+                    <label>Biennale 2010</label>
+                </value>
+                <value>
+                    <fullName>P37</fullName>
+                    <default>false</default>
+                    <label>Black Amex</label>
+                </value>
+                <value>
+                    <fullName>P14</fullName>
+                    <default>false</default>
+                    <label>Bridal</label>
+                </value>
+                <value>
+                    <fullName>P43</fullName>
+                    <default>false</default>
+                    <label>Bridal Night</label>
+                </value>
+                <value>
+                    <fullName>P15</fullName>
+                    <default>false</default>
+                    <label>Bridal Prospect</label>
+                </value>
+                <value>
+                    <fullName>P3</fullName>
+                    <default>false</default>
+                    <label>Catalyst 09</label>
+                </value>
+                <value>
+                    <fullName>P36</fullName>
+                    <default>false</default>
+                    <label>Charity sale</label>
+                </value>
+                <value>
+                    <fullName>P40</fullName>
+                    <default>false</default>
+                    <label>CNY Event East West Bank</label>
+                </value>
+                <value>
+                    <fullName>P35</fullName>
+                    <default>false</default>
+                    <label>Conde Nast Traveler</label>
+                </value>
+                <value>
+                    <fullName>P6</fullName>
+                    <default>false</default>
+                    <label>Costume Institute of NY 09</label>
+                </value>
+                <value>
+                    <fullName>P59</fullName>
+                    <default>false</default>
+                    <label>Customer Card in watch box</label>
+                </value>
+                <value>
+                    <fullName>P54</fullName>
+                    <default>false</default>
+                    <label>DAYS</label>
+                </value>
+                <value>
+                    <fullName>P66</fullName>
+                    <default>false</default>
+                    <label>Dazzle Ptf37 FY16</label>
+                </value>
+                <value>
+                    <fullName>P61</fullName>
+                    <default>false</default>
+                    <label>DM F1 FY14</label>
+                </value>
+                <value>
+                    <fullName>P39</fullName>
+                    <default>false</default>
+                    <label>Forbes</label>
+                </value>
+                <value>
+                    <fullName>P31</fullName>
+                    <default>false</default>
+                    <label>Four Season's</label>
+                </value>
+                <value>
+                    <fullName>P68</fullName>
+                    <default>false</default>
+                    <label>FR_My Little Paris</label>
+                </value>
+                <value>
+                    <fullName>P62</fullName>
+                    <default>false</default>
+                    <label>GQ F1 FY15</label>
+                </value>
+                <value>
+                    <fullName>P10</fullName>
+                    <default>false</default>
+                    <label>Harper's Bazaar 09</label>
+                </value>
+                <value>
+                    <fullName>P52</fullName>
+                    <default>false</default>
+                    <label>HiFu</label>
+                </value>
+                <value>
+                    <fullName>P28</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Aria</label>
+                </value>
+                <value>
+                    <fullName>P22</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Bellagio</label>
+                </value>
+                <value>
+                    <fullName>P23</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Caesars Palace</label>
+                </value>
+                <value>
+                    <fullName>P25</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Cosmopolitan</label>
+                </value>
+                <value>
+                    <fullName>P21</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Encore</label>
+                </value>
+                <value>
+                    <fullName>P29</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Mandarin Oriental</label>
+                </value>
+                <value>
+                    <fullName>P30</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-MGM Grand</label>
+                </value>
+                <value>
+                    <fullName>P26</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Palazzo</label>
+                </value>
+                <value>
+                    <fullName>P27</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Vdara</label>
+                </value>
+                <value>
+                    <fullName>P24</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Venetian</label>
+                </value>
+                <value>
+                    <fullName>P20</fullName>
+                    <default>false</default>
+                    <label>Las Vegas-Wynn</label>
+                </value>
+                <value>
+                    <fullName>P60</fullName>
+                    <default>false</default>
+                    <label>Leon F1 FY14</label>
+                </value>
+                <value>
+                    <fullName>P4</fullName>
+                    <default>false</default>
+                    <label>March of Dimes 09</label>
+                </value>
+                <value>
+                    <fullName>P16</fullName>
+                    <default>false</default>
+                    <label>Martha Stewart Magazine</label>
+                </value>
+                <value>
+                    <fullName>P72</fullName>
+                    <default>false</default>
+                    <label>Mike Lima 2018</label>
+                </value>
+                <value>
+                    <fullName>P7</fullName>
+                    <default>false</default>
+                    <label>NBA 09</label>
+                </value>
+                <value>
+                    <fullName>P5</fullName>
+                    <default>false</default>
+                    <label>NY Botanical Gardens 09</label>
+                </value>
+                <value>
+                    <fullName>P57</fullName>
+                    <default>false</default>
+                    <label>OLD</label>
+                </value>
+                <value>
+                    <fullName>P63</fullName>
+                    <default>false</default>
+                    <label>Open Galapagos FY15</label>
+                </value>
+                <value>
+                    <fullName>P48</fullName>
+                    <default>false</default>
+                    <label>Other influencer</label>
+                </value>
+                <value>
+                    <fullName>P70</fullName>
+                    <default>false</default>
+                    <label>Partnership Lamborghini</label>
+                </value>
+                <value>
+                    <fullName>P69</fullName>
+                    <default>false</default>
+                    <label>Partnership Pirelli</label>
+                </value>
+                <value>
+                    <fullName>P34</fullName>
+                    <default>false</default>
+                    <label>Patty Pao</label>
+                </value>
+                <value>
+                    <fullName>P38</fullName>
+                    <default>false</default>
+                    <label>Platinum Amex</label>
+                </value>
+                <value>
+                    <fullName>P33</fullName>
+                    <default>false</default>
+                    <label>Ritz Carlton</label>
+                </value>
+                <value>
+                    <fullName>P12</fullName>
+                    <default>false</default>
+                    <label>Rolls Royce 09</label>
+                </value>
+                <value>
+                    <fullName>P8</fullName>
+                    <default>false</default>
+                    <label>Russian American Foundation 09</label>
+                </value>
+                <value>
+                    <fullName>P67</fullName>
+                    <default>false</default>
+                    <label>Salesforce</label>
+                </value>
+                <value>
+                    <fullName>P2</fullName>
+                    <default>false</default>
+                    <label>Service Nation 09</label>
+                </value>
+                <value>
+                    <fullName>P50</fullName>
+                    <default>false</default>
+                    <label>Shape Your Time</label>
+                </value>
+                <value>
+                    <fullName>P65</fullName>
+                    <default>false</default>
+                    <label>Signature CDF FY15</label>
+                </value>
+                <value>
+                    <fullName>P45</fullName>
+                    <default>false</default>
+                    <label>Social/Influencer</label>
+                </value>
+                <value>
+                    <fullName>P58</fullName>
+                    <default>false</default>
+                    <label>SPARKLES</label>
+                </value>
+                <value>
+                    <fullName>P32</fullName>
+                    <default>false</default>
+                    <label>The Peninsula</label>
+                </value>
+                <value>
+                    <fullName>P41</fullName>
+                    <default>false</default>
+                    <label>Time Crafters</label>
+                </value>
+                <value>
+                    <fullName>P49</fullName>
+                    <default>false</default>
+                    <label>Tour guides</label>
+                </value>
+                <value>
+                    <fullName>P64</fullName>
+                    <default>false</default>
+                    <label>Values Galapagos FY15</label>
+                </value>
+                <value>
+                    <fullName>P9</fullName>
+                    <default>false</default>
+                    <label>Vanity Fair 09</label>
+                </value>
+                <value>
+                    <fullName>P46</fullName>
+                    <default>false</default>
+                    <label>VIP Prospect</label>
+                </value>
+                <value>
+                    <fullName>P53</fullName>
+                    <default>false</default>
+                    <label>Vogue FR</label>
+                </value>
+                <value>
+                    <fullName>P42</fullName>
+                    <default>false</default>
+                    <label>Watch Time</label>
+                </value>
+                <value>
+                    <fullName>P11</fullName>
+                    <default>false</default>
+                    <label>Watch Time 09</label>
+                </value>
+                <value>
+                    <fullName>P18</fullName>
+                    <default>false</default>
+                    <label>Wealth Engine</label>
+                </value>
+                <value>
+                    <fullName>P47</fullName>
+                    <default>false</default>
+                    <label>Wholesale dealer</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </CustomField>
